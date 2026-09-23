@@ -1,0 +1,1741 @@
+﻿asset_file,json_pointer,item_id,field,source_en,target_ar
+Animals__12009.txt,$/0/name,animal_chicken_chick_female,name,Chick,كتكوت
+Animals__12009.txt,$/0/desc,animal_chicken_chick_female,desc,A female baby chicken,فرخ دجاجة صغير
+Animals__12009.txt,$/1/name,animal_chicken_chick_male,name,Chick,كتكوت
+Animals__12009.txt,$/1/desc,animal_chicken_chick_male,desc,A male baby chicken,فرخ ديك صغير
+Animals__12009.txt,$/2/name,animal_chicken_rooster_male_red,name,Red Rooster,ديك أحمر
+Animals__12009.txt,$/2/desc,animal_chicken_rooster_male_red,desc,A male chicken with a crow. They protect the flock and fertilize eggs.,ديك يحمي القطيع ويساعد على تخصيب البيض.
+Animals__12009.txt,$/3/name,animal_chicken_rooster_male_white,name,White Rooster,ديك أبيض
+Animals__12009.txt,$/3/desc,animal_chicken_rooster_male_white,desc,A male chicken with a crow. They protect the flock and fertilize eggs.,ديك يحمي القطيع ويساعد على تخصيب البيض.
+Animals__12009.txt,$/4/name,animal_chicken_rooster_male_multiclr,name,Rainbow Rooster,ديك متعدد الألوان
+Animals__12009.txt,$/4/desc,animal_chicken_rooster_male_multiclr,desc,A male chicken with a crow. They protect the flock and fertilize eggs.,ديك يحمي القطيع ويساعد على تخصيب البيض.
+Animals__12009.txt,$/5/name,animal_chicken_brown_female,name,Brown Chicken,دجاجة بنية
+Animals__12009.txt,$/5/desc,animal_chicken_brown_female,desc,"A domesticated bird kept for its eggs, meat, or feathers.",طائر أليف يُربّى من أجل البيض أو اللحم أو الريش.
+Animals__12009.txt,$/6/name,animal_chicken_black_female,name,Black Chicken,دجاجة سوداء
+Animals__12009.txt,$/6/desc,animal_chicken_black_female,desc,"A domesticated bird kept for its eggs, meat, or feathers.",طائر أليف يُربّى من أجل البيض أو اللحم أو الريش.
+Animals__12009.txt,$/7/name,animal_chicken_white_female,name,White Chicken,دجاجة بيضاء
+Animals__12009.txt,$/7/desc,animal_chicken_white_female,desc,"A domesticated bird kept for its eggs, meat, or feathers.",طائر أليف يُربّى من أجل البيض أو اللحم أو الريش.
+Animals__12009.txt,$/8/name,animal_cow_black_male,name,Bretonne Pie Noire - BULL,ثور من سلالة بريتون بيان نوار
+Animals__12009.txt,$/8/desc,animal_cow_black_male,desc,Is a breed of small dairy cattle from Brittany in north-western France.,سلالة أبقار حلوب صغيرة من بريتاني في شمال غرب فرنسا.
+Animals__12009.txt,$/9/name,animal_cow_black_female,name,Bretonne Pie Noire - COW,بقرة من سلالة بريتون بيان نوار
+Animals__12009.txt,$/9/desc,animal_cow_black_female,desc,Is breed of small dairy cattle from France. Very known for its reasonabe meat and dairy production.,سلالة أبقار فرنسية صغيرة تشتهر بإنتاجها الجيد من اللحوم والألبان.
+Animals__12009.txt,$/10/name,animal_cow_brown_male,name,Maine-Anjou - BULL,ثور من سلالة مين أنجو
+Animals__12009.txt,$/10/desc,animal_cow_brown_male,desc,"Is a breed of beef cattle from France that is known for producing high-quality, flavorful beef.",سلالة أبقار لحم فرنسية تشتهر بلحمها عالي الجودة والغني بالنكهة.
+Animals__12009.txt,$/11/name,animal_cow_brown_female,name,Maine-Anjou - COW,بقرة من سلالة مين أنجو
+Animals__12009.txt,$/11/desc,animal_cow_brown_female,desc,"Is a breed of beef cattle from France that is known for producing high-quality, flavorful beef.",سلالة أبقار لحم فرنسية تشتهر بلحمها عالي الجودة والغني بالنكهة.
+Animals__12009.txt,$/12/name,animal_cow_brown_super_female_brown,name,Angeln - COW,بقرة أنجلن
+Animals__12009.txt,$/12/desc,animal_cow_brown_super_female_brown,desc,Is a breed of cattle originally from Germany. They are noted for the high milkfat level of their milk.,سلالة أبقار ألمانية تشتهر بارتفاع نسبة الدهون في حليبها.
+Animals__12009.txt,$/13/name,animal_cow_brown_super_female_tache,name,Deutsche Rotbunte - COW,بقرة من سلالة دويتشه روتبونته
+Animals__12009.txt,$/13/desc,animal_cow_brown_super_female_tache,desc,"Is a breed of cattle from Germany. They are noted for their efficiency, rapid growth and the quality of their milk.",سلالة أبقار ألمانية تتميز بكفاءتها وسرعة نموها وجودة حليبها.
+Animals__12009.txt,$/14/name,animal_cow_brown_super_female_white,name,Gascon - COW,بقرة غاسكون
+Animals__12009.txt,$/14/desc,animal_cow_brown_super_female_white,desc,"Is a breed of beef cattle from France known for their efficiency and high-quality, well-marbled and tender beef.",سلالة أبقار لحم فرنسية معروفة بكفاءتها ولحمها الطري عالي الجودة والغني بالتعريقات الدهنية.
+Animals__12009.txt,$/15/name,animal_ram_male,name,Ram,كبش
+Animals__12009.txt,$/15/desc,animal_ram_male,desc,"Is a male sheep with large, curved horns. They are sometimes used for meat production.",ذكر الخروف، وله قرون كبيرة منحنية. ويُربّى أحيانًا لإنتاج اللحم.
+Animals__12009.txt,$/16/name,animal_sheep_female,name,Sheep,نعجة
+Animals__12009.txt,$/16/desc,animal_sheep_female,desc,"A female sheep is called a ewe. Ewes are used for breeding and producing milk, wool, and sometimes meat.",أنثى الخروف، وتُربّى للتكاثر وإنتاج الحليب والصوف وأحيانًا اللحم.
+Animals__12009.txt,$/17/name,animal_goat_white_male,name,Buck,تيس
+Animals__12009.txt,$/17/desc,animal_goat_white_male,desc,A male goat. Often kept for breeding purposes or as a source of meat.,ذكر الماعز، ويُربّى غالبًا للتكاثر أو لإنتاج اللحم.
+Animals__12009.txt,$/18/name,animal_goat_white_female,name,Goat Doe,عنزة
+Animals__12009.txt,$/18/desc,animal_goat_white_female,desc,"A female goat. Often kept for its milk, which is used to make cheese and other dairy products.",أنثى الماعز، وتُربّى غالبًا لإنتاج الحليب المستخدم في صنع الجبن ومشتقات الألبان.
+Animals__12009.txt,$/19/name,animal_goat_white_baby_female,name,Goat Doeling,جَفرة
+Animals__12009.txt,$/19/desc,animal_goat_white_baby_female,desc,A baby female goat.,أنثى ماعز صغيرة.
+Animals__12009.txt,$/20/name,animal_goat_white_baby_male,name,Buckling,جدي
+Animals__12009.txt,$/20/desc,animal_goat_white_baby_male,desc,A baby male goat.,ذكر ماعز صغير.
+Animals__12009.txt,$/21/name,animal_cow_black_baby_female,name,Bretonne Pie Noire - Heifer,عِجلة من سلالة بريتون بيان نوار
+Animals__12009.txt,$/21/desc,animal_cow_black_baby_female,desc,A baby female cow.,أنثى بقرة صغيرة.
+Animals__12009.txt,$/22/name,animal_cow_black_baby_male,name,Bretonne Pie Noire - Bull Calf,عجل من سلالة بريتون بيان نوار
+Animals__12009.txt,$/22/desc,animal_cow_black_baby_male,desc,A baby male cow.,ذكر بقرة صغير.
+Animals__12009.txt,$/23/name,animal_cow_brown_baby_female,name,Maine-Anjou - Heifer,عِجلة من سلالة مين أنجو
+Animals__12009.txt,$/23/desc,animal_cow_brown_baby_female,desc,A baby female cow.,أنثى بقرة صغيرة.
+Animals__12009.txt,$/24/name,animal_cow_brown_baby_male,name,Maine-Anjou - Bull Calf,عجل من سلالة مين أنجو
+Animals__12009.txt,$/24/desc,animal_cow_brown_baby_male,desc,A baby male cow.,ذكر بقرة صغير.
+Animals__12009.txt,$/25/name,animal_rabit_female,name,Rabbit Doe,أرنبة
+Animals__12009.txt,$/25/desc,animal_rabit_female,desc,A rabbit female.,أنثى أرنب.
+Animals__12009.txt,$/26/name,animal_rabit_male,name,Rabbit Buck,أرنب
+Animals__12009.txt,$/26/desc,animal_rabit_male,desc,A rabbit male.,ذكر أرنب.
+Birds__12061.txt,$/0/name,Flocking_Bird_Butterfly_Easter_Tailed_Blue,name,Eastern Tailed Blue,فراشة زرقاء شرقية الذيل
+Birds__12061.txt,$/0/desc,Flocking_Bird_Butterfly_Easter_Tailed_Blue,desc,Eastern Tailed Blue,فراشة زرقاء شرقية الذيل
+Birds__12061.txt,$/1/name,Flocking_Bird_Crow,name,Crow,غراب
+Birds__12061.txt,$/1/desc,Flocking_Bird_Crow,desc,Crow,غراب
+Birds__12061.txt,$/2/name,Flocking_Bird_Parrot_Macaw_RED,name,Macaw Red,ببغاء مكاو أحمر
+Birds__12061.txt,$/2/desc,Flocking_Bird_Parrot_Macaw_RED,desc,Macaw Red,ببغاء مكاو أحمر
+Birds__12061.txt,$/3/name,Flocking_Bird_Pigeon,name,Pigeon,حمامة
+Birds__12061.txt,$/3/desc,Flocking_Bird_Pigeon,desc,Pigeon,حمامة
+Birds__12061.txt,$/4/name,Flocking_Bird_Seagull,name,Seagull,نورس
+Birds__12061.txt,$/4/desc,Flocking_Bird_Seagull,desc,Seagull,نورس
+Birds__12061.txt,$/5/name,Flocking_Bird_Toucan,name,Toucan,طوقان
+Birds__12061.txt,$/5/desc,Flocking_Bird_Toucan,desc,Toucan,طوقان
+Birds__12061.txt,$/6/name,Flocking_Bird_Vulture,name,Vulture,نسر
+Birds__12061.txt,$/6/desc,Flocking_Bird_Vulture,desc,Vulture,نسر
+Birds__12061.txt,$/7/name,Flocking_ButterflyAfricanMonarch,name,African Monarch,فراشة الملك الأفريقي
+Birds__12061.txt,$/7/desc,Flocking_ButterflyAfricanMonarch,desc,African Monarch,فراشة الملك الأفريقي
+Birds__12061.txt,$/8/name,Flocking_Bird_Pigeon_Dove,name,Dove,يمامة
+Birds__12061.txt,$/8/desc,Flocking_Bird_Pigeon_Dove,desc,Dove,يمامة
+Birds__12061.txt,$/9/name,Flocking_Bird_Parrot_Cockatiel,name,Cockatiel,كوكاتيل
+Birds__12061.txt,$/9/desc,Flocking_Bird_Parrot_Cockatiel,desc,Cockatiel,كوكاتيل
+Birds__12061.txt,$/10/name,Flocking_Bird_Parrot_Galah,name,Galah,ببغاء غالا
+Birds__12061.txt,$/10/desc,Flocking_Bird_Parrot_Galah,desc,Galah,ببغاء غالا
+Birds__12061.txt,$/11/name,Flocking_Bird_Parrot_Grey,name,Grey,ببغاء رمادي
+Birds__12061.txt,$/11/desc,Flocking_Bird_Parrot_Grey,desc,Grey,ببغاء رمادي
+Birds__12061.txt,$/12/name,Flocking_Bird_Parrot_Cockatoo,name,Cockatoo,كوكاتو
+Birds__12061.txt,$/12/desc,Flocking_Bird_Parrot_Cockatoo,desc,Cockatoo Parrot,ببغاء كوكاتو
+CC_BackPack__12064.txt,$/0/name,backpack_big_simple,name,BackPack,حقيبة ظهر
+CC_BackPack__12064.txt,$/0/desc,backpack_big_simple,desc,Simple backpack,حقيبة ظهر بسيطة
+CC_BackPack__12064.txt,$/1/name,backpack_heavy,name,BackPack - Big,حقيبة ظهر كبيرة
+CC_BackPack__12064.txt,$/1/desc,backpack_heavy,desc,Store all your stuff without compromoise,خزّن كل أغراضك بسهولة.
+CC_BackPack__12064.txt,$/2/name,backpack_Medium_01,name,BackPack - Medium,حقيبة ظهر متوسطة
+CC_BackPack__12064.txt,$/2/desc,backpack_Medium_01,desc,Store all your stuff without compromoise,خزّن كل أغراضك بسهولة.
+CC_BackPack__12064.txt,$/3/name,backpack_Medium_02,name,BackPack - Medium,حقيبة ظهر متوسطة
+CC_BackPack__12064.txt,$/3/desc,backpack_Medium_02,desc,Store all your stuff without compromoise,خزّن كل أغراضك بسهولة.
+CC_Bread__12059.txt,$/0/name,ChinCurtainSparse_A,name,Chin Curtain Sparse,لحية ستارة الذقن الخفيفة
+CC_Bread__12059.txt,$/0/desc,ChinCurtainSparse_A,desc,Chin Curtain Sparse,لحية ستارة الذقن الخفيفة
+CC_Bread__12059.txt,$/1/name,ChinstrapThick_A,name,Chin Strap Thick,لحية شريط الذقن الكثيفة
+CC_Bread__12059.txt,$/1/desc,ChinstrapThick_A,desc,Chin Strap Thick,لحية شريط الذقن الكثيفة
+CC_Bread__12059.txt,$/2/name,CircleThick_A,name,Circle Thick,لحية دائرية كثيفة
+CC_Bread__12059.txt,$/2/desc,CircleThick_A,desc,Circle Thick,لحية دائرية كثيفة
+CC_Bread__12059.txt,$/3/name,MustacheHorseshoe_A,name,Mustache Horse Shoe,شارب حدوة الحصان
+CC_Bread__12059.txt,$/3/desc,MustacheHorseshoe_A,desc,Mustache Horse Shoe,شارب حدوة الحصان
+CC_Bread__12059.txt,$/4/name,SideburnsNarrow_A,name,Sideburn Narrow,سوالف رفيعة
+CC_Bread__12059.txt,$/4/desc,SideburnsNarrow_A,desc,Sideburn Narrow,سوالف رفيعة
+CC_Bread__12059.txt,$/5/name,SoulPathThick_A,name,Soul Path Thick,لحية سكسوكة كثيفة
+CC_Bread__12059.txt,$/5/desc,SoulPathThick_A,desc,Soul Path Thick,لحية سكسوكة كثيفة
+CC_Bread__12059.txt,$/6/name,VikingBeard_A,name,Viking Beard,لحية الفايكنغ
+CC_Bread__12059.txt,$/6/desc,VikingBeard_A,desc,Viking Beard,لحية الفايكنغ
+CC_Bread__12059.txt,$/7/name,CowboyStyle_A,name,CowBoy Style Beard,لحية على طراز رعاة البقر
+CC_Bread__12059.txt,$/7/desc,CowboyStyle_A,desc,CowBoy Style Beard,لحية على طراز رعاة البقر
+CC_Bread__12059.txt,$/8/name,MVikingStyle_A,name,Viking Style Beard,لحية بطراز الفايكنغ
+CC_Bread__12059.txt,$/8/desc,MVikingStyle_A,desc,Viking Style Beard,لحية بطراز الفايكنغ
+CC_Bread__12059.txt,$/9/name,CountryStyle_A,name,Country Style Beard,لحية ريفية
+CC_Bread__12059.txt,$/9/desc,CountryStyle_A,desc,Country Style Beard,لحية ريفية
+CC_Bread__12059.txt,$/10/name,CircleBeard_A,name,Circle Beard,لحية دائرية
+CC_Bread__12059.txt,$/10/desc,CircleBeard_A,desc,Circle Beard,لحية دائرية
+CC_Bread__12059.txt,$/11/name,GoateeBeard_A,name,Goatee Beard,لحية سكسوكة
+CC_Bread__12059.txt,$/11/desc,GoateeBeard_A,desc,Goatee Beard,لحية سكسوكة
+CC_Bread__12059.txt,$/12/name,MustacheSoulPath_A,name,Mustache And Soul Path Thick,شارب وسكسوكة كثيفان
+CC_Bread__12059.txt,$/12/desc,MustacheSoulPath_A,desc,Mustache And Soul Path Thick,شارب وسكسوكة كثيفان
+CC_Bread__12059.txt,$/13/name,ThickChinCurtain_A,name,Thick Chin Curtain,لحية ستارة الذقن الكثيفة
+CC_Bread__12059.txt,$/13/desc,ThickChinCurtain_A,desc,Thick Chin Curtain,لحية ستارة الذقن الكثيفة
+CC_Bread__12059.txt,$/14/name,HandlebarMustache_A,name,Handlebar Mustache,شارب مفتول الطرفين
+CC_Bread__12059.txt,$/14/desc,HandlebarMustache_A,desc,Handlebar Mustache,شارب مفتول الطرفين
+CC_Cloth_Boots__12045.txt,$/0/name,FlipFlops_A_White,name,Flip Flops Custom,شبشب بتصميم مخصص
+CC_Cloth_Boots__12045.txt,$/0/desc,FlipFlops_A_White,desc,Flip Flops Custom,شبشب بتصميم مخصص
+CC_Cloth_Boots__12045.txt,$/1/name,CanvasShoes_A_White,name,Canvas Shoes Custom,حذاء قماشي بتصميم مخصص
+CC_Cloth_Boots__12045.txt,$/1/desc,CanvasShoes_A_White,desc,Canvas Shoes Custom,حذاء قماشي بتصميم مخصص
+CC_Cloth_Boots__12045.txt,$/2/name,CanvasShoes_A_WhiteBlue,name,Canvas Shoes White Blue Striped,حذاء قماشي مخطط بالأبيض والأزرق
+CC_Cloth_Boots__12045.txt,$/2/desc,CanvasShoes_A_WhiteBlue,desc,Canvas Shoes White Blue Striped,حذاء قماشي مخطط بالأبيض والأزرق
+CC_Cloth_Boots__12045.txt,$/3/name,CanvasShoes_A_BlueRayed,name,Canvas Shoes  Blue Rayed,حذاء قماشي أزرق بخطوط
+CC_Cloth_Boots__12045.txt,$/3/desc,CanvasShoes_A_BlueRayed,desc,Canvas Shoes  Blue Rayed,حذاء قماشي أزرق بخطوط
+CC_Cloth_Boots__12045.txt,$/4/name,CanvasShoes_A_PinkRayed,name,Canvas Shoes  Pink Rayed,حذاء قماشي وردي بخطوط
+CC_Cloth_Boots__12045.txt,$/4/desc,CanvasShoes_A_PinkRayed,desc,Canvas Shoes  Pink Rayed,حذاء قماشي وردي بخطوط
+CC_Cloth_Boots__12045.txt,$/5/name,Sneakers_A_WhiteBlack,name,Sneakers Custom,حذاء رياضي بتصميم مخصص
+CC_Cloth_Boots__12045.txt,$/5/desc,Sneakers_A_WhiteBlack,desc,Sneakers Custom,حذاء رياضي بتصميم مخصص
+CC_Cloth_Boots__12045.txt,$/6/name,Sneakers_A_Grey,name,Sneakers Grey,حذاء رياضي رمادي
+CC_Cloth_Boots__12045.txt,$/6/desc,Sneakers_A_Grey,desc,Sneakers Grey,حذاء رياضي رمادي
+CC_Cloth_Boots__12045.txt,$/7/name,Sneakers_A_Blue,name,Sneakers Blue,حذاء رياضي أزرق
+CC_Cloth_Boots__12045.txt,$/7/desc,Sneakers_A_Blue,desc,Sneakers Blue,حذاء رياضي أزرق
+CC_Cloth_Boots__12045.txt,$/8/name,Sneakers_A_BlueGreen,name,Sneakers Blue Green,حذاء رياضي أزرق وأخضر
+CC_Cloth_Boots__12045.txt,$/8/desc,Sneakers_A_BlueGreen,desc,Sneakers Blue Green,حذاء رياضي أزرق وأخضر
+CC_Cloth_Boots__12045.txt,$/9/name,Sneakers_A_GreyGold,name,Sneakers Grey Gold,حذاء رياضي رمادي وذهبي
+CC_Cloth_Boots__12045.txt,$/9/desc,Sneakers_A_GreyGold,desc,Sneakers Grey Gold,حذاء رياضي رمادي وذهبي
+CC_Cloth_Boots__12045.txt,$/10/name,Sneakers_A_GreyWhite,name,Sneakers Grey White,حذاء رياضي رمادي وأبيض
+CC_Cloth_Boots__12045.txt,$/10/desc,Sneakers_A_GreyWhite,desc,Sneakers Grey White,حذاء رياضي رمادي وأبيض
+CC_Cloth_Boots__12045.txt,$/11/name,SoccerShoes_A_White,name,Soccer Shoes Custom,حذاء كرة قدم بتصميم مخصص
+CC_Cloth_Boots__12045.txt,$/11/desc,SoccerShoes_A_White,desc,Soccer Shoes Custom,حذاء كرة قدم بتصميم مخصص
+CC_Cloth_Boots__12045.txt,$/12/name,SoccerShoes_A_Brown,name,Soccer Shoes Brown,حذاء كرة قدم بني
+CC_Cloth_Boots__12045.txt,$/12/desc,SoccerShoes_A_Brown,desc,Soccer Shoes Brown,حذاء كرة قدم بني
+CC_Cloth_Boots__12045.txt,$/13/name,SoccerShoes_A_RedBlue,name,Soccer Shoes Red Blue,حذاء كرة قدم أحمر وأزرق
+CC_Cloth_Boots__12045.txt,$/13/desc,SoccerShoes_A_RedBlue,desc,Soccer Shoes Red Blue,حذاء كرة قدم أحمر وأزرق
+CC_Cloth_Boots__12045.txt,$/14/name,SoccerShoes_A_Tricolor,name,Soccer Shoes White Blue Gold,حذاء كرة قدم أبيض وأزرق وذهبي
+CC_Cloth_Boots__12045.txt,$/14/desc,SoccerShoes_A_Tricolor,desc,Soccer Shoes White Blue Gold,حذاء كرة قدم أبيض وأزرق وذهبي
+CC_Cloth_Boots__12045.txt,$/15/name,BasketBall_A_White,name,Basketball Shoes White,حذاء كرة سلة أبيض
+CC_Cloth_Boots__12045.txt,$/15/desc,BasketBall_A_White,desc,Basketball Shoes White,حذاء كرة سلة أبيض
+CC_Cloth_Boots__12045.txt,$/16/name,BasketBall_A_Brown,name,Basketball Shoes Brown,حذاء كرة سلة بني
+CC_Cloth_Boots__12045.txt,$/16/desc,BasketBall_A_Brown,desc,Basketball Shoes Brown,حذاء كرة سلة بني
+CC_Cloth_Boots__12045.txt,$/17/name,BasketBall_A_BlackRed,name,Basketball Shoes Black Red ,حذاء كرة سلة أسود وأحمر
+CC_Cloth_Boots__12045.txt,$/17/desc,BasketBall_A_BlackRed,desc,Basketball Shoes Black Red ,حذاء كرة سلة أسود وأحمر
+CC_Cloth_Boots__12045.txt,$/18/name,BasketBall_A_BlueGrey,name,Basketball Shoes Blue Grey ,حذاء كرة سلة أزرق ورمادي
+CC_Cloth_Boots__12045.txt,$/18/desc,BasketBall_A_BlueGrey,desc,Basketball Shoes Blue Grey ,حذاء كرة سلة أزرق ورمادي
+CC_Cloth_Boots__12045.txt,$/19/name,Boots_A_White,name,White Boots,حذاء طويل أبيض
+CC_Cloth_Boots__12045.txt,$/19/desc,Boots_A_White,desc,White Boots,حذاء طويل أبيض
+CC_Cloth_Boots__12045.txt,$/20/name,Boots_A_Brown,name,Brown Boots,حذاء طويل بني
+CC_Cloth_Boots__12045.txt,$/20/desc,Boots_A_Brown,desc,Brown Boots,حذاء طويل بني
+CC_Cloth_Boots__12045.txt,$/21/name,Boots_A_BlackRed,name,Black Red Boots,حذاء طويل أسود وأحمر
+CC_Cloth_Boots__12045.txt,$/21/desc,Boots_A_BlackRed,desc,Black Red Boots,حذاء طويل أسود وأحمر
+CC_Cloth_Boots__12045.txt,$/22/name,Boots_A_BlackBlue,name,Black Blue Boots,حذاء طويل أسود وأزرق
+CC_Cloth_Boots__12045.txt,$/22/desc,Boots_A_BlackBlue,desc,Black Blue Boots,حذاء طويل أسود وأزرق
+CC_Cloth_Boots__12045.txt,$/23/name,CowboyBoots_A_White,name,CowBoy Boots Custom,حذاء رعاة بقر بتصميم مخصص
+CC_Cloth_Boots__12045.txt,$/23/desc,CowboyBoots_A_White,desc,CowBoy Boots Custom,حذاء رعاة بقر بتصميم مخصص
+CC_Cloth_Boots__12045.txt,$/24/name,CowboyBoots_A_Brown,name,CowBoy Boots Brown,حذاء رعاة بقر بني
+CC_Cloth_Boots__12045.txt,$/24/desc,CowboyBoots_A_Brown,desc,CowBoy Boots Brown,حذاء رعاة بقر بني
+CC_Cloth_Boots__12045.txt,$/25/name,CowboyBoots_A_Grey,name,CowBoy Boots Grey,حذاء رعاة بقر رمادي
+CC_Cloth_Boots__12045.txt,$/25/desc,CowboyBoots_A_Grey,desc,CowBoy Boots Grey,حذاء رعاة بقر رمادي
+CC_Cloth_Boots__12045.txt,$/26/name,Mocassin_A_White,name,Mocassin Custom,حذاء موكاسين بتصميم مخصص
+CC_Cloth_Boots__12045.txt,$/26/desc,Mocassin_A_White,desc,Mocassin Custom,حذاء موكاسين بتصميم مخصص
+CC_Cloth_Boots__12045.txt,$/27/name,Mocassin_A_Tricolor,name,Mocassin Tricolor,حذاء موكاسين ثلاثي الألوان
+CC_Cloth_Boots__12045.txt,$/27/desc,Mocassin_A_Tricolor,desc,Mocassin Trocolor,حذاء موكاسين ثلاثي الألوان
+CC_Cloth_Boots__12045.txt,$/28/name,Mocassin_A_BlueWhite,name,Mocassin Blue White,حذاء موكاسين أزرق وأبيض
+CC_Cloth_Boots__12045.txt,$/28/desc,Mocassin_A_BlueWhite,desc,Mocassin Blue White,حذاء موكاسين أزرق وأبيض
+CC_Cloth_Boots__12045.txt,$/29/name,LeatherShoes_A_White,name,Leather Shoes Custom,حذاء جلدي بتصميم مخصص
+CC_Cloth_Boots__12045.txt,$/29/desc,LeatherShoes_A_White,desc,Leather Shoes Custom,حذاء جلدي بتصميم مخصص
+CC_Cloth_Boots__12045.txt,$/30/name,LeatherShoes_A_Brown,name,Leather Shoes Brown,حذاء جلدي بني
+CC_Cloth_Boots__12045.txt,$/30/desc,LeatherShoes_A_Brown,desc,Leather Shoes Brown,حذاء جلدي بني
+CC_Cloth_Boots__12045.txt,$/31/name,LeatherShoes_A_RedWhite,name,Leather Shoes Red White,حذاء جلدي أحمر وأبيض
+CC_Cloth_Boots__12045.txt,$/31/desc,LeatherShoes_A_RedWhite,desc,Leather Shoes Red White,حذاء جلدي أحمر وأبيض
+CC_Cloth_BTM__11986.txt,$/0/name,Trunks_A_Blue,name,Beach Short Blue,شورت شاطئ أزرق
+CC_Cloth_BTM__11986.txt,$/0/desc,Trunks_A_Blue,desc,Beach Short Blue,شورت شاطئ أزرق
+CC_Cloth_BTM__11986.txt,$/1/name,Trunks_A_Brown,name,Beach Short Brown,شورت شاطئ بني
+CC_Cloth_BTM__11986.txt,$/1/desc,Trunks_A_Brown,desc,Beach Short Brown,شورت شاطئ بني
+CC_Cloth_BTM__11986.txt,$/2/name,Shorts_A_White,name,Classic Short Custom,شورت كلاسيكي بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/2/desc,Shorts_A_White,desc,Classic Short Custom,شورت كلاسيكي بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/3/name,Shorts_A_Beige,name,Classic Short Beige,شورت كلاسيكي بيج
+CC_Cloth_BTM__11986.txt,$/3/desc,Shorts_A_Beige,desc,Classic Short Beige,شورت كلاسيكي بيج
+CC_Cloth_BTM__11986.txt,$/4/name,Shorts_A_BlackGreen,name,Classic Short Black Green,شورت كلاسيكي أسود وأخضر
+CC_Cloth_BTM__11986.txt,$/4/desc,Shorts_A_BlackGreen,desc,Classic Short Black Green,شورت كلاسيكي أسود وأخضر
+CC_Cloth_BTM__11986.txt,$/5/name,Shorts_A_WhiteStripedBlue,name,Classic White Striped Blue,شورت كلاسيكي أبيض مخطط بالأزرق
+CC_Cloth_BTM__11986.txt,$/5/desc,Shorts_A_WhiteStripedBlue,desc,Classic White Striped Blue,شورت كلاسيكي أبيض مخطط بالأزرق
+CC_Cloth_BTM__11986.txt,$/6/name,Shorts_A_Flower,name,Classic Short Flowers,شورت كلاسيكي مزهر
+CC_Cloth_BTM__11986.txt,$/6/desc,Shorts_A_Flower,desc,Classic Short Flowers,شورت كلاسيكي مزهر
+CC_Cloth_BTM__11986.txt,$/7/name,JoggingPants_A_White,name,Jogging Pants Custom,بنطال رياضي بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/7/desc,JoggingPants_A_White,desc,Jogging Pants Custom,بنطال رياضي بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/8/name,JoggingPants_A_Blue,name,Jogging Pants Blue,بنطال رياضي أزرق
+CC_Cloth_BTM__11986.txt,$/8/desc,JoggingPants_A_Blue,desc,Jogging Pants Blue,بنطال رياضي أزرق
+CC_Cloth_BTM__11986.txt,$/9/name,Scrub_A_White,name,Scrub Pant Custom,بنطال طبي بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/9/desc,Scrub_A_White,desc,Scrub Pant Custom,بنطال طبي بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/10/name,Scrub_A_WhiteStriped,name,Scrub Pant White Striped,بنطال طبي أبيض مخطط
+CC_Cloth_BTM__11986.txt,$/10/desc,Scrub_A_WhiteStriped,desc,Scrub Pant White Striped,بنطال طبي أبيض مخطط
+CC_Cloth_BTM__11986.txt,$/11/name,Scrub_A_CheckeredBrown,name,Scrub Pant Checkered Brown,بنطال طبي بني مربّع النقش
+CC_Cloth_BTM__11986.txt,$/11/desc,Scrub_A_CheckeredBrown,desc,Scrub Pant Checkered Brown,بنطال طبي بني مربّع النقش
+CC_Cloth_BTM__11986.txt,$/12/name,Scrub_A_WorkBlue,name,Work  Pant Pastel Blue,بنطال عمل أزرق فاتح
+CC_Cloth_BTM__11986.txt,$/12/desc,Scrub_A_WorkBlue,desc,Work Pant Pasel Blue,بنطال عمل أزرق فاتح
+CC_Cloth_BTM__11986.txt,$/13/name,Scrub_A_BlackGreen,name,Scrub Pant Black Green,بنطال طبي أسود وأخضر
+CC_Cloth_BTM__11986.txt,$/13/desc,Scrub_A_BlackGreen,desc,Scrub Pant Black Green,بنطال طبي أسود وأخضر
+CC_Cloth_BTM__11986.txt,$/14/name,Cargo_A_White,name,Cargo Pant Custom,بنطال كارجو بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/14/desc,Cargo_A_White,desc,Cargo Pant Custom,بنطال كارجو بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/15/name,Cargo_A_Blue,name,Cargo Pant Blue Pastel,بنطال كارجو أزرق فاتح
+CC_Cloth_BTM__11986.txt,$/15/desc,Cargo_A_Blue,desc,Cargo Pant Blue Pastel,بنطال كارجو أزرق فاتح
+CC_Cloth_BTM__11986.txt,$/16/name,Cargo_A_WorkBlack,name,Cargo Work Pant Black,بنطال عمل كارجو أسود
+CC_Cloth_BTM__11986.txt,$/16/desc,Cargo_A_WorkBlack,desc,Cargo Work Pant Black,بنطال عمل كارجو أسود
+CC_Cloth_BTM__11986.txt,$/17/name,Cargo_A_WorkOrange,name,Cargo Work Pant Orange,بنطال عمل كارجو برتقالي
+CC_Cloth_BTM__11986.txt,$/17/desc,Cargo_A_WorkOrange,desc,Cargo Work Pant Orange,بنطال عمل كارجو برتقالي
+CC_Cloth_BTM__11986.txt,$/18/name,Cargo_A_Military,name,Cargo Pant Military,بنطال كارجو عسكري
+CC_Cloth_BTM__11986.txt,$/18/desc,Cargo_A_Military,desc,Cargo Pant Military,بنطال كارجو عسكري
+CC_Cloth_BTM__11986.txt,$/19/name,Cargo_A_BlueJeans,name,Cargo  Blue Jeans,جينز أزرق فضفاض
+CC_Cloth_BTM__11986.txt,$/19/desc,Cargo_A_BlueJeans,desc,Cargo  Blue Jeans,جينز أزرق فضفاض
+CC_Cloth_BTM__11986.txt,$/20/name,Slacks_A_White,name,Slack Pant Custom,بنطال رسمي بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/20/desc,Slacks_A_White,desc,Slack Pant Custom,بنطال رسمي بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/21/name,Slacks_A_Blue,name,Slack Pant Blue,بنطال رسمي أزرق
+CC_Cloth_BTM__11986.txt,$/21/desc,Slacks_A_Blue,desc,Slack Pant Blue,بنطال رسمي أزرق
+CC_Cloth_BTM__11986.txt,$/22/name,Slacks_A_CheckeredBrown,name,Checkered Slack Pant Brown,بنطال رسمي بني مربّع النقش
+CC_Cloth_BTM__11986.txt,$/22/desc,Slacks_A_CheckeredBrown,desc,Checkered Slack Pant Brown,بنطال رسمي بني مربّع النقش
+CC_Cloth_BTM__11986.txt,$/23/name,Slacks_A_CheckeredGrey,name,Checkered Slack Pant Grey,بنطال رسمي رمادي مربّع النقش
+CC_Cloth_BTM__11986.txt,$/23/desc,Slacks_A_CheckeredGrey,desc,Checkered Slack Pant Grey,بنطال رسمي رمادي مربّع النقش
+CC_Cloth_BTM__11986.txt,$/24/name,Slacks_A_Orange,name,Slack Pant Orange,بنطال رسمي برتقالي
+CC_Cloth_BTM__11986.txt,$/24/desc,Slacks_A_Orange,desc,Slack Pant Orange,بنطال رسمي برتقالي
+CC_Cloth_BTM__11986.txt,$/25/name,Slacks_A_Black,name,Slack Pant Black,بنطال رسمي أسود
+CC_Cloth_BTM__11986.txt,$/25/desc,Slacks_A_Black,desc,Slack Pant Black,بنطال رسمي أسود
+CC_Cloth_BTM__11986.txt,$/26/name,Slacks_B_Grey,name,Slack Grey Rayed,بنطال رسمي رمادي مخطط
+CC_Cloth_BTM__11986.txt,$/26/desc,Slacks_B_Grey,desc,Slack Grey Rayed,بنطال رسمي رمادي مخطط
+CC_Cloth_BTM__11986.txt,$/27/name,Slacks_B_Turqoise,name,Slack Turqoise,بنطال رسمي فيروزي
+CC_Cloth_BTM__11986.txt,$/27/desc,Slacks_B_Turqoise,desc,Slack Turqoise,بنطال رسمي فيروزي
+CC_Cloth_BTM__11986.txt,$/28/name,Slacks_B_JeansBlueDenim,name,Slack Blue Denim,بنطال رسمي من الدنيم الأزرق
+CC_Cloth_BTM__11986.txt,$/28/desc,Slacks_B_JeansBlueDenim,desc,Slack Blue Denim,بنطال رسمي من الدنيم الأزرق
+CC_Cloth_BTM__11986.txt,$/29/name,Underwear_A_White,name,Underwear Custom,ملابس داخلية بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/29/desc,Underwear_A_White,desc,Underwear Custom,ملابس داخلية بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/30/name,Underwear_A_PinkWhite,name,Underwear Pink White,ملابس داخلية وردية وبيضاء
+CC_Cloth_BTM__11986.txt,$/30/desc,Underwear_A_PinkWhite,desc,Underwear Pink White,ملابس داخلية وردية وبيضاء
+CC_Cloth_BTM__11986.txt,$/31/name,Underwear_A_Pink,name,Underwear Pink,ملابس داخلية وردية
+CC_Cloth_BTM__11986.txt,$/31/desc,Underwear_A_Pink,desc,Underwear Pink,ملابس داخلية وردية
+CC_Cloth_BTM__11986.txt,$/32/name,Underwear_A_BlackRed,name,Underwear Black Red,ملابس داخلية سوداء وحمراء
+CC_Cloth_BTM__11986.txt,$/32/desc,Underwear_A_BlackRed,desc,Underwear Black Red,ملابس داخلية سوداء وحمراء
+CC_Cloth_BTM__11986.txt,$/33/name,LowriseShorts_A_White,name,Lowrise Short Custom,شورت منخفض الخصر بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/33/desc,LowriseShorts_A_White,desc,Lowrise Short Custom,شورت منخفض الخصر بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/34/name,LowriseShorts_A_BlueFlower,name,Lowrise Short Blue Flower,شورت منخفض الخصر أزرق مزهر
+CC_Cloth_BTM__11986.txt,$/34/desc,LowriseShorts_A_BlueFlower,desc,Lowrise Short Blue Flower,شورت منخفض الخصر أزرق مزهر
+CC_Cloth_BTM__11986.txt,$/35/name,LowriseShorts_A_Brown,name,Lowrise Short Brown Stripped,شورت منخفض الخصر بني مخطط
+CC_Cloth_BTM__11986.txt,$/35/desc,LowriseShorts_A_Brown,desc,Lowrise Short Brown Stripped,شورت منخفض الخصر بني مخطط
+CC_Cloth_BTM__11986.txt,$/36/name,LowriseShorts_A_Denim,name,Lowrise Short Blue Denim,شورت دنيم أزرق منخفض الخصر
+CC_Cloth_BTM__11986.txt,$/36/desc,LowriseShorts_A_Denim,desc,Lowrise Short Blue Denim,شورت دنيم أزرق منخفض الخصر
+CC_Cloth_BTM__11986.txt,$/37/name,LowriseShorts_A_Flower,name,Lowrise Short Jeans with Flower,شورت جينز مزهر منخفض الخصر
+CC_Cloth_BTM__11986.txt,$/37/desc,LowriseShorts_A_Flower,desc,Lowrise Short Jeans With Flower,شورت جينز مزهر منخفض الخصر
+CC_Cloth_BTM__11986.txt,$/38/name,LowriseShorts_A_Jeans,name,Lowrise Short Jeans,شورت جينز منخفض الخصر
+CC_Cloth_BTM__11986.txt,$/38/desc,LowriseShorts_A_Jeans,desc,Lowrise Short Jeans,شورت جينز منخفض الخصر
+CC_Cloth_BTM__11986.txt,$/39/name,RockerJeans_A_Green,name,Rocker Jeans Green,جينز روك أخضر
+CC_Cloth_BTM__11986.txt,$/39/desc,RockerJeans_A_Green,desc,Rocker Jeans Green,جينز روك أخضر
+CC_Cloth_BTM__11986.txt,$/40/name,RockerJeans_A_Pink,name,Rocker Jeans Pink,جينز روك وردي
+CC_Cloth_BTM__11986.txt,$/40/desc,RockerJeans_A_Pink,desc,Rocker Jeans Pink,جينز روك وردي
+CC_Cloth_BTM__11986.txt,$/41/name,SkinnyPants_A_White,name,Skinny Pant Custom,بنطال ضيق بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/41/desc,SkinnyPants_A_White,desc,Skinny Pant Custom,بنطال ضيق بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/42/name,SkinnyPants_A_DenimRipped,name,Skinny Pant Denim Ripped,بنطال دنيم ضيق ممزق
+CC_Cloth_BTM__11986.txt,$/42/desc,SkinnyPants_A_DenimRipped,desc,Skinny Pant Denim Ripped,بنطال دنيم ضيق ممزق
+CC_Cloth_BTM__11986.txt,$/43/name,SkinnyPants_A_Denim,name,Skinny Pant Denim,بنطال دنيم ضيق
+CC_Cloth_BTM__11986.txt,$/43/desc,SkinnyPants_A_Denim,desc,Skinny Pant Denim,بنطال دنيم ضيق
+CC_Cloth_BTM__11986.txt,$/44/name,SkinnyPants_A_Butterfly,name,Skinny Pant Butterfly,بنطال ضيق بنقشة فراشات
+CC_Cloth_BTM__11986.txt,$/44/desc,SkinnyPants_A_Butterfly,desc,Skinny Pant Butterfly,بنطال ضيق بنقشة فراشات
+CC_Cloth_BTM__11986.txt,$/45/name,Slacks_B_RedGold,name,Slack Red  Gold,بنطال رسمي أحمر وذهبي
+CC_Cloth_BTM__11986.txt,$/45/desc,Slacks_B_RedGold,desc,Slack Red  Gold,بنطال رسمي أحمر وذهبي
+CC_Cloth_BTM__11986.txt,$/46/name,Slacks_B_BlackGold,name,Slack Black  Gold,بنطال رسمي أسود وذهبي
+CC_Cloth_BTM__11986.txt,$/46/desc,Slacks_B_BlackGold,desc,Slack Black  Gold,بنطال رسمي أسود وذهبي
+CC_Cloth_BTM__11986.txt,$/47/name,MiniSkirt_A_White,name,Mini Skirt Custom,تنورة قصيرة بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/47/desc,MiniSkirt_A_White,desc,Mini Skirt Custom,تنورة قصيرة بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/48/name,MiniSkirt_A_WhiteBlack,name,Mini Skirt White Black,تنورة قصيرة بيضاء وسوداء
+CC_Cloth_BTM__11986.txt,$/48/desc,MiniSkirt_A_WhiteBlack,desc,Mini Skirt White Black,تنورة قصيرة بيضاء وسوداء
+CC_Cloth_BTM__11986.txt,$/49/name,MiniSkirt_A_WhiteStrripped,name,Mini Skirt White Strripped,تنورة قصيرة بيضاء مخططة
+CC_Cloth_BTM__11986.txt,$/49/desc,MiniSkirt_A_WhiteStrripped,desc,Mini Skirt White Strripped,تنورة قصيرة بيضاء مخططة
+CC_Cloth_BTM__11986.txt,$/50/name,MiniSkirt_A_RedStripped,name,Mini Skirt Red Strripped,تنورة قصيرة حمراء مخططة
+CC_Cloth_BTM__11986.txt,$/50/desc,MiniSkirt_A_RedStripped,desc,Mini Skirt Red Strripped,تنورة قصيرة حمراء مخططة
+CC_Cloth_BTM__11986.txt,$/51/name,Skirt_A_White,name,Skirt Custom,تنورة بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/51/desc,Skirt_A_White,desc,Skirt Custom,تنورة بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/52/name,Skirt_A_WhiteGrey,name,Skirt White Grey,تنورة بيضاء ورمادية
+CC_Cloth_BTM__11986.txt,$/52/desc,Skirt_A_WhiteGrey,desc,Skirt White Grey,تنورة بيضاء ورمادية
+CC_Cloth_BTM__11986.txt,$/53/name,Skirt_A_WhiteStripped,name,Skirt White Stripped,تنورة بيضاء مخططة
+CC_Cloth_BTM__11986.txt,$/53/desc,Skirt_A_WhiteStripped,desc,Skirt White Stripped,تنورة بيضاء مخططة
+CC_Cloth_BTM__11986.txt,$/54/name,Skirt_A_BlueStripped,name,Skirt Blue Stripped,تنورة زرقاء مخططة
+CC_Cloth_BTM__11986.txt,$/54/desc,Skirt_A_BlueStripped,desc,Skirt Blue Stripped,تنورة زرقاء مخططة
+CC_Cloth_BTM__11986.txt,$/55/name,PencilSkirt_A_White,name,Pencil Skirt Custom,تنورة قلم بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/55/desc,PencilSkirt_A_White,desc,Pencil Skirt Custom,تنورة قلم بتصميم مخصص
+CC_Cloth_BTM__11986.txt,$/56/name,PencilSkirt_A_GoldBlack,name,Pencil Skirt Gold Black,تنورة قلم ذهبية وسوداء
+CC_Cloth_BTM__11986.txt,$/56/desc,PencilSkirt_A_GoldBlack,desc,Pencil Skirt Gold Black,تنورة قلم ذهبية وسوداء
+CC_Cloth_BTM__11986.txt,$/57/name,PencilSkirt_A_Flowers,name,Pencil Skirt Flowers,تنورة قلم مزهرة
+CC_Cloth_BTM__11986.txt,$/57/desc,PencilSkirt_A_Flowers,desc,Pencil Skirt Flowers,تنورة قلم مزهرة
+CC_Cloth_BTM__11986.txt,$/58/name,PencilSkirt_A_BlackBlue,name,Pencil Skirt Black Blue,تنورة قلم سوداء وزرقاء
+CC_Cloth_BTM__11986.txt,$/58/desc,PencilSkirt_A_BlackBlue,desc,Pencil Skirt Black Blue,تنورة قلم سوداء وزرقاء
+CC_Cloth_DRESS__12038.txt,$/0/name,Romper_A_Pink,name,Romper Pink,بدلة رومبر وردية
+CC_Cloth_DRESS__12038.txt,$/0/desc,Romper_A_Pink,desc,Romper White,بدلة رومبر بيضاء
+CC_Cloth_DRESS__12038.txt,$/1/name,Romper_A_Paint,name,Romper Paint,بدلة رومبر مرسومة
+CC_Cloth_DRESS__12038.txt,$/1/desc,Romper_A_Paint,desc,Romper paint,بدلة رومبر مرسومة
+CC_Cloth_DRESS__12038.txt,$/2/name,Dress_A_White,name,Dress White,فستان أبيض
+CC_Cloth_DRESS__12038.txt,$/2/desc,Dress_A_White,desc,Dress White,فستان أبيض
+CC_Cloth_DRESS__12038.txt,$/3/name,Dress_A_BlueStriped,name,Dress Blue Stripepd,فستان أزرق مخطط
+CC_Cloth_DRESS__12038.txt,$/3/desc,Dress_A_BlueStriped,desc,Dress Blue Stripped,فستان أزرق مخطط
+CC_Cloth_DRESS__12038.txt,$/4/name,Dress_A_Flowers,name,Dress Flowers,فستان مزهر
+CC_Cloth_DRESS__12038.txt,$/4/desc,Dress_A_Flowers,desc,Dress Flowers,فستان مزهر
+CC_Cloth_DRESS__12038.txt,$/5/name,Dress_A_PinkRayed,name,Dress Pink Rayed,فستان وردي مخطط
+CC_Cloth_DRESS__12038.txt,$/5/desc,Dress_A_PinkRayed,desc,Dress Pink Rayed,فستان وردي مخطط
+CC_Cloth_DRESS__12038.txt,$/6/name,Dress_A_RedBlack,name,Dress Red Black,فستان أحمر وأسود
+CC_Cloth_DRESS__12038.txt,$/6/desc,Dress_A_RedBlack,desc,Dress Red Black,فستان أحمر وأسود
+CC_Cloth_DRESS__12038.txt,$/7/name,Dress_A_RedRayed,name,Dress Red Rayed,فستان أحمر مخطط
+CC_Cloth_DRESS__12038.txt,$/7/desc,Dress_A_RedRayed,desc,Dress Red Rayed,فستان أحمر مخطط
+CC_Cloth_HAT__12019.txt,$/0/name,Beanies_A_White,name,Beanies Custom,قبعة صوفية بتصميم مخصص
+CC_Cloth_HAT__12019.txt,$/0/desc,Beanies_A_White,desc,Beanies Custom,قبعة صوفية بتصميم مخصص
+CC_Cloth_HAT__12019.txt,$/1/name,Beanies_A_PinkStar,name,Beanies Pink Star,قبعة صوفية وردية بنجمة
+CC_Cloth_HAT__12019.txt,$/1/desc,Beanies_A_PinkStar,desc,Beanies Pink Star,قبعة صوفية وردية بنجمة
+CC_Cloth_HAT__12019.txt,$/2/name,Beanies_A_BlueYellow,name,Beanies Blue Yellow,قبعة صوفية زرقاء وصفراء
+CC_Cloth_HAT__12019.txt,$/2/desc,Beanies_A_BlueYellow,desc,Beanies Blue Yellow,قبعة صوفية زرقاء وصفراء
+CC_Cloth_HAT__12019.txt,$/3/name,Beanies_A_WhiteBlack,name,Beanies White Black,قبعة صوفية بيضاء وسوداء
+CC_Cloth_HAT__12019.txt,$/3/desc,Beanies_A_WhiteBlack,desc,Beanies White Black,قبعة صوفية بيضاء وسوداء
+CC_Cloth_HAT__12019.txt,$/4/name,Beanies_A_BlueStars,name,Beanies Blue Stars,قبعة صوفية زرقاء بنجوم
+CC_Cloth_HAT__12019.txt,$/4/desc,Beanies_A_BlueStars,desc,Beanies Blue Stars,قبعة صوفية زرقاء بنجوم
+CC_Cloth_HAT__12019.txt,$/5/name,Beanies_A_Tricolor,name,Beanies Tricolor,قبعة صوفية ثلاثية الألوان
+CC_Cloth_HAT__12019.txt,$/5/desc,Beanies_A_Tricolor,desc,Beanies Tricolor,قبعة صوفية ثلاثية الألوان
+CC_Cloth_HAT__12019.txt,$/6/name,Cap_A_White,name,Cap Custom,قبعة بتصميم مخصص
+CC_Cloth_HAT__12019.txt,$/6/desc,Cap_A_White,desc,Cap Custom,قبعة بتصميم مخصص
+CC_Cloth_HAT__12019.txt,$/7/name,Cap_A_BlueWhite,name,Cap Blue White,قبعة زرقاء وبيضاء
+CC_Cloth_HAT__12019.txt,$/7/desc,Cap_A_BlueWhite,desc,Cap Blue White,قبعة زرقاء وبيضاء
+CC_Cloth_HAT__12019.txt,$/8/name,Male_Cap_A_Black13,name,Cap Black 13,قبعة سوداء برقم 13
+CC_Cloth_HAT__12019.txt,$/8/desc,Male_Cap_A_Black13,desc,Cap Black 13,قبعة سوداء برقم 13
+CC_Cloth_HAT__12019.txt,$/9/name,Cap_A_America,name,Cap USA,قبعة الولايات المتحدة
+CC_Cloth_HAT__12019.txt,$/9/desc,Cap_A_America,desc,Cap USA,قبعة الولايات المتحدة
+CC_Cloth_HAT__12019.txt,$/10/name,Male_Cap_A_GreenYellow,name,Cap Green Yellow,قبعة خضراء وصفراء
+CC_Cloth_HAT__12019.txt,$/10/desc,Male_Cap_A_GreenYellow,desc,Cap Green Yellow,قبعة خضراء وصفراء
+CC_Cloth_HAT__12019.txt,$/11/name,Cap_A_WhiteBlack,name,Cap White Black,قبعة بيضاء وسوداء
+CC_Cloth_HAT__12019.txt,$/11/desc,Cap_A_WhiteBlack,desc,Cap White Black,قبعة بيضاء وسوداء
+CC_Cloth_HAT__12019.txt,$/12/name,Cap_A_Tricolor,name,Cap Yellow Green purple,قبعة صفراء وخضراء وبنفسجية
+CC_Cloth_HAT__12019.txt,$/12/desc,Cap_A_Tricolor,desc,Cap Yellow Green purple,قبعة صفراء وخضراء وبنفسجية
+CC_Cloth_HAT__12019.txt,$/13/name,Cap_B_WhiteBlue,name,Cap Blue White,قبعة زرقاء وبيضاء
+CC_Cloth_HAT__12019.txt,$/13/desc,Cap_B_WhiteBlue,desc,Cap Blue White,قبعة زرقاء وبيضاء
+CC_Cloth_HAT__12019.txt,$/14/name,Hat_A_White,name,Cap Hat Custom,قبعة بيسبول بتصميم مخصص
+CC_Cloth_HAT__12019.txt,$/14/desc,Hat_A_White,desc,Cap Hat Custom,قبعة بيسبول بتصميم مخصص
+CC_Cloth_HAT__12019.txt,$/15/name,FishingHat_A_White,name,Fishing Hat Custom,قبعة صيد بتصميم مخصص
+CC_Cloth_HAT__12019.txt,$/15/desc,FishingHat_A_White,desc,Fishing Hat Custom,قبعة صيد بتصميم مخصص
+CC_Cloth_HAT__12019.txt,$/16/name,Beret_A_White,name,Beret Hat custom,قبعة بيريه بتصميم مخصص
+CC_Cloth_HAT__12019.txt,$/16/desc,Beret_A_White,desc,Beret Hat custom,قبعة بيريه بتصميم مخصص
+CC_Cloth_HAT__12019.txt,$/17/name,StrawHat_A_Yellow,name,Straw Hat,قبعة من القش
+CC_Cloth_HAT__12019.txt,$/17/desc,StrawHat_A_Yellow,desc,Straw Hat,قبعة من القش
+CC_Cloth_HAT__12019.txt,$/18/name,CowboyHat_A_White,name,Cowboy Hat Custom,قبعة رعاة بقر بتصميم مخصص
+CC_Cloth_HAT__12019.txt,$/18/desc,CowboyHat_A_White,desc,Cowboy Hat Custom,قبعة رعاة بقر بتصميم مخصص
+CC_Cloth_HAT__12019.txt,$/19/name,Fedora_A_White,name,Fedora Custom ,قبعة فيدورا بتصميم مخصص
+CC_Cloth_HAT__12019.txt,$/19/desc,Fedora_A_White,desc,Fedora Custom,قبعة فيدورا بتصميم مخصص
+CC_Cloth_HAT__12019.txt,$/20/name,Fedora_A_Rayed,name,Fedora White Black Rayed,قبعة فيدورا بيضاء وسوداء مخططة
+CC_Cloth_HAT__12019.txt,$/20/desc,Fedora_A_Rayed,desc,Fedora White Black Rayed,قبعة فيدورا بيضاء وسوداء مخططة
+CC_Cloth_HAT__12019.txt,$/21/name,Bowler_A_White,name,Bowler Hat Custom,قبعة بولر بتصميم مخصص
+CC_Cloth_HAT__12019.txt,$/21/desc,Bowler_A_White,desc,Bowler Hat Custom,قبعة بولر بتصميم مخصص
+CC_Cloth_HAT__12019.txt,$/22/name,Bowler_A_Straw,name,Bowler Straw Hat,قبعة بولر من القش
+CC_Cloth_HAT__12019.txt,$/22/desc,Bowler_A_Straw,desc,Bowler Straw Hat,قبعة بولر من القش
+CC_Cloth_HAT__12019.txt,$/23/name,Bowler_A_WhiteBlack,name,Bowler Classic,قبعة بولر كلاسيكية
+CC_Cloth_HAT__12019.txt,$/23/desc,Bowler_A_WhiteBlack,desc,Bowler Classic,قبعة بولر كلاسيكية
+CC_Cloth_HAT__12019.txt,$/24/name,Bowler_A_YellowPurple,name,Bowler Mardi Gras,قبعة بولر لمهرجان ماردي غرا
+CC_Cloth_HAT__12019.txt,$/24/desc,Bowler_A_YellowPurple,desc,Bowler Mardi Gras,قبعة بولر لمهرجان ماردي غرا
+CC_Cloth_HAT__12019.txt,$/25/name,Bowler_A_PinkBlue,name,Bowler Party,قبعة بولر للحفلات
+CC_Cloth_HAT__12019.txt,$/25/desc,Bowler_A_PinkBlue,desc,Bowler Party,قبعة بولر للحفلات
+CC_Cloth_HAT__12019.txt,$/26/name,Bowler_A_RedBlack,name,Bowler Xmas,قبعة بولر لعيد الميلاد
+CC_Cloth_HAT__12019.txt,$/26/desc,Bowler_A_RedBlack,desc,Bowler Xmas,قبعة بولر لعيد الميلاد
+CC_Cloth_HAT__12019.txt,$/27/name,GolfHat_A_Rayed,name,Golf Hat,قبعة غولف
+CC_Cloth_HAT__12019.txt,$/27/desc,GolfHat_A_Rayed,desc,Golf Hat,قبعة غولف
+CC_Cloth_SUNGLASS__11990.txt,$/0/name,Sunglasses_A_Black,name,Chic Black Sunglass,نظارة شمسية سوداء أنيقة
+CC_Cloth_SUNGLASS__11990.txt,$/0/desc,Sunglasses_A_Black,desc,Chic Sunglass,نظارة شمسية أنيقة
+CC_Cloth_SUNGLASS__11990.txt,$/1/name,Sunglasses_A_Blue,name,Chic Blue Sunglass,نظارة شمسية زرقاء أنيقة
+CC_Cloth_SUNGLASS__11990.txt,$/1/desc,Sunglasses_A_Blue,desc,Chic Sunglass,نظارة شمسية أنيقة
+CC_Cloth_SUNGLASS__11990.txt,$/2/name,RetroGlasses_A_Brown,name,Retro Glasses Brown,نظارة بطراز قديم بنية
+CC_Cloth_SUNGLASS__11990.txt,$/2/desc,RetroGlasses_A_Brown,desc,Retro Glasses Brown,نظارة بطراز قديم بنية
+CC_Cloth_SUNGLASS__11990.txt,$/3/name,RetroGlasses_A_White,name,Retro Glasses Custom,نظارة بطراز قديم بتصميم مخصص
+CC_Cloth_SUNGLASS__11990.txt,$/3/desc,RetroGlasses_A_White,desc,Retro Glasses Custom ,نظارة بطراز قديم بتصميم مخصص
+CC_Cloth_SUNGLASS__11990.txt,$/4/name,Readers_A_Multicolor,name,Readers Glasses Multicolor ,نظارة قراءة متعددة الألوان
+CC_Cloth_SUNGLASS__11990.txt,$/4/desc,Readers_A_Multicolor,desc,Readers Glasses Multicolor ,نظارة قراءة متعددة الألوان
+CC_Cloth_SUNGLASS__11990.txt,$/5/name,Readers_A_White,name,Readers Glasses Custom ,نظارة قراءة بتصميم مخصص
+CC_Cloth_SUNGLASS__11990.txt,$/5/desc,Readers_A_White,desc,Readers Glasses Custom ,نظارة قراءة بتصميم مخصص
+CC_Cloth_SUNGLASS__11990.txt,$/6/name,Readers_A_Kids,name,Readers Glasses Kids ,نظارة قراءة للأطفال
+CC_Cloth_SUNGLASS__11990.txt,$/6/desc,Readers_A_Kids,desc,Readers Glasses Kids ,نظارة قراءة للأطفال
+CC_Cloth_SUNGLASS__11990.txt,$/7/name,Readers_A_Green,name,Readers Glasses Green ,نظارة قراءة خضراء
+CC_Cloth_SUNGLASS__11990.txt,$/7/desc,Readers_A_Green,desc,Readers Glasses Green ,نظارة قراءة خضراء
+CC_Cloth_SUNGLASS__11990.txt,$/8/name,Goggles_A_Transparent,name,IGlasses ,نظارات آي
+CC_Cloth_SUNGLASS__11990.txt,$/8/desc,Goggles_A_Transparent,desc,IGlasses ,نظارات آي
+CC_Cloth_SUNGLASS__11990.txt,$/9/name,HeartGlasses_A_White,name,Heart Glasses Custom ,نظارة على شكل قلب بتصميم مخصص
+CC_Cloth_SUNGLASS__11990.txt,$/9/desc,HeartGlasses_A_White,desc,Heart Glasses Custom ,نظارة على شكل قلب بتصميم مخصص
+CC_Cloth_SUNGLASS__11990.txt,$/10/name,SimpleGlasses_A_White,name,Simple Glasses Custom ,نظارة بسيطة بتصميم مخصص
+CC_Cloth_SUNGLASS__11990.txt,$/10/desc,SimpleGlasses_A_White,desc,Simple Glasses Custom ,نظارة بسيطة بتصميم مخصص
+CC_Cloth_SUNGLASS__11990.txt,$/11/name,RoundGlasses_A_White,name,Round Glasses Custom ,نظارة دائرية بتصميم مخصص
+CC_Cloth_SUNGLASS__11990.txt,$/11/desc,RoundGlasses_A_White,desc,Round Glasses Custom ,نظارة دائرية بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/0/name,TankTop_A_White,name,Tank Top Custom,قميص بلا أكمام بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/0/desc,TankTop_A_White,desc,Tank Top Custom,قميص بلا أكمام بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/1/name,TankTop_A_BlueBlack,name,Tank Top Blue Black,قميص بلا أكمام أزرق وأسود
+CC_Cloth_TOP__12031.txt,$/1/desc,TankTop_A_BlueBlack,desc,Tank Top Blue Black,قميص بلا أكمام أزرق وأسود
+CC_Cloth_TOP__12031.txt,$/2/name,TankTop_A_BlackRed,name,Tank Top Black Red,قميص بلا أكمام أسود وأحمر
+CC_Cloth_TOP__12031.txt,$/2/desc,TankTop_A_BlackRed,desc,Tank Top Black Red,قميص بلا أكمام أسود وأحمر
+CC_Cloth_TOP__12031.txt,$/3/name,TankTop_A_GreenWhite,name,Tank Top Green White Striped,قميص بلا أكمام أخضر وأبيض مخطط
+CC_Cloth_TOP__12031.txt,$/3/desc,TankTop_A_GreenWhite,desc,Tank Top Green White Striped,قميص بلا أكمام أخضر وأبيض مخطط
+CC_Cloth_TOP__12031.txt,$/4/name,Basic_T_A_White_01,name,T-Shirt Custom,قميص تي شيرت بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/4/desc,Basic_T_A_White_01,desc,T-Shirt Custom,قميص تي شيرت بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/5/name,Basic_T_A_Tricolor,name,Tricolor T-Shirt,قميص تي شيرت ثلاثي الألوان
+CC_Cloth_TOP__12031.txt,$/5/desc,Basic_T_A_Tricolor,desc,Tricolor T-Shirt,قميص تي شيرت ثلاثي الألوان
+CC_Cloth_TOP__12031.txt,$/6/name,Basic_T_A_Green,name,Green T-Shirt,قميص تي شيرت أخضر
+CC_Cloth_TOP__12031.txt,$/6/desc,Basic_T_A_Green,desc,Green T-Shirt,قميص تي شيرت أخضر
+CC_Cloth_TOP__12031.txt,$/7/name,Basic_T_A_Blue,name,Blue T-Shirt,قميص تي شيرت أزرق
+CC_Cloth_TOP__12031.txt,$/7/desc,Basic_T_A_Blue,desc,Blue T-Shirt,قميص تي شيرت أزرق
+CC_Cloth_TOP__12031.txt,$/8/name,Basic_T_A_BrownGrey,name,Brown Grey T-Shirt,قميص تي شيرت بني ورمادي
+CC_Cloth_TOP__12031.txt,$/8/desc,Basic_T_A_BrownGrey,desc,Brown Grey T-Shirt,قميص تي شيرت بني ورمادي
+CC_Cloth_TOP__12031.txt,$/9/name,Basic_T_B_Purple,name,Purple T-Shirt,قميص تي شيرت بنفسجي
+CC_Cloth_TOP__12031.txt,$/9/desc,Basic_T_B_Purple,desc,Purple T-Shirt,قميص تي شيرت بنفسجي
+CC_Cloth_TOP__12031.txt,$/10/name,Basic_T_B_LightNavyBlue,name,Light Navy Blue T-Shirt,قميص تي شيرت أزرق كحلي فاتح
+CC_Cloth_TOP__12031.txt,$/10/desc,Basic_T_B_LightNavyBlue,desc,Light Navy Blue T-Shirt,قميص تي شيرت أزرق كحلي فاتح
+CC_Cloth_TOP__12031.txt,$/11/name,Basic_T_B_Red,name,Red T-Shirt,قميص تي شيرت أحمر
+CC_Cloth_TOP__12031.txt,$/11/desc,Basic_T_B_Red,desc,Red T-Shirt,قميص تي شيرت أحمر
+CC_Cloth_TOP__12031.txt,$/12/name,Basic_T_B_DodgersBlue,name,Dodgers Blue T-Shirt,قميص تي شيرت أزرق لفريق دودجرز
+CC_Cloth_TOP__12031.txt,$/12/desc,Basic_T_B_DodgersBlue,desc,Dodgers Blue T-Shirt,قميص تي شيرت أزرق لفريق دودجرز
+CC_Cloth_TOP__12031.txt,$/13/name,Basic_T_D_WhiteBlue,name,White Blue Striped T-shirt,قميص تي شيرت أبيض وأزرق مخطط
+CC_Cloth_TOP__12031.txt,$/13/desc,Basic_T_D_WhiteBlue,desc,White Blue Striped T-shirt,قميص تي شيرت أبيض وأزرق مخطط
+CC_Cloth_TOP__12031.txt,$/14/name,Basic_T_D_BlackGreen,name,Black Green T-shirt,قميص تي شيرت أسود وأخضر
+CC_Cloth_TOP__12031.txt,$/14/desc,Basic_T_D_BlackGreen,desc,Black Green T-shirt,قميص تي شيرت أسود وأخضر
+CC_Cloth_TOP__12031.txt,$/15/name,Basic_T_D_BlueGreen,name,Cat Zombie T-shirt,قميص تي شيرت بطبعة قطة زومبي
+CC_Cloth_TOP__12031.txt,$/15/desc,Basic_T_D_BlueGreen,desc,Cat Zombie T-shirt,قميص تي شيرت بطبعة قطة زومبي
+CC_Cloth_TOP__12031.txt,$/16/name,Basic_T_D_AbstractTunic,name,Abstract Tunic T-shirt,قميص تي شيرت بطبعة تجريدية
+CC_Cloth_TOP__12031.txt,$/16/desc,Basic_T_D_AbstractTunic,desc,Abstract Tunic T-shirt,قميص تي شيرت بطبعة تجريدية
+CC_Cloth_TOP__12031.txt,$/17/name,Basic_T_C_White,name,V Shirt Custom,قميص بياقة V بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/17/desc,Basic_T_C_White,desc,V shirt Custom,قميص بياقة V بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/18/name,Basic_T_C_WhiteStripeBlack,name,V Shirt White and Black Stripe ,قميص بياقة V أبيض وأسود مخطط
+CC_Cloth_TOP__12031.txt,$/18/desc,Basic_T_C_WhiteStripeBlack,desc,V shirt White and Black Stripe ,قميص بياقة V أبيض وأسود مخطط
+CC_Cloth_TOP__12031.txt,$/19/name,Basic_T_C_WhiteSquareStriped,name,V Shirt White Square Striped,قميص بياقة V أبيض مخطط بمربعات
+CC_Cloth_TOP__12031.txt,$/19/desc,Basic_T_C_WhiteSquareStriped,desc,V shirt White Square Striped,قميص بياقة V أبيض مخطط بمربعات
+CC_Cloth_TOP__12031.txt,$/20/name,OpenColarShort_A_White,name,Sleeves Shirt Rayed Custom,قميص بأكمام مخططة بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/20/desc,OpenColarShort_A_White,desc,Sleeves Shirt Rayed Custom,قميص بأكمام مخططة بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/21/name,OpenColarShort_A_Grey,name,Sleeves Shirt Custom,قميص بأكمام بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/21/desc,OpenColarShort_A_Grey,desc,Sleeves Shirt Custom,قميص بأكمام بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/22/name,OpenColarShort_A_Pink,name,Sleeves Shirt Pink,قميص بأكمام وردي
+CC_Cloth_TOP__12031.txt,$/22/desc,OpenColarShort_A_Pink,desc,Sleeves Shirt Pink,قميص بأكمام وردي
+CC_Cloth_TOP__12031.txt,$/23/name,OpenCollarLongShirt_A_White,name,Open Collar Long Shirt White,قميص طويل أبيض بياقة مفتوحة
+CC_Cloth_TOP__12031.txt,$/23/desc,OpenCollarLongShirt_A_White,desc,Open Collar Long Shirt White,قميص طويل أبيض بياقة مفتوحة
+CC_Cloth_TOP__12031.txt,$/24/name,OpenCollarLongShirt_A_PlaidBlue,name,Plaid Open Collar Long Shirt Blue,قميص طويل أزرق مربّع النقش بياقة مفتوحة
+CC_Cloth_TOP__12031.txt,$/24/desc,OpenCollarLongShirt_A_PlaidBlue,desc,Plaid Open Collar Long Shirt Blue,قميص طويل أزرق مربّع النقش بياقة مفتوحة
+CC_Cloth_TOP__12031.txt,$/25/name,OpenCollarLongShirt_A_Military,name,Military Open Collar Long Shirt,قميص طويل عسكري بياقة مفتوحة
+CC_Cloth_TOP__12031.txt,$/25/desc,OpenCollarLongShirt_A_Military,desc,Military Open Collar Long Shirt,قميص طويل عسكري بياقة مفتوحة
+CC_Cloth_TOP__12031.txt,$/26/name,OpenCollarLongShirt_A_RedBlue,name,Open Collar Long Shirt Red with Blue Collar,قميص طويل أحمر بياقة زرقاء مفتوحة
+CC_Cloth_TOP__12031.txt,$/26/desc,OpenCollarLongShirt_A_RedBlue,desc,Open Collar Long Shirt Red with Blue Collar,قميص طويل أحمر بياقة زرقاء مفتوحة
+CC_Cloth_TOP__12031.txt,$/27/name,OpenCollarLongShirt_A_FarmerBlue,name,Farmer Open Collar Long Shirt,قميص طويل للمزارعين بياقة مفتوحة
+CC_Cloth_TOP__12031.txt,$/27/desc,OpenCollarLongShirt_A_FarmerBlue,desc,Farmer Collar Long Shirt  ,قميص طويل بياقة المزارعين
+CC_Cloth_TOP__12031.txt,$/28/name,OpenCollarLongShirt_A_DenimDirtyBlue,name,Denim Dirty Blue Long Shirt,قميص دنيم طويل أزرق داكن
+CC_Cloth_TOP__12031.txt,$/28/desc,OpenCollarLongShirt_A_DenimDirtyBlue,desc,Denim Dirty Blue Long Shirt,قميص دنيم طويل أزرق داكن
+CC_Cloth_TOP__12031.txt,$/29/name,OpenCollarLongShirt_A_PinkishRed,name,Open Collar Long Shirt Pinkish Red,قميص طويل أحمر وردي بياقة مفتوحة
+CC_Cloth_TOP__12031.txt,$/29/desc,OpenCollarLongShirt_A_PinkishRed,desc,Open Collar Long Shirt Pinkish Red,قميص طويل أحمر وردي بياقة مفتوحة
+CC_Cloth_TOP__12031.txt,$/30/name,OpenCollarLongShirt_A_PastelBlue,name,Open Collar Long Shirt Pastel Blue,قميص طويل أزرق فاتح بياقة مفتوحة
+CC_Cloth_TOP__12031.txt,$/30/desc,OpenCollarLongShirt_A_PastelBlue,desc,Open Collar Long Shirt Pastel Blue,قميص طويل أزرق فاتح بياقة مفتوحة
+CC_Cloth_TOP__12031.txt,$/31/name,Fit_Shirt_A_PastelBlue,name,Fit Pastel Blue Shirt,قميص أزرق فاتح بقصة ضيقة
+CC_Cloth_TOP__12031.txt,$/31/desc,Fit_Shirt_A_PastelBlue,desc,Fit Pastel Blue Shirt,قميص أزرق فاتح بقصة ضيقة
+CC_Cloth_TOP__12031.txt,$/32/name,Fit_Shirt_A_StripedGrey,name,Grey Striped Regular Fit Shirt,قميص رمادي مخطط بقصة عادية
+CC_Cloth_TOP__12031.txt,$/32/desc,Fit_Shirt_A_StripedGrey,desc,Grey Striped Regular Fit Shirt,قميص رمادي مخطط بقصة عادية
+CC_Cloth_TOP__12031.txt,$/33/name,Fit_Shirt_A_StripedBlue,name,Blue Striped Regular Fit Shirt,قميص أزرق مخطط بقصة عادية
+CC_Cloth_TOP__12031.txt,$/33/desc,Fit_Shirt_A_StripedBlue,desc,Blue Striped Regular Fit Shirt,قميص أزرق مخطط بقصة عادية
+CC_Cloth_TOP__12031.txt,$/34/name,Fit_Shirt_A_BluePolkaDots,name,Blue Shirt with White Polka Dots,قميص أزرق بنقاط بيضاء
+CC_Cloth_TOP__12031.txt,$/34/desc,Fit_Shirt_A_BluePolkaDots,desc,Blue Shirt with White Polka Dots,قميص أزرق بنقاط بيضاء
+CC_Cloth_TOP__12031.txt,$/35/name,Fit_Shirt_A_StripedNavyBlue,name,Navy Blue Striped Regular Fit Shirt,قميص كحلي مخطط بقصة عادية
+CC_Cloth_TOP__12031.txt,$/35/desc,Fit_Shirt_A_StripedNavyBlue,desc,Navy Blue Striped Regular Fit Shirt,قميص كحلي مخطط بقصة عادية
+CC_Cloth_TOP__12031.txt,$/36/name,CloseCollarLongShirt_A_White,name,Close Collar Long Shirt White,قميص طويل أبيض بياقة مغلقة
+CC_Cloth_TOP__12031.txt,$/36/desc,CloseCollarLongShirt_A_White,desc,Close Collar Long Shirt White,قميص طويل أبيض بياقة مغلقة
+CC_Cloth_TOP__12031.txt,$/37/name,CloseCollarLongShirt_A_LightBlue,name,Close Collar Long Shirt Light Blue,قميص طويل أزرق فاتح بياقة مغلقة
+CC_Cloth_TOP__12031.txt,$/37/desc,CloseCollarLongShirt_A_LightBlue,desc,Close Collar Long Shirt Lighr Blue,قميص طويل أزرق فاتح بياقة مغلقة
+CC_Cloth_TOP__12031.txt,$/38/name,CloseCollarLongShirt_A_SoftBlue,name,Close Collar Long Shirt Soft Blue,قميص طويل أزرق هادئ بياقة مغلقة
+CC_Cloth_TOP__12031.txt,$/38/desc,CloseCollarLongShirt_A_SoftBlue,desc,Close Collar Long Shirt Soft Blue,قميص طويل أزرق هادئ بياقة مغلقة
+CC_Cloth_TOP__12031.txt,$/39/name,CloseCollarLongShirt_A_StripedSleeve,name,Close Collar Long Shirt  Blue With Striped Sleeve,قميص طويل أزرق بياقة مغلقة وأكمام مخططة
+CC_Cloth_TOP__12031.txt,$/39/desc,CloseCollarLongShirt_A_StripedSleeve,desc,Close Collar Long Shirt  Blue With Striped Sleeve,قميص طويل أزرق بياقة مغلقة وأكمام مخططة
+CC_Cloth_TOP__12031.txt,$/40/name,CloseCollarLongShirt_B_RedTie,name,Close Collar Long Shirt With Red Tie,قميص طويل بياقة مغلقة وربطة عنق حمراء
+CC_Cloth_TOP__12031.txt,$/40/desc,CloseCollarLongShirt_B_RedTie,desc,Close Collar Long Shirt With Red Tie,قميص طويل بياقة مغلقة وربطة عنق حمراء
+CC_Cloth_TOP__12031.txt,$/41/name,CloseCollarLongShirt_B_BrownTie,name,Close Collar Long Shirt With Brown Tie,قميص طويل بياقة مغلقة وربطة عنق بنية
+CC_Cloth_TOP__12031.txt,$/41/desc,CloseCollarLongShirt_B_BrownTie,desc,Close Collar Long Shirt With Brown Tie,قميص طويل بياقة مغلقة وربطة عنق بنية
+CC_Cloth_TOP__12031.txt,$/42/name,Jogging_A_White,name,Jogging Shirt White,قميص رياضي أبيض
+CC_Cloth_TOP__12031.txt,$/42/desc,Jogging_A_White,desc,Jogging Shirt White,قميص رياضي أبيض
+CC_Cloth_TOP__12031.txt,$/43/name,Jogging_A_Pink,name,Jogging Shirt Pink,قميص رياضي وردي
+CC_Cloth_TOP__12031.txt,$/43/desc,Jogging_A_Pink,desc,Jogging Shirt Pink,قميص رياضي وردي
+CC_Cloth_TOP__12031.txt,$/44/name,Jogging_A_Tricolor,name,Black White Jogging Shirt,قميص رياضي أسود وأبيض
+CC_Cloth_TOP__12031.txt,$/44/desc,Jogging_A_Tricolor,desc,Black White Jogging Shirt,قميص رياضي أسود وأبيض
+CC_Cloth_TOP__12031.txt,$/45/name,Pull_B_WhiteRayed,name,White and Grey striped Pull,كنزة بيضاء ورمادية مخططة
+CC_Cloth_TOP__12031.txt,$/45/desc,Pull_B_WhiteRayed,desc,White and Grey striped Pull,كنزة بيضاء ورمادية مخططة
+CC_Cloth_TOP__12031.txt,$/46/name,Pull_B_RedRayed,name,Red and Black striped Pull,كنزة حمراء وسوداء مخططة
+CC_Cloth_TOP__12031.txt,$/46/desc,Pull_B_RedRayed,desc,Red and Black striped Pull,كنزة حمراء وسوداء مخططة
+CC_Cloth_TOP__12031.txt,$/47/name,Pull_B_WhiteBlack,name,White with Black Sleeves Pull,كنزة بيضاء بأكمام سوداء
+CC_Cloth_TOP__12031.txt,$/47/desc,Pull_B_WhiteBlack,desc,White with Black Sleeves Pull,كنزة بيضاء بأكمام سوداء
+CC_Cloth_TOP__12031.txt,$/48/name,Pull_B_WhiteBlue,name,White Blue Sport Pull,كنزة رياضية بيضاء وزرقاء
+CC_Cloth_TOP__12031.txt,$/48/desc,Pull_B_WhiteBlue,desc,White Blue Sport Pull,كنزة رياضية بيضاء وزرقاء
+CC_Cloth_TOP__12031.txt,$/49/name,Pull_A_White,name,Custom Pull,كنزة بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/49/desc,Pull_A_White,desc,Custom Pull,كنزة بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/50/name,Pull_A_LightBlueGrey,name,Light Blue Grey Pull,كنزة زرقاء فاتحة ورمادية
+CC_Cloth_TOP__12031.txt,$/50/desc,Pull_A_LightBlueGrey,desc,Light Blue Grey Pull,كنزة زرقاء فاتحة ورمادية
+CC_Cloth_TOP__12031.txt,$/51/name,Pull_A_PinkishRedOrange,name,Pinkish Red Orange Pull,كنزة حمراء وردية وبرتقالية
+CC_Cloth_TOP__12031.txt,$/51/desc,Pull_A_PinkishRedOrange,desc,Pinkish Red Orange Pull,كنزة حمراء وردية وبرتقالية
+CC_Cloth_TOP__12031.txt,$/52/name,Pull_A_Tricolor,name,Tricolor Pull,كنزة ثلاثية الألوان
+CC_Cloth_TOP__12031.txt,$/52/desc,Pull_A_Tricolor,desc,Tricolor Pull,كنزة ثلاثية الألوان
+CC_Cloth_TOP__12031.txt,$/53/name,Bra_A_White,name,Bra White,حمالة صدر بيضاء
+CC_Cloth_TOP__12031.txt,$/53/desc,Bra_A_White,desc,Bra White,حمالة صدر بيضاء
+CC_Cloth_TOP__12031.txt,$/54/name,Bra_A_Pink,name,Bra Pink,حمالة صدر وردية
+CC_Cloth_TOP__12031.txt,$/54/desc,Bra_A_Pink,desc,Bra Pink,حمالة صدر وردية
+CC_Cloth_TOP__12031.txt,$/55/name,Bra_A_PinkWhite,name,Bra Pink White,حمالة صدر وردية وبيضاء
+CC_Cloth_TOP__12031.txt,$/55/desc,Bra_A_PinkWhite,desc,Bra Pink White,حمالة صدر وردية وبيضاء
+CC_Cloth_TOP__12031.txt,$/56/name,Bra_A_WhiteStripped,name,Bra  White Stripped,حمالة صدر بيضاء مخططة
+CC_Cloth_TOP__12031.txt,$/56/desc,Bra_A_WhiteStripped,desc,Bra  White Stripped,حمالة صدر بيضاء مخططة
+CC_Cloth_TOP__12031.txt,$/57/name,Camisole_A_White,name,Camisole Custom,قميص داخلي بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/57/desc,Camisole_A_White,desc,Camisole Custom,قميص داخلي بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/58/name,Camisole_A_Blue,name,Camisole Blue ,قميص داخلي أزرق
+CC_Cloth_TOP__12031.txt,$/58/desc,Camisole_A_Blue,desc,Camisole Blue,قميص داخلي أزرق
+CC_Cloth_TOP__12031.txt,$/59/name,Camisole_A_Multicolor,name,Camisole Multicolor,قميص داخلي متعدد الألوان
+CC_Cloth_TOP__12031.txt,$/59/desc,Camisole_A_Multicolor,desc,Camisole Multicolor,قميص داخلي متعدد الألوان
+CC_Cloth_TOP__12031.txt,$/60/name,Camisole_A_BlueRayed,name,Camisole Blue Rayed,قميص داخلي أزرق مخطط
+CC_Cloth_TOP__12031.txt,$/60/desc,Camisole_A_BlueRayed,desc,Camisole Blue Rayed,قميص داخلي أزرق مخطط
+CC_Cloth_TOP__12031.txt,$/61/name,CloseCollarShort_A_White,name,Close Collar Short Custom,قميص قصير بياقة مغلقة بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/61/desc,CloseCollarShort_A_White,desc,Close Collar Short Custom,قميص قصير بياقة مغلقة بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/62/name,CloseCollarShort_A_GreenBlack,name,Close Collar Short Green Black,قميص قصير بياقة مغلقة أخضر وأسود
+CC_Cloth_TOP__12031.txt,$/62/desc,CloseCollarShort_A_GreenBlack,desc,Close Collar Short Green Black,قميص قصير بياقة مغلقة أخضر وأسود
+CC_Cloth_TOP__12031.txt,$/63/name,CloseCollarShort_A_RedBlack,name,Close Collar Short Red Black,قميص قصير بياقة مغلقة أحمر وأسود
+CC_Cloth_TOP__12031.txt,$/63/desc,CloseCollarShort_A_RedBlack,desc,Close Collar Short Red Black,قميص قصير بياقة مغلقة أحمر وأسود
+CC_Cloth_TOP__12031.txt,$/64/name,CloseCollarShort_A_WhiteStripped,name,Close Collar Short Stripped  Custom,قميص قصير مخطط بياقة مغلقة بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/64/desc,CloseCollarShort_A_WhiteStripped,desc,Close Collar Short Stripped Custom,قميص قصير مخطط بياقة مغلقة بتصميم مخصص
+CC_Cloth_TOP__12031.txt,$/65/name,CloseCollarShort_B_Blue,name,Close Collar Short Blue,قميص قصير أزرق بياقة مغلقة
+CC_Cloth_TOP__12031.txt,$/65/desc,CloseCollarShort_B_Blue,desc,Close Collar Short Blue,قميص قصير أزرق بياقة مغلقة
+CC_Cloth_TOP__12031.txt,$/66/name,Sleeves_A_White,name,Sleeves White,أكمام بيضاء
+CC_Cloth_TOP__12031.txt,$/66/desc,Sleeves_A_White,desc,Sleeves White,أكمام بيضاء
+CC_Cloth_TOP__12031.txt,$/67/name,Sleeves_A_Red,name,Sleeves Red,أكمام حمراء
+CC_Cloth_TOP__12031.txt,$/67/desc,Sleeves_A_Red,desc,Sleeves Red,أكمام حمراء
+CC_Cloth_TOP__12031.txt,$/68/name,Sleeves_A_WhiteBlue,name,Sleeves Blue White,أكمام زرقاء وبيضاء
+CC_Cloth_TOP__12031.txt,$/68/desc,Sleeves_A_WhiteBlue,desc,Sleeves Blue White,أكمام زرقاء وبيضاء
+CC_Cloth_VEST__11995.txt,$/0/name,Hoodie_A_White,name,Hoodie Custom,كنزة بغطاء رأس بتصميم مخصص
+CC_Cloth_VEST__11995.txt,$/0/desc,Hoodie_A_White,desc,Hoodie Custom,كنزة بغطاء رأس بتصميم مخصص
+CC_Cloth_VEST__11995.txt,$/1/name,Hoodie_A_Blue,name,Hoodie Blue,كنزة بغطاء رأس زرقاء
+CC_Cloth_VEST__11995.txt,$/1/desc,Hoodie_A_Blue,desc,Hoodie Blue,كنزة بغطاء رأس زرقاء
+CC_Cloth_VEST__11995.txt,$/2/name,Hoodie_A_BluePastel,name,Hoodie Blue Pastel,كنزة بغطاء رأس زرقاء فاتحة
+CC_Cloth_VEST__11995.txt,$/2/desc,Hoodie_A_BluePastel,desc,Hoodie Blue Pastel,كنزة بغطاء رأس زرقاء فاتحة
+CC_Cloth_VEST__11995.txt,$/3/name,Hoodie_A_BlueWhite,name,Hoodie Blue White,كنزة بغطاء رأس زرقاء وبيضاء
+CC_Cloth_VEST__11995.txt,$/3/desc,Hoodie_A_BlueWhite,desc,Hoodie Blue White,كنزة بغطاء رأس زرقاء وبيضاء
+CC_Cloth_VEST__11995.txt,$/4/name,Hoodie_A_WhiteBlueRayed,name,Hoodie Blue White Rayed,كنزة بغطاء رأس زرقاء وبيضاء مخططة
+CC_Cloth_VEST__11995.txt,$/4/desc,Hoodie_A_WhiteBlueRayed,desc,Hoodie Blue White Rayed,كنزة بغطاء رأس زرقاء وبيضاء مخططة
+CC_Cloth_VEST__11995.txt,$/5/name,Cardigan_A_White,name,Cardigan  White,سترة كارديغان بيضاء
+CC_Cloth_VEST__11995.txt,$/5/desc,Cardigan_A_White,desc,Cardigan  White,سترة كارديغان بيضاء
+CC_Cloth_VEST__11995.txt,$/6/name,Cardigan_A_Blue,name,Cardigan Blue,سترة كارديغان زرقاء
+CC_Cloth_VEST__11995.txt,$/6/desc,Cardigan_A_Blue,desc,Cardigan Blue,سترة كارديغان زرقاء
+CC_Cloth_VEST__11995.txt,$/7/name,Cardigan_A_Tricolor,name,Cardigan Tricolor,سترة كارديغان ثلاثية الألوان
+CC_Cloth_VEST__11995.txt,$/7/desc,Cardigan_A_Tricolor,desc,Cardigan Tricolor,سترة كارديغان ثلاثية الألوان
+CC_Cloth_VEST__11995.txt,$/8/name,Cardigan_A_RedWhite,name,Cardigan Red White,سترة كارديغان حمراء وبيضاء
+CC_Cloth_VEST__11995.txt,$/8/desc,Cardigan_A_RedWhite,desc,Cardigan Red White,سترة كارديغان حمراء وبيضاء
+CC_Cloth_VEST__11995.txt,$/9/name,Cardigan_A_GoldRayed,name,Cardigan Gold Rayed,سترة كارديغان ذهبية مخططة
+CC_Cloth_VEST__11995.txt,$/9/desc,Cardigan_A_GoldRayed,desc,Cardigan Gold Rayed,سترة كارديغان ذهبية مخططة
+CC_Cloth_VEST__11995.txt,$/10/name,LeatherJacket_A_White,name,Leather Jacket Custom,سترة جلدية بتصميم مخصص
+CC_Cloth_VEST__11995.txt,$/10/desc,LeatherJacket_A_White,desc,Leather Jacket Custom,سترة جلدية بتصميم مخصص
+CC_Cloth_VEST__11995.txt,$/11/name,LeatherJacket_A_Black,name,Leather Jacket Black,سترة جلدية سوداء
+CC_Cloth_VEST__11995.txt,$/11/desc,LeatherJacket_A_Black,desc,Leather Jacket Black,سترة جلدية سوداء
+CC_Cloth_VEST__11995.txt,$/12/name,Blazer_A_White,name,Blazer White,سترة رسمية بيضاء
+CC_Cloth_VEST__11995.txt,$/12/desc,Blazer_A_White,desc,Blazer White,سترة رسمية بيضاء
+CC_Cloth_VEST__11995.txt,$/13/name,Blazer_A_StripedWhite,name,Blazer Striped White,سترة رسمية بيضاء مخططة
+CC_Cloth_VEST__11995.txt,$/13/desc,Blazer_A_StripedWhite,desc,Blazer Striped White,سترة رسمية بيضاء مخططة
+CC_Cloth_VEST__11995.txt,$/14/name,Blazer_A_Blue,name,Blazer Blue,سترة رسمية زرقاء
+CC_Cloth_VEST__11995.txt,$/14/desc,Blazer_A_Blue,desc,Blazer Blue,سترة رسمية زرقاء
+CC_Cloth_VEST__11995.txt,$/15/name,Blazer_A_Brown,name,Blazer Brown,سترة رسمية بنية
+CC_Cloth_VEST__11995.txt,$/15/desc,Blazer_A_Brown,desc,Blazer Brown,سترة رسمية بنية
+CC_Cloth_VEST__11995.txt,$/16/name,BusinessSuit_A_Blue,name,Business Suit Blue,بدلة عمل زرقاء
+CC_Cloth_VEST__11995.txt,$/16/desc,BusinessSuit_A_Blue,desc,Business Suit Blue,بدلة عمل زرقاء
+CC_Cloth_VEST__11995.txt,$/17/name,BusinessSuit_A_BrownStriped,name,Business Suit Brown Striped,بدلة عمل بنية مخططة
+CC_Cloth_VEST__11995.txt,$/17/desc,BusinessSuit_A_BrownStriped,desc,Business Suit Brown Striped,بدلة عمل بنية مخططة
+CC_Cloth_VEST__11995.txt,$/18/name,BusinessSuit_A_GreyStriped,name,Business Suit Grey Striped,بدلة عمل رمادية مخططة
+CC_Cloth_VEST__11995.txt,$/18/desc,BusinessSuit_A_GreyStriped,desc,Business Suit Grey Striped,بدلة عمل رمادية مخططة
+CC_Cloth_VEST__11995.txt,$/19/name,BusinessSuit_A_BlueGold,name,Business Suit Blue Gold,بدلة عمل زرقاء وذهبية
+CC_Cloth_VEST__11995.txt,$/19/desc,BusinessSuit_A_BlueGold,desc,Business Suit Blue  Gold,بدلة عمل زرقاء وذهبية
+CC_Cloth_VEST__11995.txt,$/20/name,BusinessSuit_A_Grey,name,Business Suit Grey Gold,بدلة عمل رمادية وذهبية
+CC_Cloth_VEST__11995.txt,$/20/desc,BusinessSuit_A_Grey,desc,Business Suit Grey Gold,بدلة عمل رمادية وذهبية
+CC_Cloth_VEST__11995.txt,$/21/name,BusinessSuit_B_Grey,name,Business Suit Custom,بدلة عمل بتصميم مخصص
+CC_Cloth_VEST__11995.txt,$/21/desc,BusinessSuit_B_Grey,desc,Business Suit Custom,بدلة عمل بتصميم مخصص
+CC_Cloth_VEST__11995.txt,$/22/name,Jacket_A_White,name,Field Uniform Custom,زي ميداني بتصميم مخصص
+CC_Cloth_VEST__11995.txt,$/22/desc,Jacket_A_White,desc,Field Uniform Custom,زي ميداني بتصميم مخصص
+CC_Cloth_VEST__11995.txt,$/23/name,Jacket_A_Military,name,Field Uniform Military,زي ميداني عسكري
+CC_Cloth_VEST__11995.txt,$/23/desc,Jacket_A_Military,desc,Field Uniform Military,زي ميداني عسكري
+CC_Cloth_VEST__11995.txt,$/24/name,BusinessSuit_A_White,name,Business Suit White,بدلة عمل بيضاء
+CC_Cloth_VEST__11995.txt,$/24/desc,BusinessSuit_A_White,desc,Business Suit White,بدلة عمل بيضاء
+CC_Cloth_VEST__11995.txt,$/25/name,BusinessSuit_A_Black,name,Business Suit Black,بدلة عمل سوداء
+CC_Cloth_VEST__11995.txt,$/25/desc,BusinessSuit_A_Black,desc,Business Suit Black,بدلة عمل سوداء
+CC_Cloth_VEST__11995.txt,$/26/name,BusinessSuit_A_Red,name,Business Suit Red,بدلة عمل حمراء
+CC_Cloth_VEST__11995.txt,$/26/desc,BusinessSuit_A_Red,desc,Business Suit Red,بدلة عمل حمراء
+CC_Hair__11997.txt,$/0/name,Hair_00,name,Bald,أصلع
+CC_Hair__11997.txt,$/0/desc,Hair_00,desc,Bald,أصلع
+CC_Hair__11997.txt,$/1/name,ClassicShort_A,name,Classic Short,شعر قصير كلاسيكي
+CC_Hair__11997.txt,$/1/desc,ClassicShort_A,desc,Classic Short,شعر قصير كلاسيكي
+CC_Hair__11997.txt,$/2/name,ShortBlowback_A,name,Short Blowback,شعر قصير مسرّح إلى الخلف
+CC_Hair__11997.txt,$/2/desc,ShortBlowback_A,desc,Short Blowback,شعر قصير مسرّح إلى الخلف
+CC_Hair__11997.txt,$/3/name,SidePartWavy_A,name,Side Part Wavy,شعر مموج بفرق جانبي
+CC_Hair__11997.txt,$/3/desc,SidePartWavy_A,desc,Side Part Wavy,شعر مموج بفرق جانبي
+CC_Hair__11997.txt,$/4/name,SlickedTailHair_A,name,Slicked Tail Hair,شعر مربوط ومصفف للخلف
+CC_Hair__11997.txt,$/4/desc,SlickedTailHair_A,desc,Slicked Tail Hair,شعر مربوط ومصفف للخلف
+CC_Hair__11997.txt,$/5/name,Pompadour_A,name,Pompadour Hair,تسريحة بومبادور
+CC_Hair__11997.txt,$/5/desc,Pompadour_A,desc,Pompadour  Hair,تسريحة بومبادور
+CC_Hair__11997.txt,$/6/name,HatShort_A,name,Hat Short Hair,شعر قصير مع قبعة
+CC_Hair__11997.txt,$/6/desc,HatShort_A,desc,Hat Short  Hair,شعر قصير مع قبعة
+CC_Hair__11997.txt,$/7/name,CornRows_A,name,CornRows Hair,ضفائر كورنروز
+CC_Hair__11997.txt,$/7/desc,CornRows_A,desc,HCornRows Hair,ضفائر كورنروز
+CC_Hair__11997.txt,$/8/name,HawkLong_A,name,Hawk Long Hair,شعر طويل بتسريحة الموهوك
+CC_Hair__11997.txt,$/8/desc,HawkLong_A,desc,Hawk Long Hair,شعر طويل بتسريحة الموهوك
+CC_Hair__11997.txt,$/9/name,ChicBunMedium_A,name,Chic Bun Medium Hair,كعكة شعر متوسطة أنيقة
+CC_Hair__11997.txt,$/9/desc,ChicBunMedium_A,desc,Chic Bun Medium Hair,كعكة شعر متوسطة أنيقة
+CC_Hair__11997.txt,$/10/name,Afro_A,name,Afro Hair,شعر أفرو
+CC_Hair__11997.txt,$/10/desc,Afro_A,desc,Afro Hair,شعر أفرو
+CC_Hair__11997.txt,$/11/name,Bald_A,name,Semi Bald Hair,شعر شبه أصلع
+CC_Hair__11997.txt,$/11/desc,Bald_A,desc,Semi Bald Hair,شعر شبه أصلع
+CC_Hair__11997.txt,$/12/name,BangShort_A,name,Bang Short Hair,شعر قصير بغرة
+CC_Hair__11997.txt,$/12/desc,BangShort_A,desc,Bang Short Hair,شعر قصير بغرة
+CC_Hair__11997.txt,$/13/name,DoubleBuns_A,name,Double Buns Hair,كعكتا شعر
+CC_Hair__11997.txt,$/13/desc,DoubleBuns_A,desc,Double Buns Hair,كعكتا شعر
+CC_Hair__11997.txt,$/14/name,DoublePonyTails_A,name,Double Pony Tails Hair,ذيلتا حصان
+CC_Hair__11997.txt,$/14/desc,DoublePonyTails_A,desc,Double Pony Tails Hair,ذيلتا حصان
+CC_Hair__11997.txt,$/15/name,SlickedBun_A,name,Slicked Bun Hair,كعكة شعر مصففة للخلف
+CC_Hair__11997.txt,$/15/desc,SlickedBun_A,desc,Slicked Bun  Hair,كعكة شعر مصففة للخلف
+CC_Hair__11997.txt,$/16/name,HatLong_A,name,Hat Long Hair,شعر طويل مع قبعة
+CC_Hair__11997.txt,$/16/desc,HatLong_A,desc,Hat Long Hair,شعر طويل مع قبعة
+CC_Panties__12042.txt,$/0/name,bra_normal,name,Bra,حمالة صدر
+CC_Panties__12042.txt,$/1/name,boxer,name,Boxer,سروال بوكسر
+Consumables__12043.txt,$/0/name,consumable_milk_gold_cow,name,Cow Milk - Giant,حليب بقري — عبوة عملاقة
+Consumables__12043.txt,$/0/desc,consumable_milk_gold_cow,desc,A giant milk bottle,عبوة حليب عملاقة
+Consumables__12043.txt,$/0/sharedGO/name,,name,consumable_milk_gold,consumable_milk_gold
+Consumables__12043.txt,$/1/name,consumable_milk_large_cow,name,Cow Milk - Large,حليب بقري — عبوة كبيرة
+Consumables__12043.txt,$/1/desc,consumable_milk_large_cow,desc,A large milk bottle,عبوة حليب كبيرة
+Consumables__12043.txt,$/1/sharedGO/name,,name,consumable_milk_large,consumable_milk_large
+Consumables__12043.txt,$/2/name,consumable_milk_medium_cow,name,Cow Milk - Medium,حليب بقري — عبوة متوسطة
+Consumables__12043.txt,$/2/desc,consumable_milk_medium_cow,desc,A medium milk bottle,عبوة حليب متوسطة
+Consumables__12043.txt,$/2/sharedGO/name,,name,consumable_milk_medium,consumable_milk_medium
+Consumables__12043.txt,$/3/name,consumable_milk_small_cow,name,Cow Milk - Small,حليب بقري — عبوة صغيرة
+Consumables__12043.txt,$/3/desc,consumable_milk_small_cow,desc,A small milk bottle,عبوة حليب صغيرة
+Consumables__12043.txt,$/3/sharedGO/name,,name,consumable_milk_small,consumable_milk_small
+Consumables__12043.txt,$/4/name,consumable_egg_brown_small_chicken,name,Chicken Egg - Small,بيضة دجاج صغيرة
+Consumables__12043.txt,$/4/desc,consumable_egg_brown_small_chicken,desc,A simple Chicken Egg,بيضة دجاج عادية
+Consumables__12043.txt,$/4/sharedGO/name,,name,consumable_egg_brown_small,consumable_egg_brown_small
+Consumables__12043.txt,$/5/name,consumable_egg_brown_medium_chicken,name,Chicken Egg - Medium,بيضة دجاج متوسطة
+Consumables__12043.txt,$/5/desc,consumable_egg_brown_medium_chicken,desc,A very rare Chicken Egg,بيضة دجاج نادرة جدًا
+Consumables__12043.txt,$/5/sharedGO/name,,name,consumable_egg_brown_medium,consumable_egg_brown_medium
+Consumables__12043.txt,$/6/name,consumable_egg_brown_large_chicken,name,Chicken Egg - Large,بيضة دجاج كبيرة
+Consumables__12043.txt,$/6/desc,consumable_egg_brown_large_chicken,desc,A legendary Chicken Egg,بيضة دجاج أسطورية
+Consumables__12043.txt,$/6/sharedGO/name,,name,consumable_egg_brown_large,consumable_egg_brown_large
+Consumables__12043.txt,$/7/name,consumable_egg_white_small_duck,name,Duck Egg - Small,بيضة بط صغيرة
+Consumables__12043.txt,$/7/desc,consumable_egg_white_small_duck,desc,A Duck Egg,بيضة بط
+Consumables__12043.txt,$/7/sharedGO/name,,name,consumable_egg_white_small,consumable_egg_white_small
+Consumables__12043.txt,$/8/name,consumable_egg_white_medium_duck,name,Duck Egg - Medium,بيضة بط متوسطة
+Consumables__12043.txt,$/8/desc,consumable_egg_white_medium_duck,desc,A very rare Duck Egg,بيضة بط نادرة جدًا
+Consumables__12043.txt,$/8/sharedGO/name,,name,consumable_egg_white_medium,consumable_egg_white_medium
+Consumables__12043.txt,$/9/name,consumable_egg_white_large_duck,name,Duck Egg - Large,بيضة بط كبيرة
+Consumables__12043.txt,$/9/desc,consumable_egg_white_large_duck,desc,A legendary Duck Egg,بيضة بط أسطورية
+Consumables__12043.txt,$/9/sharedGO/name,,name,consumable_egg_white_large,consumable_egg_white_large
+Consumables__12043.txt,$/10/name,consumable_chicken_full,name,Chicken,دجاج
+Consumables__12043.txt,$/10/desc,consumable_chicken_full,desc,full chicken,دجاجة كاملة
+Consumables__12043.txt,$/10/sharedGO/name,,name,consumable_whitemeat_full,consumable_whitemeat_full
+Consumables__12043.txt,$/11/name,consumable_chicken_Leg,name,Chicken Leg,فخذ دجاج
+Consumables__12043.txt,$/11/desc,consumable_chicken_Leg,desc,chicken leg,فخذ دجاج
+Consumables__12043.txt,$/11/sharedGO/name,,name,consumable_whitemeat_Leg,consumable_whitemeat_Leg
+Consumables__12043.txt,$/12/name,consumable_chicken_breast,name,Chicken Breast,صدر دجاج
+Consumables__12043.txt,$/12/desc,consumable_chicken_breast,desc,chicken Breast,صدر دجاج
+Consumables__12043.txt,$/12/sharedGO/name,,name,consumable_whitemeat_breast,consumable_whitemeat_breast
+Consumables__12043.txt,$/13/name,consumable_meat_small_cow,name,Cow Meat - Small,لحم بقري — قطعة صغيرة
+Consumables__12043.txt,$/13/desc,consumable_meat_small_cow,desc,Small Meat Steak,شريحة لحم صغيرة
+Consumables__12043.txt,$/13/sharedGO/name,,name,consumable_meat_small,consumable_meat_small
+Consumables__12043.txt,$/14/name,consumable_meat_medium_cow,name,Cow Meat - Medium,لحم بقري — قطعة متوسطة
+Consumables__12043.txt,$/14/desc,consumable_meat_medium_cow,desc,Medium Meat Steak,شريحة لحم متوسطة
+Consumables__12043.txt,$/14/sharedGO/name,,name,consumable_meat_medium,consumable_meat_medium
+Consumables__12043.txt,$/15/name,consumable_meat_big_cow,name,Meat Steak - Big,شريحة لحم كبيرة
+Consumables__12043.txt,$/15/desc,consumable_meat_big_cow,desc,Big Meat Steak,شريحة لحم كبيرة
+Consumables__12043.txt,$/15/sharedGO/name,,name,consumable_meat_big,consumable_meat_big
+Consumables__12043.txt,$/16/name,consumable_magic_algue,name,Seaweed,أعشاب بحرية
+Consumables__12043.txt,$/16/desc,consumable_magic_algue,desc,Heal your sick animals while waiting for the veterinarian to be available in the game.,عالج حيواناتك المريضة إلى أن يصبح الطبيب البيطري متاحًا في اللعبة.
+Consumables__12043.txt,$/17/name,consumable_bird_meat,name,Bird Meat,لحم طيور
+Consumables__12043.txt,$/17/desc,consumable_bird_meat,desc,Bird Meat,لحم طيور
+Consumables__12043.txt,$/17/sharedGO/name,,name,consumable_whitemeat_breast,consumable_whitemeat_breast
+Consumables__12043.txt,$/18/name,consumable_milk_medium_goat,name,Goat Milk - Medium,حليب ماعز — عبوة متوسطة
+Consumables__12043.txt,$/18/desc,consumable_milk_medium_goat,desc,A medium milk bottle of goat milk,عبوة متوسطة من حليب الماعز
+Consumables__12043.txt,$/18/sharedGO/name,,name,consumable_milk_medium,consumable_milk_medium
+Consumables__12043.txt,$/19/name,consumable_milk_small_goat,name,Goat Milk - Small,حليب ماعز — عبوة صغيرة
+Consumables__12043.txt,$/19/desc,consumable_milk_small_goat,desc,A small goat milk bottle,عبوة صغيرة من حليب الماعز
+Consumables__12043.txt,$/19/sharedGO/name,,name,consumable_milk_small,consumable_milk_small
+Consumables__12043.txt,$/20/name,consumable_meat_small_goat,name,Goat Meat - Small,لحم ماعز — قطعة صغيرة
+Consumables__12043.txt,$/20/desc,consumable_meat_small_goat,desc,Small goat meat steak,شريحة لحم ماعز صغيرة
+Consumables__12043.txt,$/20/sharedGO/name,,name,consumable_meat_small,consumable_meat_small
+Consumables__12043.txt,$/21/name,consumable_meat_medium_goat,name,Goat Meat - Medium,لحم ماعز — قطعة متوسطة
+Consumables__12043.txt,$/21/desc,consumable_meat_medium_goat,desc,Medium Goat Steak,شريحة لحم ماعز متوسطة
+Consumables__12043.txt,$/21/sharedGO/name,,name,consumable_meat_medium,consumable_meat_medium
+Consumables__12043.txt,$/22/name,consumable_meat_big_goat,name,Goat Meat - Big,لحم ماعز — قطعة كبيرة
+Consumables__12043.txt,$/22/desc,consumable_meat_big_goat,desc,Big Goat Meat Steak,شريحة لحم ماعز كبيرة
+Consumables__12043.txt,$/22/sharedGO/name,,name,consumable_meat_big,consumable_meat_big
+Consumables__12043.txt,$/23/name,consumable_meat_small_ram,name,Lamb Meat - Small,لحم ضأن — قطعة صغيرة
+Consumables__12043.txt,$/23/desc,consumable_meat_small_ram,desc,Small Lamb Meat,قطعة لحم ضأن صغيرة
+Consumables__12043.txt,$/23/sharedGO/name,,name,consumable_meat_small,consumable_meat_small
+Consumables__12043.txt,$/24/name,consumable_meat_medium_ram,name,Lamb Meat - Medium,لحم ضأن — قطعة متوسطة
+Consumables__12043.txt,$/24/desc,consumable_meat_medium_ram,desc,Medium Lamb Meat Steak,شريحة لحم ضأن متوسطة
+Consumables__12043.txt,$/24/sharedGO/name,,name,consumable_meat_medium,consumable_meat_medium
+Consumables__12043.txt,$/25/name,consumable_meat_big_ram,name,Lamb Meat - Big,لحم ضأن — قطعة كبيرة
+Consumables__12043.txt,$/25/desc,consumable_meat_big_ram,desc,Big Lamb Meat Steak,شريحة لحم ضأن كبيرة
+Consumables__12043.txt,$/25/sharedGO/name,,name,consumable_meat_big,consumable_meat_big
+Consumables__12043.txt,$/26/name,consumable_meat_small_rabit,name,Rabbit Meat - Small,لحم أرنب — قطعة صغيرة
+Consumables__12043.txt,$/26/desc,consumable_meat_small_rabit,desc,Small Meat Steak,شريحة لحم صغيرة
+Consumables__12043.txt,$/26/sharedGO/name,,name,consumable_meat_small,consumable_meat_small
+Custum_Buildings__12000.txt,$/0/name,Custum_Barn_Strong_Small,name,Barn,حظيرة
+Custum_Buildings__12000.txt,$/0/desc,Custum_Barn_Strong_Small,desc,"An agricultural building typically used for storing farm equipment, hay, and livestock.",مبنى زراعي يُستخدم عادةً لتخزين معدات المزرعة والتبن وإيواء الماشية.
+Custum_Buildings__12000.txt,$/1/name,Custum_Barn_Strong_Medium,name,Big Barn,حظيرة كبيرة
+Custum_Buildings__12000.txt,$/1/desc,Custum_Barn_Strong_Medium,desc,"An agricultural building typically used for storing farm equipment, hay, and livestock.",مبنى زراعي يُستخدم عادةً لتخزين معدات المزرعة والتبن وإيواء الماشية.
+Custum_Buildings__12000.txt,$/2/name,Custum_Barn_Strong_Big,name,Deluxe Barn,حظيرة فاخرة
+Custum_Buildings__12000.txt,$/2/desc,Custum_Barn_Strong_Big,desc,"An agricultural building typically used for storing farm equipment, hay, and livestock.",مبنى زراعي يُستخدم عادةً لتخزين معدات المزرعة والتبن وإيواء الماشية.
+Custum_Buildings__12000.txt,$/3/name,Custum_Barn_Weak_Small,name,Coop,قن دجاج
+Custum_Buildings__12000.txt,$/3/desc,Custum_Barn_Weak_Small,desc,"Used to house and protect domesticated animals such as chickens, ducks, and rabbits.",مأوى لإيواء الحيوانات الداجنة وحمايتها، مثل الدجاج والبط والأرانب.
+Custum_Buildings__12000.txt,$/4/name,Custum_Barn_Weak_Medium,name,Big Coop,قن دجاج كبير
+Custum_Buildings__12000.txt,$/4/desc,Custum_Barn_Weak_Medium,desc,"Used to house and protect domesticated animals such as chickens, ducks, and rabbits.",مأوى لإيواء الحيوانات الداجنة وحمايتها، مثل الدجاج والبط والأرانب.
+Custum_Buildings__12000.txt,$/5/name,Custum_Barn_Weak_Big,name,Deluxe Coop,قن دجاج فاخر
+Custum_Buildings__12000.txt,$/5/desc,Custum_Barn_Weak_Big,desc,"Used to house and protect domesticated animals such as chickens, ducks, and rabbits.",مأوى لإيواء الحيوانات الداجنة وحمايتها، مثل الدجاج والبط والأرانب.
+Custum_Buildings__12000.txt,$/6/name,Custum_GreenHouse_01,name,Green House Type 1,بيت زجاجي — النوع الأول
+Custum_Buildings__12000.txt,$/6/desc,Custum_GreenHouse_01,desc,A green house to grow vegetables and fruits out of their season,بيت زجاجي لزراعة الخضروات والفواكه خارج موسمها.
+Custum_Buildings__12000.txt,$/7/name,Custum_Barn_AutoFeederModule,name,Barn AutoFeeder Kit,عدة معلف آلي للحظيرة
+Custum_Buildings__12000.txt,$/7/desc,Custum_Barn_AutoFeederModule,desc,Add some automation to your barn,أضف بعض الأتمتة إلى حظيرتك.
+Custum_Buildings__12000.txt,$/8/name,Custum_Barn_HeaterModule,name,Barn Heat Kit,عدة تدفئة الحظيرة
+Custum_Buildings__12000.txt,$/8/desc,Custum_Barn_HeaterModule,desc,Will keep your livestock warm in winter and cool in the summer,تحافظ على دفء ماشيتك في الشتاء وبرودتها في الصيف.
+Custum_Buildings__12000.txt,$/9/name,prop_WaterTower_Small,name,Water Tower,برج مياه
+Custum_Buildings__12000.txt,$/9/desc,prop_WaterTower_Small,desc,Store water and distribute it to your barns,خزّن المياه ووزّعها على حظائرك.
+Custum_Buildings__12000.txt,$/10/name,prop_Silo_Small,name,Silo - Small,صومعة صغيرة
+Custum_Buildings__12000.txt,$/10/desc,prop_Silo_Small,desc,Store livestock food and distribute it to your barns,خزّن علف الماشية ووزّعه على حظائرك.
+Custum_Buildings__12000.txt,$/11/name,prop_Silo_Medium,name,Silo - Medium,صومعة متوسطة
+Custum_Buildings__12000.txt,$/11/desc,prop_Silo_Medium,desc,Store livestock food and distribute it to your barns,خزّن علف الماشية ووزّعه على حظائرك.
+Custum_Buildings__12000.txt,$/12/name,prop_Silo_Big,name,Silo - Big,صومعة كبيرة
+Custum_Buildings__12000.txt,$/12/desc,prop_Silo_Big,desc,Store livestock food and distribute it to your barns,خزّن علف الماشية ووزّعه على حظائرك.
+Enemies__12015.txt,$/0/name,Skeleton_A,name,Skeleton,هيكل عظمي
+Enemies__12015.txt,$/0/desc,Skeleton_A,desc,A very dangerous Skeleton,هيكل عظمي شديد الخطورة
+Enemies__12015.txt,$/1/name,Spider_Black_Widow,name,Spider_Black_Widow,Spider_Black_Widow
+Enemies__12015.txt,$/1/desc,Spider_Black_Widow,desc,A very dangerous Spider_Black_Widow,عنكبوت الأرملة السوداء شديد الخطورة
+Enemies__12015.txt,$/2/name,Spider_Tarantula,name,Spider_Tarantula,Spider_Tarantula
+Enemies__12015.txt,$/2/desc,Spider_Tarantula,desc,A very dangerous Spider_Tarantula,عنكبوت الرتيلاء شديد الخطورة
+Equippable_Misc__11980.txt,$/0/name,misc_GPSTracker,name,GPS tracker,جهاز تتبع GPS
+Equippable_Misc__11980.txt,$/0/desc,misc_GPSTracker,desc,To track your animals,لتتبّع حيواناتك.
+Equippable_Misc__11980.txt,$/1/name,misc_Guitar_01,name,Acoustic Guitar,غيتار صوتي
+Equippable_Misc__11980.txt,$/1/desc,misc_Guitar_01,desc,Play music,اعزف الموسيقى.
+Equippable_Misc__11980.txt,$/2/name,weapon_Ammo_01,name,Devil Kiss - Cartridge,خرطوشة «قبلة الشيطان»
+Equippable_Misc__11980.txt,$/2/desc,weapon_Ammo_01,desc,"10 x bullets, the ones that kill things",10 رصاصات قاتلة.
+Fertilizers__11978.txt,$/0/name,PlantationBaseObject,name,PlantationBaseObject,PlantationBaseObject
+Fertilizers__11978.txt,$/0/desc,PlantationBaseObject,desc,PlantationBaseObject,PlantationBaseObject
+Fertilizers__11978.txt,$/1/name,fertilizer_quality_basic,name,Fertilizer,سماد
+Fertilizers__11978.txt,$/1/desc,fertilizer_quality_basic,desc,Improves the plantation quality and increasing your chance to grow superior quality crops,يحسّن جودة المزرعة ويزيد فرصك في زراعة محاصيل فائقة الجودة.
+Fertilizers__11978.txt,$/1/sharedGO/name,,name,tools_fertilizer_box,tools_fertilizer_box
+Fertilizers__11978.txt,$/2/name,fertilizer_nbfruit_basic,name,Boost Fertilizer,سماد معزّز
+Fertilizers__11978.txt,$/2/desc,fertilizer_nbfruit_basic,desc,Increasing your chance to grow more fruits and vegetables per plantation,يزيد فرص إنتاج المزيد من الفواكه والخضروات في كل مزرعة.
+Fertilizers__11978.txt,$/2/sharedGO/name,,name,tools_fertilizer_box,tools_fertilizer_box
+Fertilizers__11978.txt,$/3/name,fertilizer_giant_basic,name,OGM Fertilizer,سماد معدّل وراثيًا
+Fertilizers__11978.txt,$/3/desc,fertilizer_giant_basic,desc,Increasing your chance to grow GIANT fruits and vegetables,يزيد فرص زراعة فواكه وخضروات عملاقة.
+Fertilizers__11978.txt,$/3/sharedGO/name,,name,tools_fertilizer_box,tools_fertilizer_box
+Fines_Services__12034.txt,$/0/name,FINE_PLAYER_HOSPITAL_FEES,name,Resuscitation costs,تكاليف الإنعاش
+Fines_Services__12034.txt,$/0/desc,FINE_PLAYER_HOSPITAL_FEES,desc,Resuscitation costs,تكاليف الإنعاش
+Fines_Services__12034.txt,$/1/name,FINE_POLICE_CAPTURE_FEES,name,Police custody expenses,تكاليف الاحتجاز لدى الشرطة
+Fines_Services__12034.txt,$/1/desc,FINE_POLICE_CAPTURE_FEES,desc,Police custody expenses,تكاليف الاحتجاز لدى الشرطة
+Fines_Services__12034.txt,$/2/name,FINE_POLICE_FAILER_TO_COMPLY_FEES,name,Failure to comply with police orders,عدم الامتثال لأوامر الشرطة
+Fines_Services__12034.txt,$/2/desc,FINE_POLICE_FAILER_TO_COMPLY_FEES,desc,Failure to comply with police orders,عدم الامتثال لأوامر الشرطة
+Fines_Services__12034.txt,$/3/name,FINE_POLICE_CHASING_FEES,name,Police chasing cost,تكاليف مطاردة الشرطة
+Fines_Services__12034.txt,$/3/desc,FINE_POLICE_CHASING_FEES,desc,Police chasing cost,تكاليف مطاردة الشرطة
+Fines_Services__12034.txt,$/4/name,FINE_HARVEST_PROHIBITED,name,Prohibited harvest,حصاد محظور
+Fines_Services__12034.txt,$/4/desc,FINE_HARVEST_PROHIBITED,desc,Prohibited harvest,حصاد محظور
+Fines_Services__12034.txt,$/5/name,FINE_DESTRUCTION_ENVOBJ,name,Destruction of public property,إتلاف ممتلكات عامة
+Fines_Services__12034.txt,$/5/desc,FINE_DESTRUCTION_ENVOBJ,desc,Destruction of public property,إتلاف ممتلكات عامة
+Fines_Services__12034.txt,$/6/name,FINE_DESTRUCTION_OF_RENTAL_BIKE,name,Rental bike damaged,إتلاف دراجة مستأجرة
+Fines_Services__12034.txt,$/6/desc,FINE_DESTRUCTION_OF_RENTAL_BIKE,desc,Rental bike damaged,إتلاف دراجة مستأجرة
+Fines_Services__12034.txt,$/7/name,FINE_DESTRUCTION_OF_PLANTATION,name,Destruction of private plantation,إتلاف مزرعة خاصة
+Fines_Services__12034.txt,$/7/desc,FINE_DESTRUCTION_OF_PLANTATION,desc,Destruction of private plantation,إتلاف مزرعة خاصة
+Fines_Services__12034.txt,$/8/name,FINE_STOLE_PLANTATIONS_FRUITS,name,Steal of private ressource,سرقة مورد خاص
+Fines_Services__12034.txt,$/8/desc,FINE_STOLE_PLANTATIONS_FRUITS,desc,Steal of private ressource,سرقة مورد خاص
+Fines_Services__12034.txt,$/9/name,FINE_DESTRUCTION_OF_PLANTATION_FRUIT,name,Destruction of private ressource,إتلاف مورد خاص
+Fines_Services__12034.txt,$/9/desc,FINE_DESTRUCTION_OF_PLANTATION_FRUIT,desc,Destruction of private ressource,إتلاف مورد خاص
+Fines_Services__12034.txt,$/10/name,FINE_NPC_LIVESTOCK_ATTACKING,name,Aggression of private animal,الاعتداء على حيوان مملوك للغير
+Fines_Services__12034.txt,$/10/desc,FINE_NPC_LIVESTOCK_ATTACKING,desc,Aggression of private animal,الاعتداء على حيوان مملوك للغير
+Fines_Services__12034.txt,$/11/name,FINE_NPC_LIVESTOCK_KILLING,name,Killing private animal,قتل حيوان مملوك للغير
+Fines_Services__12034.txt,$/11/desc,FINE_NPC_LIVESTOCK_KILLING,desc,Killing private animal,قتل حيوان مملوك للغير
+Fines_Services__12034.txt,$/12/name,FINE_NPC_LIVESTOCK_STEALING,name,Stealing private animal,سرقة حيوان مملوك للغير
+Fines_Services__12034.txt,$/12/desc,FINE_NPC_LIVESTOCK_STEALING,desc,Stealing private animal,سرقة حيوان مملوك للغير
+Fines_Services__12034.txt,$/13/name,FINE_NPC_LIVESTOCK_MILKING,name,Stealing private animal ressources,سرقة موارد حيوان مملوك للغير
+Fines_Services__12034.txt,$/13/desc,FINE_NPC_LIVESTOCK_MILKING,desc,Stealing private animal ressources,سرقة موارد حيوان مملوك للغير
+Fines_Services__12034.txt,$/14/name,FINE_NPC_DESTRUCTION_BUILDING,name,Destruction of private property,إتلاف ممتلكات خاصة
+Fines_Services__12034.txt,$/14/desc,FINE_NPC_DESTRUCTION_BUILDING,desc,Destruction of private property,إتلاف ممتلكات خاصة
+Fines_Services__12034.txt,$/15/name,FINE_VEHICULE_TRY_TO_STEAL,name,Attempted vehicle theft,محاولة سرقة مركبة
+Fines_Services__12034.txt,$/15/desc,FINE_VEHICULE_TRY_TO_STEAL,desc,Attempted vehicle theft,محاولة سرقة مركبة
+Fines_Services__12034.txt,$/16/name,FINE_VEHICULE_STEALING,name,Vehicle theft,سرقة مركبة
+Fines_Services__12034.txt,$/16/desc,FINE_VEHICULE_STEALING,desc,Vehicle theft,سرقة مركبة
+Fines_Services__12034.txt,$/17/name,FINE_VEHICULE_DESTRUCTION,name,Vehicle destruction,إتلاف مركبة
+Fines_Services__12034.txt,$/17/desc,FINE_VEHICULE_DESTRUCTION,desc,Vehicle destruction,إتلاف مركبة
+Fines_Services__12034.txt,$/18/name,FINE_VEHICULE_POLICE_DESTRUCTION,name,Police vehicle destruction,إتلاف مركبة للشرطة
+Fines_Services__12034.txt,$/18/desc,FINE_VEHICULE_POLICE_DESTRUCTION,desc,Police vehicle destruction,إتلاف مركبة للشرطة
+Fines_Services__12034.txt,$/19/name,FINE_NPC_KILLING,name,Injuring a civilian,إصابة مدني
+Fines_Services__12034.txt,$/19/desc,FINE_NPC_KILLING,desc,Injuring a civilian,إصابة مدني
+Misc__12028.txt,$/0/name,CarToRepair_Cimka,name,Victor's Old Car,سيارة فيكتور القديمة
+Misc__12028.txt,$/0/desc,CarToRepair_Cimka,desc,A car that has seen better days. It might be useful for parts or repairs.,سيارة عتيقة قد تفيد قطعها في الإصلاح أو استخدامها كقطع غيار.
+NetEnvObj__11977.txt,$/0/name,EnvObj_GazPump_Nomad,name,GazPump_Nomad,GazPump_Nomad
+NetEnvObj__11977.txt,$/0/desc,EnvObj_GazPump_Nomad,desc,BicycleRentStation,BicycleRentStation
+NetEnvObj__11977.txt,$/1/name,EnvObj_EVCharger_01,name,EnvObj_EVCharger_01,EnvObj_EVCharger_01
+NetEnvObj__11977.txt,$/1/desc,EnvObj_EVCharger_01,desc,EnvObj_EVCharger_01,EnvObj_EVCharger_01
+NetEnvObj__11977.txt,$/2/name,EnvObj_EVCharger_02,name,EnvObj_EVCharger_02,EnvObj_EVCharger_02
+NetEnvObj__11977.txt,$/2/desc,EnvObj_EVCharger_02,desc,EnvObj_EVCharger_02,EnvObj_EVCharger_02
+NetEnvObj__11977.txt,$/3/name,BicycleRentStation,name,BicycleRentStation,BicycleRentStation
+NetEnvObj__11977.txt,$/3/desc,BicycleRentStation,desc,BicycleRentStation,BicycleRentStation
+NetEnvObj__11977.txt,$/4/name,Big_Wood_Fence,name,Big_Wood_Fence,Big_Wood_Fence
+NetEnvObj__11977.txt,$/4/desc,Big_Wood_Fence,desc,Big_Wood_Fence,Big_Wood_Fence
+NetEnvObj__11977.txt,$/5/name,EnvObj_Town_Fancy_Fence_Full,name,Town_Fancy_Fence_Full,Town_Fancy_Fence_Full
+NetEnvObj__11977.txt,$/5/desc,EnvObj_Town_Fancy_Fence_Full,desc,Town_Fancy_Fence_Full,Town_Fancy_Fence_Full
+NetEnvObj__11977.txt,$/6/name,EnvObj_Town_Fancy_Fence_Part,name,Town_Fancy_Fence_Part,Town_Fancy_Fence_Part
+NetEnvObj__11977.txt,$/6/desc,EnvObj_Town_Fancy_Fence_Part,desc,Town_Fancy_Fence_Part,Town_Fancy_Fence_Part
+NetEnvObj__11977.txt,$/7/name,EnvObj_GazPump,name,EnvObj_GazPump,EnvObj_GazPump
+NetEnvObj__11977.txt,$/7/desc,EnvObj_GazPump,desc,EnvObj_GazPump,EnvObj_GazPump
+NetEnvObj__11977.txt,$/8/name,EnvObj_GazPump_Sigle,name,GazPump_Sigle,GazPump_Sigle
+NetEnvObj__11977.txt,$/8/desc,EnvObj_GazPump_Sigle,desc,GazPump_Sigle,GazPump_Sigle
+NetEnvObj__11977.txt,$/9/name,EnvObj_GazPump_Big,name,GazPump_Big,GazPump_Big
+NetEnvObj__11977.txt,$/9/desc,EnvObj_GazPump_Big,desc,GazPump_Big,GazPump_Big
+NetEnvObj__11977.txt,$/10/name,EnvObj_Fence_Metalic_Big_Full,name,EnvObj_Fence_Metalic_Big_Full,EnvObj_Fence_Metalic_Big_Full
+NetEnvObj__11977.txt,$/10/desc,EnvObj_Fence_Metalic_Big_Full,desc,EnvObj_Fence_Metalic_Big_Full,EnvObj_Fence_Metalic_Big_Full
+NetEnvObj__11977.txt,$/11/name,EnvObj_Fence_Metalic_Big_Part,name,EnvObj_Fence_Metalic_Big_Part,EnvObj_Fence_Metalic_Big_Part
+NetEnvObj__11977.txt,$/11/desc,EnvObj_Fence_Metalic_Big_Part,desc,EnvObj_Fence_Metalic_Big_Part,EnvObj_Fence_Metalic_Big_Part
+NetEnvObj__11977.txt,$/12/name,EnvObj_PhoneCabine,name,EnvObj_PhoneCabine,EnvObj_PhoneCabine
+NetEnvObj__11977.txt,$/12/desc,EnvObj_PhoneCabine,desc,EnvObj_PhoneCabine,EnvObj_PhoneCabine
+NetEnvObj__11977.txt,$/13/name,EnvObj_VendingMachine,name,EnvObj_VendingMachine,EnvObj_VendingMachine
+NetEnvObj__11977.txt,$/13/desc,EnvObj_VendingMachine,desc,EnvObj_VendingMachine,EnvObj_VendingMachine
+NetEnvObj__11977.txt,$/14/name,EnvObj_VIC_Trailer,name,EnvObj_VIC_Trailer,EnvObj_VIC_Trailer
+NetEnvObj__11977.txt,$/14/desc,EnvObj_VIC_Trailer,desc,EnvObj_VIC_Trailer,EnvObj_VIC_Trailer
+NetEnvObj__11977.txt,$/15/name,EnvObj_WaterPump,name,EnvObj_WaterPump,EnvObj_WaterPump
+NetEnvObj__11977.txt,$/15/desc,EnvObj_WaterPump,desc,EnvObj_WaterPump,EnvObj_WaterPump
+NetEnvObj__11977.txt,$/16/name,EnvObj_Fence_Country_Basic_T1,name,Fence_Country_Basic_T1,Fence_Country_Basic_T1
+NetEnvObj__11977.txt,$/16/desc,EnvObj_Fence_Country_Basic_T1,desc,Fence_Country_Basic_T1,Fence_Country_Basic_T1
+NetEnvObj__11977.txt,$/17/name,EnvObj_Fence_Country_Basic_T1_FULL,name,Fence_Country_Basic_T1_FULL,Fence_Country_Basic_T1_FULL
+NetEnvObj__11977.txt,$/17/desc,EnvObj_Fence_Country_Basic_T1_FULL,desc,Fence_Country_Basic_T1_FULL,Fence_Country_Basic_T1_FULL
+NetEnvObj__11977.txt,$/18/name,EnvObj_Fence_Country_Basic_T2,name,Fence_Country_Basic_T2,Fence_Country_Basic_T2
+NetEnvObj__11977.txt,$/18/desc,EnvObj_Fence_Country_Basic_T2,desc,Fence_Country_Basic_T2,Fence_Country_Basic_T2
+NetEnvObj__11977.txt,$/19/name,EnvObj_Fence_Country_Luxe_T1,name,EnvObj_Fence_Country_Luxe_T1,EnvObj_Fence_Country_Luxe_T1
+NetEnvObj__11977.txt,$/19/desc,EnvObj_Fence_Country_Luxe_T1,desc,EnvObj_Fence_Country_Luxe_T1,EnvObj_Fence_Country_Luxe_T1
+NetEnvObj__11977.txt,$/20/name,EnvObj_Fence_Country_Baic_T1_Door,name,EnvObj_Fence_Country_Baic_T1_Door,EnvObj_Fence_Country_Baic_T1_Door
+NetEnvObj__11977.txt,$/20/desc,EnvObj_Fence_Country_Baic_T1_Door,desc,EnvObj_Fence_Country_Baic_T1_Door,EnvObj_Fence_Country_Baic_T1_Door
+NetEnvObj__11977.txt,$/21/name,EnvObj_Fence_Country_Luxe_Gate,name,EnvObj_Fence_Country_Luxe_Gate,EnvObj_Fence_Country_Luxe_Gate
+NetEnvObj__11977.txt,$/21/desc,EnvObj_Fence_Country_Luxe_Gate,desc,EnvObj_Fence_Country_Luxe_Gate,EnvObj_Fence_Country_Luxe_Gate
+NetEnvObj__11977.txt,$/22/name,EnvObj_Plantation,name,EnvObj_Plantation,EnvObj_Plantation
+NetEnvObj__11977.txt,$/22/desc,EnvObj_Plantation,desc,EnvObj_Plantation,EnvObj_Plantation
+NetEnvObj__11977.txt,$/23/name,EnvObj_Fence_Country_Wired_T1,name,EnvObj_Fence_Country_Wired_T1,EnvObj_Fence_Country_Wired_T1
+NetEnvObj__11977.txt,$/23/desc,EnvObj_Fence_Country_Wired_T1,desc,EnvObj_Fence_Country_Wired_T1,EnvObj_Fence_Country_Wired_T1
+NetEnvObj__11977.txt,$/24/name,EnvProp_WindFarm_Big,name,EnvProp_WindFarm_Big,EnvProp_WindFarm_Big
+NetEnvObj__11977.txt,$/24/desc,EnvProp_WindFarm_Big,desc,EnvProp_WindFarm_Big,EnvProp_WindFarm_Big
+NetEnvObj__11977.txt,$/25/name,EnvObj_Rubbish_Pile_02,name,EnvObj_Rubbish_Pile_02,EnvObj_Rubbish_Pile_02
+NetEnvObj__11977.txt,$/25/desc,EnvObj_Rubbish_Pile_02,desc,EnvObj_Rubbish_Pile_02,EnvObj_Rubbish_Pile_02
+NetEnvObj__11977.txt,$/26/name,EnvObj_Rubbish_Pile_03,name,EnvObj_Rubbish_Pile_03,EnvObj_Rubbish_Pile_03
+NetEnvObj__11977.txt,$/26/desc,EnvObj_Rubbish_Pile_03,desc,EnvObj_Rubbish_Pile_03,EnvObj_Rubbish_Pile_03
+NetEnvObj__11977.txt,$/27/name,EnvObj_Rubbish_Tyre_01,name,EnvObj_Rubbish_Tyre_01,EnvObj_Rubbish_Tyre_01
+NetEnvObj__11977.txt,$/27/desc,EnvObj_Rubbish_Tyre_01,desc,EnvObj_Rubbish_Tyre_01,EnvObj_Rubbish_Tyre_01
+NetEnvObj__11977.txt,$/28/name,EnvObj_VIC_TractorOld_01,name,EnvObj_VIC_TractorOld_01,EnvObj_VIC_TractorOld_01
+NetEnvObj__11977.txt,$/28/desc,EnvObj_VIC_TractorOld_01,desc,EnvObj_VIC_TractorOld_01,EnvObj_VIC_TractorOld_01
+NetEnvObj__11977.txt,$/29/name,EnvObj_WindFarm_Medium,name,EnvObj_WindFarm_Medium,EnvObj_WindFarm_Medium
+NetEnvObj__11977.txt,$/29/desc,EnvObj_WindFarm_Medium,desc,EnvObj_WindFarm_Medium,EnvObj_WindFarm_Medium
+NetEnvObj__11977.txt,$/30/name,EnvOBJ_TrafficLight_01,name,EnvOBJ_TrafficLight_01,EnvOBJ_TrafficLight_01
+NetEnvObj__11977.txt,$/30/desc,EnvOBJ_TrafficLight_01,desc,EnvOBJ_TrafficLight_01,EnvOBJ_TrafficLight_01
+NetEnvObj__11977.txt,$/31/name,EnvOBJ_TrafficLight_02,name,EnvOBJ_TrafficLight_02,EnvOBJ_TrafficLight_02
+NetEnvObj__11977.txt,$/31/desc,EnvOBJ_TrafficLight_02,desc,EnvOBJ_TrafficLight_02,EnvOBJ_TrafficLight_02
+NetEnvObj__11977.txt,$/32/name,EnvObj_VIC_Bulldosaire,name,EnvObj_VIC_Bulldosaire,EnvObj_VIC_Bulldosaire
+NetEnvObj__11977.txt,$/32/desc,EnvObj_VIC_Bulldosaire,desc,EnvObj_VIC_Bulldosaire,EnvObj_VIC_Bulldosaire
+NetEnvObj__11977.txt,$/33/name,EnvObj_Statue_03,name,EnvObj_Statue_03,EnvObj_Statue_03
+NetEnvObj__11977.txt,$/33/desc,EnvObj_Statue_03,desc,EnvObj_Statue_03,EnvObj_Statue_03
+NetEnvObj__11977.txt,$/34/name,EnvObj_Hay_Square,name,EnvObj_Hay_Square,EnvObj_Hay_Square
+NetEnvObj__11977.txt,$/34/desc,EnvObj_Hay_Square,desc,EnvObj_Hay_Square,EnvObj_Hay_Square
+NetEnvObj__11977.txt,$/35/name,EnvObj_Hay_Round,name,EnvObj_Hay_Round,EnvObj_Hay_Round
+NetEnvObj__11977.txt,$/35/desc,EnvObj_Hay_Round,desc,EnvObj_Hay_Round,EnvObj_Hay_Round
+NetEnvObj__11977.txt,$/36/name,EnvObj_Barrel,name,EnvObj_Barrel,EnvObj_Barrel
+NetEnvObj__11977.txt,$/36/desc,EnvObj_Barrel,desc,EnvObj_Barrel,EnvObj_Barrel
+NetEnvObj__11977.txt,$/37/name,EnvObj_Wood_Stack,name,EnvObj_Wood_Stack,EnvObj_Wood_Stack
+NetEnvObj__11977.txt,$/37/desc,EnvObj_Wood_Stack,desc,EnvObj_Wood_Stack,EnvObj_Wood_Stack
+NetEnvObj__11977.txt,$/38/name,EnvObj_Fence_Country_Big_T1,name,Fence_Country_Big_T1,Fence_Country_Big_T1
+NetEnvObj__11977.txt,$/38/desc,EnvObj_Fence_Country_Big_T1,desc,Fence_Country_Big_T1,Fence_Country_Big_T1
+NetEnvObj__11977.txt,$/39/name,EnvObj_Sign_Bus,name,EnvObj_Sign_Bus,EnvObj_Sign_Bus
+NetEnvObj__11977.txt,$/39/desc,EnvObj_Sign_Bus,desc,EnvObj_Sign_Bus,EnvObj_Sign_Bus
+NetEnvObj__11977.txt,$/40/name,EnvObj_Sign_GiveWay,name,EnvObj_Sign_GiveWay,EnvObj_Sign_GiveWay
+NetEnvObj__11977.txt,$/40/desc,EnvObj_Sign_GiveWay,desc,EnvObj_Sign_GiveWay,EnvObj_Sign_GiveWay
+NetEnvObj__11977.txt,$/41/name,EnvObj_Sign_Stop,name,EnvObj_Sign_Stop,EnvObj_Sign_Stop
+NetEnvObj__11977.txt,$/41/desc,EnvObj_Sign_Stop,desc,EnvObj_Sign_Stop,EnvObj_Sign_Stop
+NetEnvObj__11977.txt,$/42/name,EnvObj_LetterBox_03,name,EnvObj_LetterBox_03,EnvObj_LetterBox_03
+NetEnvObj__11977.txt,$/42/desc,EnvObj_LetterBox_03,desc,EnvObj_LetterBox_03,EnvObj_LetterBox_03
+NetEnvObj__11977.txt,$/43/name,EnvObj_LetterBox_04,name,EnvObj_LetterBox_04,EnvObj_LetterBox_04
+NetEnvObj__11977.txt,$/43/desc,EnvObj_LetterBox_04,desc,EnvObj_LetterBox_04,EnvObj_LetterBox_04
+NetEnvObj__11977.txt,$/44/name,EnvObj_SignPost_03,name,EnvObj_SignPost_03,EnvObj_SignPost_03
+NetEnvObj__11977.txt,$/44/desc,EnvObj_SignPost_03,desc,EnvObj_SignPost_03,EnvObj_SignPost_03
+NetEnvObj__11977.txt,$/45/name,EnvObj_Crate_01,name,EnvObj_Crate_01,EnvObj_Crate_01
+NetEnvObj__11977.txt,$/45/desc,EnvObj_Crate_01,desc,EnvObj_Crate_01,EnvObj_Crate_01
+NetEnvObj__11977.txt,$/46/name,EnvObj_HayFork,name,EnvObj_HayFork,EnvObj_HayFork
+NetEnvObj__11977.txt,$/46/desc,EnvObj_HayFork,desc,EnvObj_HayFork,EnvObj_HayFork
+NetEnvObj__11977.txt,$/47/name,EnvObj_SignPost_01,name,EnvObj_SignPost_01,EnvObj_SignPost_01
+NetEnvObj__11977.txt,$/47/desc,EnvObj_SignPost_01,desc,EnvObj_SignPost_01,EnvObj_SignPost_01
+NetEnvObj__11977.txt,$/48/name,EnvObj_Chicken_Cage_01,name,EnvObj_Chicken_Cage_01,EnvObj_Chicken_Cage_01
+NetEnvObj__11977.txt,$/48/desc,EnvObj_Chicken_Cage_01,desc,EnvObj_Chicken_Cage_01,EnvObj_Chicken_Cage_01
+NetEnvObj__11977.txt,$/49/name,EnvObj_GazTank,name,EnvObj_GazTank,EnvObj_GazTank
+NetEnvObj__11977.txt,$/49/desc,EnvObj_GazTank,desc,EnvObj_GazTank,EnvObj_GazTank
+NetEnvObj__11977.txt,$/50/name,EnvObj_SpoolWheel_01,name,EnvObj_SpoolWheel_01,EnvObj_SpoolWheel_01
+NetEnvObj__11977.txt,$/50/desc,EnvObj_SpoolWheel_01,desc,EnvObj_SpoolWheel_01,EnvObj_SpoolWheel_01
+NetEnvObj__11977.txt,$/51/name,EnvObj_Harvester_01,name,EnvObj_Harvester_01,EnvObj_Harvester_01
+NetEnvObj__11977.txt,$/51/desc,EnvObj_Harvester_01,desc,EnvObj_Harvester_01,EnvObj_Harvester_01
+NetEnvObj__11977.txt,$/52/name,EnvObj_Ute_Wreck_01,name,EnvObj_Ute_Wreck_01,EnvObj_Ute_Wreck_01
+NetEnvObj__11977.txt,$/52/desc,EnvObj_Ute_Wreck_01,desc,EnvObj_Ute_Wreck_01,EnvObj_Ute_Wreck_01
+NetEnvObj__11977.txt,$/53/name,EnvObj_Beehive_01,name,EnvObj_Beehive_01,EnvObj_Beehive_01
+NetEnvObj__11977.txt,$/53/desc,EnvObj_Beehive_01,desc,EnvObj_Beehive_01,EnvObj_Beehive_01
+NetEnvObj__11977.txt,$/54/name,EnvObj_Beehive_06,name,EnvObj_Beehive_06,EnvObj_Beehive_06
+NetEnvObj__11977.txt,$/54/desc,EnvObj_Beehive_06,desc,EnvObj_Beehive_06,EnvObj_Beehive_06
+NetEnvObj__11977.txt,$/55/name,EnvObj_Beehive_02,name,EnvObj_Beehive_02,EnvObj_Beehive_02
+NetEnvObj__11977.txt,$/55/desc,EnvObj_Beehive_02,desc,EnvObj_Beehive_02,EnvObj_Beehive_02
+NetEnvObj__11977.txt,$/56/name,EnvObj_TractorPlanter,name,EnvObj_TractorPlanter,EnvObj_TractorPlanter
+NetEnvObj__11977.txt,$/56/desc,EnvObj_TractorPlanter,desc,EnvObj_TractorPlanter,EnvObj_TractorPlanter
+NetEnvObj__11977.txt,$/57/name,EnvObj_VIC_TractorOld_Yellow_Variant,name,EnvObj_VIC_TractorOld_Yellow_Variant,EnvObj_VIC_TractorOld_Yellow_Variant
+NetEnvObj__11977.txt,$/57/desc,EnvObj_VIC_TractorOld_Yellow_Variant,desc,EnvObj_VIC_TractorOld_Yellow_Variant,EnvObj_VIC_TractorOld_Yellow_Variant
+NetEnvObj__11977.txt,$/58/name,EnvObj_Vic_Pickup_01,name,EnvObj_Vic_Pickup_01,EnvObj_Vic_Pickup_01
+NetEnvObj__11977.txt,$/58/desc,EnvObj_Vic_Pickup_01,desc,EnvObj_Vic_Pickup_01,EnvObj_Vic_Pickup_01
+NetEnvObj__11977.txt,$/59/name,EnvObj_SignPost_Animalery,name,EnvObj_SignPost_Animalery,EnvObj_SignPost_Animalery
+NetEnvObj__11977.txt,$/59/desc,EnvObj_SignPost_Animalery,desc,EnvObj_SignPost_Animalery,EnvObj_SignPost_Animalery
+NetEnvObj__11977.txt,$/60/name,EnvObj_SignPost_Animalery_Delivery,name,EnvObj_SignPost_Animalery_Delivery,EnvObj_SignPost_Animalery_Delivery
+NetEnvObj__11977.txt,$/60/desc,EnvObj_SignPost_Animalery_Delivery,desc,EnvObj_SignPost_Animalery_Delivery,EnvObj_SignPost_Animalery_Delivery
+NetEnvObj__11977.txt,$/61/name,EnvObj_Barrel_Metal_01,name,EnvObj_Barrel_Metal_01,EnvObj_Barrel_Metal_01
+NetEnvObj__11977.txt,$/61/desc,EnvObj_Barrel_Metal_01,desc,EnvObj_Barrel_Metal_01,EnvObj_Barrel_Metal_01
+NetEnvObj__11977.txt,$/62/name,EnvObj_Barrel_Metal_02,name,EnvObj_Barrel_Metal_02,EnvObj_Barrel_Metal_02
+NetEnvObj__11977.txt,$/62/desc,EnvObj_Barrel_Metal_02,desc,EnvObj_Barrel_Metal_02,EnvObj_Barrel_Metal_02
+NetEnvObj__11977.txt,$/63/name,EnvObj_Barrel_Metal_03,name,EnvObj_Barrel_Metal_03,EnvObj_Barrel_Metal_03
+NetEnvObj__11977.txt,$/63/desc,EnvObj_Barrel_Metal_03,desc,EnvObj_Barrel_Metal_03,EnvObj_Barrel_Metal_03
+NetEnvObj__11977.txt,$/64/name,EnvObj_Barrel_Metal_04,name,EnvObj_Barrel_Metal_04,EnvObj_Barrel_Metal_04
+NetEnvObj__11977.txt,$/64/desc,EnvObj_Barrel_Metal_04,desc,EnvObj_Barrel_Metal_04,EnvObj_Barrel_Metal_04
+NetEnvObj__11977.txt,$/65/name,EnvObj_Barrel_Plastic_01,name,EnvObj_Barrel_Plastic_01,EnvObj_Barrel_Plastic_01
+NetEnvObj__11977.txt,$/65/desc,EnvObj_Barrel_Plastic_01,desc,EnvObj_Barrel_Plastic_01,EnvObj_Barrel_Plastic_01
+NetEnvObj__11977.txt,$/66/name,EnvObj_Barrel_Plastic_02,name,EnvObj_Barrel_Plastic_02,EnvObj_Barrel_Plastic_02
+NetEnvObj__11977.txt,$/66/desc,EnvObj_Barrel_Plastic_02,desc,EnvObj_Barrel_Plastic_02,EnvObj_Barrel_Plastic_02
+NetEnvObj__11977.txt,$/67/name,EnvObj_Barrel_Plastic_03,name,EnvObj_Barrel_Plastic_03,EnvObj_Barrel_Plastic_03
+NetEnvObj__11977.txt,$/67/desc,EnvObj_Barrel_Plastic_03,desc,EnvObj_Barrel_Plastic_03,EnvObj_Barrel_Plastic_03
+NetEnvObj__11977.txt,$/68/name,EnvObj_Barrel_Plastic_04,name,EnvObj_Barrel_Plastic_04,EnvObj_Barrel_Plastic_04
+NetEnvObj__11977.txt,$/68/desc,EnvObj_Barrel_Plastic_04,desc,EnvObj_Barrel_Plastic_04,EnvObj_Barrel_Plastic_04
+NetEnvObj__11977.txt,$/69/name,EnvObj_PaintCan_Closed_01,name,EnvObj_PaintCan_Closed_01,EnvObj_PaintCan_Closed_01
+NetEnvObj__11977.txt,$/69/desc,EnvObj_PaintCan_Closed_01,desc,EnvObj_PaintCan_Closed_01,EnvObj_PaintCan_Closed_01
+NetEnvObj__11977.txt,$/70/name,EnvObj_PaintCan_Closed_02,name,EnvObj_PaintCan_Closed_02,EnvObj_PaintCan_Closed_02
+NetEnvObj__11977.txt,$/70/desc,EnvObj_PaintCan_Closed_02,desc,EnvObj_PaintCan_Closed_02,EnvObj_PaintCan_Closed_02
+NetEnvObj__11977.txt,$/71/name,EnvObj_PaintCan_Closed_03,name,EnvObj_PaintCan_Closed_03,EnvObj_PaintCan_Closed_03
+NetEnvObj__11977.txt,$/71/desc,EnvObj_PaintCan_Closed_03,desc,EnvObj_PaintCan_Closed_03,EnvObj_PaintCan_Closed_03
+NetEnvObj__11977.txt,$/72/name,EnvObj_PaintCan_Closed_04,name,EnvObj_PaintCan_Closed_04,EnvObj_PaintCan_Closed_04
+NetEnvObj__11977.txt,$/72/desc,EnvObj_PaintCan_Closed_04,desc,EnvObj_PaintCan_Closed_04,EnvObj_PaintCan_Closed_04
+NetEnvObj__11977.txt,$/73/name,EnvObj_SignPost_Builder,name,EnvObj_SignPost_Builder,EnvObj_SignPost_Builder
+NetEnvObj__11977.txt,$/73/desc,EnvObj_SignPost_Builder,desc,EnvObj_SignPost_Builder,EnvObj_SignPost_Builder
+NetEnvObj__11977.txt,$/74/name,EnvObj_VIC_ForkLift_01,name,EnvObj_VIC_ForkLift_01,EnvObj_VIC_ForkLift_01
+NetEnvObj__11977.txt,$/74/desc,EnvObj_VIC_ForkLift_01,desc,EnvObj_VIC_ForkLift_01,EnvObj_VIC_ForkLift_01
+NetEnvObj__11977.txt,$/75/name,EnvObj_Vic_BuilderVAN,name,EnvObj_Vic_BuilderVAN,EnvObj_Vic_BuilderVAN
+NetEnvObj__11977.txt,$/75/desc,EnvObj_Vic_BuilderVAN,desc,EnvObj_Vic_BuilderVAN,EnvObj_Vic_BuilderVAN
+NetEnvObj__11977.txt,$/76/name,EnvObj_WoodStack_Big,name,EnvObj_WoodStack_Big,EnvObj_WoodStack_Big
+NetEnvObj__11977.txt,$/76/desc,EnvObj_WoodStack_Big,desc,EnvObj_WoodStack_Big,EnvObj_WoodStack_Big
+NetEnvObj__11977.txt,$/77/name,EnvObj_Park_Fence_Full,name,EnvObj_Park_Fence_Full,EnvObj_Park_Fence_Full
+NetEnvObj__11977.txt,$/77/desc,EnvObj_Park_Fence_Full,desc,EnvObj_Park_Fence_Full,EnvObj_Park_Fence_Full
+NetEnvObj__11977.txt,$/78/name,EnvObj_Park_Fence_Part,name,EnvObj_Park_Fence_Part,EnvObj_Park_Fence_Part
+NetEnvObj__11977.txt,$/78/desc,EnvObj_Park_Fence_Part,desc,EnvObj_Park_Fence_Part,EnvObj_Park_Fence_Part
+NetEnvObj__11977.txt,$/79/name,EnvObj_Sign_SubWay,name,EnvObj_Sign_SubWay,EnvObj_Sign_SubWay
+NetEnvObj__11977.txt,$/79/desc,EnvObj_Sign_SubWay,desc,EnvObj_Sign_SubWay,EnvObj_Sign_SubWay
+NetEnvObj__11977.txt,$/80/name,EnvObj_SignPost_CountryBio,name,EnvObj_SignPost_CountryBio,EnvObj_SignPost_CountryBio
+NetEnvObj__11977.txt,$/80/desc,EnvObj_SignPost_CountryBio,desc,EnvObj_SignPost_CountryBio,EnvObj_SignPost_CountryBio
+NetEnvObj__11977.txt,$/81/name,EnvObj_RoadBlock_01,name,EnvObj_RoadBlock_01,EnvObj_RoadBlock_01
+NetEnvObj__11977.txt,$/81/desc,EnvObj_RoadBlock_01,desc,EnvObj_RoadBlock_01,EnvObj_RoadBlock_01
+NetEnvObj__11977.txt,$/82/name,EnvObj_Sign_WORK_Road_01,name,EnvObj_Sign_WORK_Road_01,EnvObj_Sign_WORK_Road_01
+NetEnvObj__11977.txt,$/82/desc,EnvObj_Sign_WORK_Road_01,desc,EnvObj_Sign_WORK_Road_01,EnvObj_Sign_WORK_Road_01
+NetEnvObj__11977.txt,$/83/name,EnvObj_SignPost_CityHall_Temp,name,EnvObj_SignPost_CityHall_Temp,EnvObj_SignPost_CityHall_Temp
+NetEnvObj__11977.txt,$/83/desc,EnvObj_SignPost_CityHall_Temp,desc,EnvObj_SignPost_CityHall_Temp,EnvObj_SignPost_CityHall_Temp
+NetEnvObj__11977.txt,$/84/name,EnvObj_Dumbster,name,EnvObj_Dumbster,EnvObj_Dumbster
+NetEnvObj__11977.txt,$/84/desc,EnvObj_Dumbster,desc,EnvObj_Dumbster,EnvObj_Dumbster
+NetEnvObj__11977.txt,$/85/name,EnvObj_TyreStack,name,EnvObj_TyreStack,EnvObj_TyreStack
+NetEnvObj__11977.txt,$/85/desc,EnvObj_TyreStack,desc,EnvObj_TyreStack,EnvObj_TyreStack
+NetEnvObj__11977.txt,$/86/name,EnvObj_AirCompressorTank_01,name,EnvObj_AirCompressorTank_01,EnvObj_AirCompressorTank_01
+NetEnvObj__11977.txt,$/86/desc,EnvObj_AirCompressorTank_01,desc,EnvObj_AirCompressorTank_01,EnvObj_AirCompressorTank_01
+NetEnvObj__11977.txt,$/87/name,EnvObj_SignPost_CarShop,name,EnvObj_SignPost_CarShop,EnvObj_SignPost_CarShop
+NetEnvObj__11977.txt,$/87/desc,EnvObj_SignPost_CarShop,desc,EnvObj_SignPost_CarShop,EnvObj_SignPost_CarShop
+NetEnvObj__11977.txt,$/88/name,EnvObj_Sign_CarRepair,name,EnvObj_Sign_CarRepair,EnvObj_Sign_CarRepair
+NetEnvObj__11977.txt,$/88/desc,EnvObj_Sign_CarRepair,desc,EnvObj_Sign_CarRepair,EnvObj_Sign_CarRepair
+NetEnvObj__11977.txt,$/89/name,EnvObj_Trashbin_01,name,EnvObj_Trashbin_01,EnvObj_Trashbin_01
+NetEnvObj__11977.txt,$/89/desc,EnvObj_Trashbin_01,desc,EnvObj_Trashbin_01,EnvObj_Trashbin_01
+NetEnvObj__11977.txt,$/90/name,EnvObj_Trashbin_02,name,EnvObj_Trashbin_02,EnvObj_Trashbin_02
+NetEnvObj__11977.txt,$/90/desc,EnvObj_Trashbin_02,desc,EnvObj_Trashbin_02,EnvObj_Trashbin_02
+NetEnvObj__11977.txt,$/91/name,EnvObj_Trashbin_03,name,EnvObj_Trashbin_03,EnvObj_Trashbin_03
+NetEnvObj__11977.txt,$/91/desc,EnvObj_Trashbin_03,desc,EnvObj_Trashbin_03,EnvObj_Trashbin_03
+NetEnvObj__11977.txt,$/92/name,EnvObj_Trashbin_04,name,EnvObj_Trashbin_04,EnvObj_Trashbin_04
+NetEnvObj__11977.txt,$/92/desc,EnvObj_Trashbin_04,desc,EnvObj_Trashbin_04,EnvObj_Trashbin_04
+NetEnvObj__11977.txt,$/93/name,EnvObj_Trashbin_05,name,EnvObj_Trashbin_05,EnvObj_Trashbin_05
+NetEnvObj__11977.txt,$/93/desc,EnvObj_Trashbin_05,desc,EnvObj_Trashbin_05,EnvObj_Trashbin_05
+NetEnvObj__11977.txt,$/94/name,EnvObj_Trashbin_06,name,EnvObj_Trashbin_06,EnvObj_Trashbin_06
+NetEnvObj__11977.txt,$/94/desc,EnvObj_Trashbin_06,desc,EnvObj_Trashbin_06,EnvObj_Trashbin_06
+NetEnvObj__11977.txt,$/95/name,EnvObj_Trashbin_07,name,EnvObj_Trashbin_07,EnvObj_Trashbin_07
+NetEnvObj__11977.txt,$/95/desc,EnvObj_Trashbin_07,desc,EnvObj_Trashbin_07,EnvObj_Trashbin_07
+NetEnvObj__11977.txt,$/96/name,EnvObj_Trashbin_08,name,EnvObj_Trashbin_08,EnvObj_Trashbin_08
+NetEnvObj__11977.txt,$/96/desc,EnvObj_Trashbin_08,desc,EnvObj_Trashbin_08,EnvObj_Trashbin_08
+NetEnvObj__11977.txt,$/97/name,EnvObj_Trashbin_09,name,EnvObj_Trashbin_09,EnvObj_Trashbin_09
+NetEnvObj__11977.txt,$/97/desc,EnvObj_Trashbin_09,desc,EnvObj_Trashbin_09,EnvObj_Trashbin_09
+NetEnvObj__11977.txt,$/98/name,EnvObj_MailBox_01,name,EnvObj_MailBox_01,EnvObj_MailBox_01
+NetEnvObj__11977.txt,$/98/desc,EnvObj_MailBox_01,desc,EnvObj_MailBox_01,EnvObj_MailBox_01
+NetEnvObj__11977.txt,$/99/name,EnvObj_Telescope,name,EnvObj_Telescope,EnvObj_Telescope
+NetEnvObj__11977.txt,$/99/desc,EnvObj_Telescope,desc,EnvObj_Telescope,EnvObj_Telescope
+NetEnvObj__11977.txt,$/100/name,EnvObj_SALES,name,EnvObj_SALES,EnvObj_SALES
+NetEnvObj__11977.txt,$/100/desc,EnvObj_SALES,desc,EnvObj_SALES,EnvObj_SALES
+NetEnvObj__11977.txt,$/101/name,EnvObj_SignPost_ClothShop,name,EnvObj_SignPost_ClothShop,EnvObj_SignPost_ClothShop
+NetEnvObj__11977.txt,$/101/desc,EnvObj_SignPost_ClothShop,desc,EnvObj_SignPost_ClothShop,EnvObj_SignPost_ClothShop
+NetEnvObj__11977.txt,$/102/name,EnvObj_Camera_Security_lvl1_Interior,name,EnvObj_Camera_Security_lvl1_Interior,EnvObj_Camera_Security_lvl1_Interior
+NetEnvObj__11977.txt,$/102/desc,EnvObj_Camera_Security_lvl1_Interior,desc,EnvObj_Camera_Security_lvl1_Interior,EnvObj_Camera_Security_lvl1_Interior
+NetEnvObj__11977.txt,$/103/name,EnvObj_Camera_Security_lvl1,name,EnvObj_Camera_Security_lvl1,EnvObj_Camera_Security_lvl1
+NetEnvObj__11977.txt,$/103/desc,EnvObj_Camera_Security_lvl1,desc,EnvObj_Camera_Security_lvl1,EnvObj_Camera_Security_lvl1
+NetEnvObj__11977.txt,$/104/name,EnvObj_Camera_Switch,name,EnvObj_Camera_Switch,EnvObj_Camera_Switch
+NetEnvObj__11977.txt,$/104/desc,EnvObj_Camera_Switch,desc,EnvObj_Camera_Switch,EnvObj_Camera_Switch
+NetEnvObj__11977.txt,$/105/name,EnvObj_FancyDoubleDoor,name,EnvObj_FancyDoubleDoor,EnvObj_FancyDoubleDoor
+NetEnvObj__11977.txt,$/105/desc,EnvObj_FancyDoubleDoor,desc,EnvObj_FancyDoubleDoor,EnvObj_FancyDoubleDoor
+NetEnvObj__11977.txt,$/106/name,EnvObj_MansionDoor_Fancy,name,EnvObj_MansionDoor_Fancy,EnvObj_MansionDoor_Fancy
+NetEnvObj__11977.txt,$/106/desc,EnvObj_MansionDoor_Fancy,desc,EnvObj_MansionDoor_Fancy,EnvObj_MansionDoor_Fancy
+NetEnvObj__11977.txt,$/107/name,EnvObj_MansionDoor_Simple,name,EnvObj_MansionDoor_Simple,EnvObj_MansionDoor_Simple
+NetEnvObj__11977.txt,$/107/desc,EnvObj_MansionDoor_Simple,desc,EnvObj_MansionDoor_Simple,EnvObj_MansionDoor_Simple
+NetEnvObj__11977.txt,$/108/name,EnvObj_MansionDoor_Simple_Var_01_,name,EnvObj_MansionDoor_Simple_Var_01_,EnvObj_MansionDoor_Simple_Var_01_
+NetEnvObj__11977.txt,$/108/desc,EnvObj_MansionDoor_Simple_Var_01_,desc,EnvObj_MansionDoor_Simple_Var_01_,EnvObj_MansionDoor_Simple_Var_01_
+NetEnvObj__11977.txt,$/109/name,EnvObj_Pole_Yellow,name,EnvObj_Pole_Yellow,EnvObj_Pole_Yellow
+NetEnvObj__11977.txt,$/109/desc,EnvObj_Pole_Yellow,desc,EnvObj_Pole_Yellow,EnvObj_Pole_Yellow
+NetEnvObj__11977.txt,$/110/name,EnvObj_Flowers_Pot_01_Pink,name,EnvObj_Flowers_Pot_01_Pink,EnvObj_Flowers_Pot_01_Pink
+NetEnvObj__11977.txt,$/110/desc,EnvObj_Flowers_Pot_01_Pink,desc,EnvObj_Flowers_Pot_01_Pink,EnvObj_Flowers_Pot_01_Pink
+NetEnvObj__11977.txt,$/111/name,EnvObj_Flowers_Pot_02_Pink,name,EnvObj_Flowers_Pot_02_Pink,EnvObj_Flowers_Pot_02_Pink
+NetEnvObj__11977.txt,$/111/desc,EnvObj_Flowers_Pot_02_Pink,desc,EnvObj_Flowers_Pot_02_Pink,EnvObj_Flowers_Pot_02_Pink
+NetEnvObj__11977.txt,$/112/name,EnvObj_Flowers_Pot_01_Red,name,EnvObj_Flowers_Pot_01_Red,EnvObj_Flowers_Pot_01_Red
+NetEnvObj__11977.txt,$/112/desc,EnvObj_Flowers_Pot_01_Red,desc,EnvObj_Flowers_Pot_01_Red,EnvObj_Flowers_Pot_01_Red
+NetEnvObj__11977.txt,$/113/name,EnvObj_Flowers_Pot_02_Red,name,EnvObj_Flowers_Pot_02_Red,EnvObj_Flowers_Pot_02_Red
+NetEnvObj__11977.txt,$/113/desc,EnvObj_Flowers_Pot_02_Red,desc,EnvObj_Flowers_Pot_02_Red,EnvObj_Flowers_Pot_02_Red
+NetEnvObj__11977.txt,$/114/name,EnvObj_Flowers_Pot_01_Yellow,name,EnvObj_Flowers_Pot_01_Yellow,EnvObj_Flowers_Pot_01_Yellow
+NetEnvObj__11977.txt,$/114/desc,EnvObj_Flowers_Pot_01_Yellow,desc,EnvObj_Flowers_Pot_01_Yellow,EnvObj_Flowers_Pot_01_Yellow
+NetEnvObj__11977.txt,$/115/name,EnvObj_Flowers_Pot_02_Yellow,name,EnvObj_Flowers_Pot_02_Yellow,EnvObj_Flowers_Pot_02_Yellow
+NetEnvObj__11977.txt,$/115/desc,EnvObj_Flowers_Pot_02_Yellow,desc,EnvObj_Flowers_Pot_02_Yellow,EnvObj_Flowers_Pot_02_Yellow
+NetEnvObj__11977.txt,$/116/name,EnvObj_Flowers_Pot_03,name,EnvObj_Flowers_Pot_03,EnvObj_Flowers_Pot_03
+NetEnvObj__11977.txt,$/116/desc,EnvObj_Flowers_Pot_03,desc,EnvObj_Flowers_Pot_03,EnvObj_Flowers_Pot_03
+NetEnvObj__11977.txt,$/117/name,EnvObj_Flowers_Pot_04,name,EnvObj_Flowers_Pot_04,EnvObj_Flowers_Pot_04
+NetEnvObj__11977.txt,$/117/desc,EnvObj_Flowers_Pot_04,desc,EnvObj_Flowers_Pot_04,EnvObj_Flowers_Pot_04
+NetEnvObj__11977.txt,$/118/name,EnvObj_RoadSign_Sanoo,name,EnvObj_RoadSign_Sanoo,EnvObj_RoadSign_Sanoo
+NetEnvObj__11977.txt,$/118/desc,EnvObj_RoadSign_Sanoo,desc,EnvObj_RoadSign_Sanoo,EnvObj_RoadSign_Sanoo
+NetEnvObj__11977.txt,$/119/name,EnvObj_Interior_Door_02,name,EnvObj_Interior_Door_02,EnvObj_Interior_Door_02
+NetEnvObj__11977.txt,$/119/desc,EnvObj_Interior_Door_02,desc,EnvObj_Interior_Door_02,EnvObj_Interior_Door_02
+NetEnvObj__11977.txt,$/120/name,EnvObj_Road_CheckPost_01,name,EnvObj_Road_CheckPost_01,EnvObj_Road_CheckPost_01
+NetEnvObj__11977.txt,$/120/desc,EnvObj_Road_CheckPost_01,desc,EnvObj_Road_CheckPost_01,EnvObj_Road_CheckPost_01
+NetEnvObj__11977.txt,$/121/name,EnvObj_Road_CheckPost_02,name,EnvObj_Road_CheckPost_02,EnvObj_Road_CheckPost_02
+NetEnvObj__11977.txt,$/121/desc,EnvObj_Road_CheckPost_02,desc,EnvObj_Road_CheckPost_02,EnvObj_Road_CheckPost_02
+NetEnvObj__11977.txt,$/122/name,EnvObj_Road_CheckPost_03,name,EnvObj_Road_CheckPost_03,EnvObj_Road_CheckPost_03
+NetEnvObj__11977.txt,$/122/desc,EnvObj_Road_CheckPost_03,desc,EnvObj_Road_CheckPost_03,EnvObj_Road_CheckPost_03
+NetEnvObj__11977.txt,$/123/name,EnvObj_TaxiRentalStation_Buisness,name,TaxiCo Corp - Business,تاكسي كو — سيارة أعمال
+NetEnvObj__11977.txt,$/123/desc,EnvObj_TaxiRentalStation_Buisness,desc,Here you can rent a taxi for your business needs.,استأجر سيارة أجرة لتلبية احتياجات عملك.
+NetEnvObj__11977.txt,$/124/name,EnvObj_TaxiRentalStation_VIP,name,TaxiCo Corp - VIP,تاكسي كو — فئة كبار الشخصيات
+NetEnvObj__11977.txt,$/124/desc,EnvObj_TaxiRentalStation_VIP,desc,Here you can rent a taxi for your business needs.,استأجر سيارة أجرة لتلبية احتياجات عملك.
+NetEnvObj__11977.txt,$/125/name,EnvObj_TaxiRentalStation_Regular,name,TaxiCo Corp - Regular,تاكسي كو — الفئة العادية
+NetEnvObj__11977.txt,$/125/desc,EnvObj_TaxiRentalStation_Regular,desc,Here you can rent a taxi for your business needs.,استأجر سيارة أجرة لتلبية احتياجات عملك.
+NetEnvObj__11977.txt,$/126/name,EnvObj_Sign_Flag_01,name,EnvObj_Sign_Flag_01,EnvObj_Sign_Flag_01
+NetEnvObj__11977.txt,$/126/desc,EnvObj_Sign_Flag_01,desc,EnvObj_Sign_Flag_01,EnvObj_Sign_Flag_01
+NetEnvObj__11977.txt,$/127/name,EnvObj_Sign_Flag_02,name,EnvObj_Sign_Flag_02,EnvObj_Sign_Flag_02
+NetEnvObj__11977.txt,$/127/desc,EnvObj_Sign_Flag_02,desc,EnvObj_Sign_Flag_02,EnvObj_Sign_Flag_02
+NetEnvObj__11977.txt,$/128/name,EnvObj_Sign_Flag_03,name,EnvObj_Sign_Flag_03,EnvObj_Sign_Flag_03
+NetEnvObj__11977.txt,$/128/desc,EnvObj_Sign_Flag_03,desc,EnvObj_Sign_Flag_03,EnvObj_Sign_Flag_03
+NetEnvObj__11977.txt,$/129/name,EnvObj_Sign_Flag_04,name,EnvObj_Sign_Flag_04,EnvObj_Sign_Flag_04
+NetEnvObj__11977.txt,$/129/desc,EnvObj_Sign_Flag_04,desc,EnvObj_Sign_Flag_04,EnvObj_Sign_Flag_04
+NetEnvObj__11977.txt,$/130/name,EnvObj_Sign_Flag_05,name,EnvObj_Sign_Flag_05,EnvObj_Sign_Flag_05
+NetEnvObj__11977.txt,$/130/desc,EnvObj_Sign_Flag_05,desc,EnvObj_Sign_Flag_05,EnvObj_Sign_Flag_05
+NetEnvObj__11977.txt,$/131/name,EnvObj_Sign_Flag_06,name,EnvObj_Sign_Flag_06,EnvObj_Sign_Flag_06
+NetEnvObj__11977.txt,$/131/desc,EnvObj_Sign_Flag_06,desc,EnvObj_Sign_Flag_06,EnvObj_Sign_Flag_06
+NetEnvObj__11977.txt,$/132/name,EnvObj_Sign_Flag_07,name,EnvObj_Sign_Flag_07,EnvObj_Sign_Flag_07
+NetEnvObj__11977.txt,$/132/desc,EnvObj_Sign_Flag_07,desc,EnvObj_Sign_Flag_07,EnvObj_Sign_Flag_07
+NetEnvObj__11977.txt,$/133/name,EnvObj_Sign_Foldout_01,name,EnvObj_Sign_Foldout_01,EnvObj_Sign_Foldout_01
+NetEnvObj__11977.txt,$/133/desc,EnvObj_Sign_Foldout_01,desc,EnvObj_Sign_Foldout_01,EnvObj_Sign_Foldout_01
+NetEnvObj__11977.txt,$/134/name,EnvObj_Sign_Foldout_02,name,EnvObj_Sign_Foldout_02,EnvObj_Sign_Foldout_02
+NetEnvObj__11977.txt,$/134/desc,EnvObj_Sign_Foldout_02,desc,EnvObj_Sign_Foldout_02,EnvObj_Sign_Foldout_02
+NetEnvObj__11977.txt,$/135/name,EnvObj_Sign_Foldout_03,name,EnvObj_Sign_Foldout_03,EnvObj_Sign_Foldout_03
+NetEnvObj__11977.txt,$/135/desc,EnvObj_Sign_Foldout_03,desc,EnvObj_Sign_Foldout_03,EnvObj_Sign_Foldout_03
+NetEnvObj__11977.txt,$/136/name,EnvObj_Sign_Foldout_04,name,EnvObj_Sign_Foldout_04,EnvObj_Sign_Foldout_04
+NetEnvObj__11977.txt,$/136/desc,EnvObj_Sign_Foldout_04,desc,EnvObj_Sign_Foldout_04,EnvObj_Sign_Foldout_04
+NetEnvObj__11977.txt,$/137/name,EnvObj_Sign_Foldout_05,name,EnvObj_Sign_Foldout_05,EnvObj_Sign_Foldout_05
+NetEnvObj__11977.txt,$/137/desc,EnvObj_Sign_Foldout_05,desc,EnvObj_Sign_Foldout_05,EnvObj_Sign_Foldout_05
+NetEnvObj__11977.txt,$/138/name,EnvObj_Sign_Foldout_ShopInfo,name,EnvObj_Sign_Foldout_ShopInfo,EnvObj_Sign_Foldout_ShopInfo
+NetEnvObj__11977.txt,$/138/desc,EnvObj_Sign_Foldout_ShopInfo,desc,EnvObj_Sign_Foldout_ShopInfo,EnvObj_Sign_Foldout_ShopInfo
+NetEnvObj__11977.txt,$/139/name,EnvObj_RoadSign_Motel_01_,name,EnvObj_RoadSign_Motel_01_,EnvObj_RoadSign_Motel_01_
+NetEnvObj__11977.txt,$/139/desc,EnvObj_RoadSign_Motel_01_,desc,EnvObj_RoadSign_Motel_01_,EnvObj_RoadSign_Motel_01_
+NetEnvObj__11977.txt,$/140/name,EnvObj_Sign_GasStation_Country,name,EnvObj_Sign_GasStation_Country,EnvObj_Sign_GasStation_Country
+NetEnvObj__11977.txt,$/140/desc,EnvObj_Sign_GasStation_Country,desc,EnvObj_Sign_GasStation_Country,EnvObj_Sign_GasStation_Country
+NetEnvObj__11977.txt,$/141/name,EnvObj_IceMachine,name,EnvObj_IceMachine,EnvObj_IceMachine
+NetEnvObj__11977.txt,$/141/desc,EnvObj_IceMachine,desc,EnvObj_IceMachine,EnvObj_IceMachine
+NetEnvObj__11977.txt,$/142/name,EnvObj_RoadSign_Vetirinary,name,EnvObj_RoadSign_Vetirinary,EnvObj_RoadSign_Vetirinary
+NetEnvObj__11977.txt,$/142/desc,EnvObj_RoadSign_Vetirinary,desc,EnvObj_RoadSign_Vetirinary,EnvObj_RoadSign_Vetirinary
+NetEnvObj__11977.txt,$/143/name,EnvObj_VendingMachine_02,name,EnvObj_VendingMachine_02,EnvObj_VendingMachine_02
+NetEnvObj__11977.txt,$/143/desc,EnvObj_VendingMachine_02,desc,EnvObj_VendingMachine_02,EnvObj_VendingMachine_02
+NetEnvObj__11977.txt,$/144/name,EnvObj_OfficeDoubleDoor,name,EnvObj_OfficeDoubleDoor,EnvObj_OfficeDoubleDoor
+NetEnvObj__11977.txt,$/144/desc,EnvObj_OfficeDoubleDoor,desc,EnvObj_OfficeDoubleDoor,EnvObj_OfficeDoubleDoor
+NetEnvObj__11977.txt,$/145/name,EnvObj_Interior_Door_01_Small,name,EnvObj_Interior_Door_01_Small,EnvObj_Interior_Door_01_Small
+NetEnvObj__11977.txt,$/145/desc,EnvObj_Interior_Door_01_Small,desc,EnvObj_Interior_Door_01_Small,EnvObj_Interior_Door_01_Small
+NetEnvObj__11977.txt,$/146/name,EnvObj_Interior_Door_04_Trans,name,EnvObj_Interior_Door_04_Trans,EnvObj_Interior_Door_04_Trans
+NetEnvObj__11977.txt,$/146/desc,EnvObj_Interior_Door_04_Trans,desc,EnvObj_Interior_Door_04_Trans,EnvObj_Interior_Door_04_Trans
+NetEnvObj__11977.txt,$/147/name,EnvObj_Interior_Door_01,name,EnvObj_Interior_Door_01,EnvObj_Interior_Door_01
+NetEnvObj__11977.txt,$/147/desc,EnvObj_Interior_Door_01,desc,EnvObj_Interior_Door_01,EnvObj_Interior_Door_01
+NetEnvObj__11977.txt,$/148/name,EnvObj_Interior_Door_01_NoGlass,name,EnvObj_Interior_Door_01_NoGlass,EnvObj_Interior_Door_01_NoGlass
+NetEnvObj__11977.txt,$/148/desc,EnvObj_Interior_Door_01_NoGlass,desc,EnvObj_Interior_Door_01_NoGlass,EnvObj_Interior_Door_01_NoGlass
+NetEnvObj__11977.txt,$/149/name,EnvObj_Road_Tree_Birch_03_,name,EnvObj_Road_Tree_Birch_03_,EnvObj_Road_Tree_Birch_03_
+NetEnvObj__11977.txt,$/149/desc,EnvObj_Road_Tree_Birch_03_,desc,EnvObj_Road_Tree_Birch_03_,EnvObj_Road_Tree_Birch_03_
+NetEnvObj__11977.txt,$/150/name,EnvObj_Road_Palm_01,name,EnvObj_Road_Palm_01,EnvObj_Road_Palm_01
+NetEnvObj__11977.txt,$/150/desc,EnvObj_Road_Palm_01,desc,EnvObj_Road_Palm_01,EnvObj_Road_Palm_01
+NetEnvObj__11977.txt,$/151/name,EnvObj_Interior_Door_Prison_01,name,EnvObj_Interior_Door_Prison_01,EnvObj_Interior_Door_Prison_01
+NetEnvObj__11977.txt,$/151/desc,EnvObj_Interior_Door_Prison_01,desc,EnvObj_Interior_Door_Prison_01,EnvObj_Interior_Door_Prison_01
+NetEnvObj__11977.txt,$/152/name,EnvObj_Interior_Door_01_Normal,name,EnvObj_Interior_Door_01_Normal,EnvObj_Interior_Door_01_Normal
+NetEnvObj__11977.txt,$/152/desc,EnvObj_Interior_Door_01_Normal,desc,EnvObj_Interior_Door_01_Normal,EnvObj_Interior_Door_01_Normal
+NetEnvObj__11977.txt,$/153/name,EnvObj_Interior_Door_05_Trans,name,EnvObj_Interior_Door_05_Trans,EnvObj_Interior_Door_05_Trans
+NetEnvObj__11977.txt,$/153/desc,EnvObj_Interior_Door_05_Trans,desc,EnvObj_Interior_Door_05_Trans,EnvObj_Interior_Door_05_Trans
+NetEnvObj__11977.txt,$/154/name,EnvObj_Parking_CarSpawner,name,EnvObj_Parking_CarSpawner,EnvObj_Parking_CarSpawner
+NetEnvObj__11977.txt,$/154/desc,EnvObj_Parking_CarSpawner,desc,EnvObj_Parking_CarSpawner,EnvObj_Parking_CarSpawner
+NetEnvObj__11977.txt,$/155/name,EnvObj_Parking_CarSpawner_H_3_,name,EnvObj_Parking_CarSpawner,EnvObj_Parking_CarSpawner
+NetEnvObj__11977.txt,$/155/desc,EnvObj_Parking_CarSpawner_H_3_,desc,EnvObj_Parking_CarSpawner,EnvObj_Parking_CarSpawner
+NetEnvObj__11977.txt,$/156/name,EnvObj_Parking_CarSpawner_H_1_,name,EnvObj_Parking_CarSpawner,EnvObj_Parking_CarSpawner
+NetEnvObj__11977.txt,$/156/desc,EnvObj_Parking_CarSpawner_H_1_,desc,EnvObj_Parking_CarSpawner,EnvObj_Parking_CarSpawner
+NetEnvObj__11977.txt,$/157/name,EnvObj_Parking_CarSpawner_H_2_,name,EnvObj_Parking_CarSpawner,EnvObj_Parking_CarSpawner
+NetEnvObj__11977.txt,$/157/desc,EnvObj_Parking_CarSpawner_H_2_,desc,EnvObj_Parking_CarSpawner,EnvObj_Parking_CarSpawner
+NetEnvObj__11977.txt,$/158/name,EnvObj_Parking_CarSpawner_H_4_,name,EnvObj_Parking_CarSpawner,EnvObj_Parking_CarSpawner
+NetEnvObj__11977.txt,$/158/desc,EnvObj_Parking_CarSpawner_H_4_,desc,EnvObj_Parking_CarSpawner,EnvObj_Parking_CarSpawner
+NetEnvObj__11977.txt,$/159/name,EnvObj_Parking_CarSpawner_V_1_,name,EnvObj_Parking_CarSpawner,EnvObj_Parking_CarSpawner
+NetEnvObj__11977.txt,$/159/desc,EnvObj_Parking_CarSpawner_V_1_,desc,EnvObj_Parking_CarSpawner,EnvObj_Parking_CarSpawner
+NetEnvObj__11977.txt,$/160/name,EnvObj_RoadSign_AutoHue,name,EnvObj_RoadSign_AutoHue,EnvObj_RoadSign_AutoHue
+NetEnvObj__11977.txt,$/160/desc,EnvObj_RoadSign_AutoHue,desc,EnvObj_RoadSign_AutoHue,EnvObj_RoadSign_AutoHue
+NetEnvObj__11977.txt,$/161/name,EnvObj_Road_GarageDoor_Double,name,EnvObj_Road_GarageDoor_Double,EnvObj_Road_GarageDoor_Double
+NetEnvObj__11977.txt,$/161/desc,EnvObj_Road_GarageDoor_Double,desc,EnvObj_Road_GarageDoor_Double,EnvObj_Road_GarageDoor_Double
+NetEnvObj__11977.txt,$/162/name,EnvObj_Parking_Sign,name,EnvObj_Parking_Sign,EnvObj_Parking_Sign
+NetEnvObj__11977.txt,$/162/desc,EnvObj_Parking_Sign,desc,EnvObj_Parking_Sign,EnvObj_Parking_Sign
+NetEnvObj__11977.txt,$/163/name,EnvObj_Parking_Meter_01,name,EnvObj_Parking_Meter_01,EnvObj_Parking_Meter_01
+NetEnvObj__11977.txt,$/163/desc,EnvObj_Parking_Meter_01,desc,EnvObj_Parking_Meter_01,EnvObj_Parking_Meter_01
+NetEnvObj__11977.txt,$/164/name,EnvObj_Flowers_Pot_5,name,EnvObj_Flowers_Pot_5,EnvObj_Flowers_Pot_5
+NetEnvObj__11977.txt,$/164/desc,EnvObj_Flowers_Pot_5,desc,EnvObj_Flowers_Pot_5,EnvObj_Flowers_Pot_5
+NetEnvObj__11977.txt,$/165/name,EnvObj_Flowers_Pot_Metalic_01,name,EnvObj_Flowers_Pot_Metalic_01,EnvObj_Flowers_Pot_Metalic_01
+NetEnvObj__11977.txt,$/165/desc,EnvObj_Flowers_Pot_Metalic_01,desc,EnvObj_Flowers_Pot_Metalic_01,EnvObj_Flowers_Pot_Metalic_01
+NetEnvObj__11977.txt,$/166/name,EnvObj_Pallet_01,name,EnvObj_Pallet_01,EnvObj_Pallet_01
+NetEnvObj__11977.txt,$/166/desc,EnvObj_Pallet_01,desc,EnvObj_Pallet_01,EnvObj_Pallet_01
+NetEnvObj__11977.txt,$/167/name,EnvObj_Pallet_Stack_02,name,EnvObj_Pallet_Stack_02,EnvObj_Pallet_Stack_02
+NetEnvObj__11977.txt,$/167/desc,EnvObj_Pallet_Stack_02,desc,EnvObj_Pallet_Stack_02,EnvObj_Pallet_Stack_02
+NetEnvObj__11977.txt,$/168/name,EnvObj_Pallet_Stack_01,name,EnvObj_Pallet_Stack_01,EnvObj_Pallet_Stack_01
+NetEnvObj__11977.txt,$/168/desc,EnvObj_Pallet_Stack_01,desc,EnvObj_Pallet_Stack_01,EnvObj_Pallet_Stack_01
+NetEnvObj__11977.txt,$/169/name,EnvObj_Barrier_Cone_01,name,EnvObj_Barrier_Cone_01,EnvObj_Barrier_Cone_01
+NetEnvObj__11977.txt,$/169/desc,EnvObj_Barrier_Cone_01,desc,EnvObj_Barrier_Cone_01,EnvObj_Barrier_Cone_01
+NetEnvObj__11977.txt,$/170/name,EnvObj_Barrier_Cone_03,name,EnvObj_Barrier_Cone_03,EnvObj_Barrier_Cone_03
+NetEnvObj__11977.txt,$/170/desc,EnvObj_Barrier_Cone_03,desc,EnvObj_Barrier_Cone_03,EnvObj_Barrier_Cone_03
+NetEnvObj__11977.txt,$/171/name,EnvObj_Barrier_CrashBarrel_01,name,EnvObj_Barrier_CrashBarrel_01,EnvObj_Barrier_CrashBarrel_01
+NetEnvObj__11977.txt,$/171/desc,EnvObj_Barrier_CrashBarrel_01,desc,EnvObj_Barrier_CrashBarrel_01,EnvObj_Barrier_CrashBarrel_01
+NetEnvObj__11977.txt,$/172/name,EnvObj_Barrier_HazzardSign_01,name,EnvObj_Barrier_HazzardSign_01,EnvObj_Barrier_HazzardSign_01
+NetEnvObj__11977.txt,$/172/desc,EnvObj_Barrier_HazzardSign_01,desc,EnvObj_Barrier_HazzardSign_01,EnvObj_Barrier_HazzardSign_01
+NetEnvObj__11977.txt,$/173/name,EnvObj_PortEdge_Corner_Tyre_01,name,EnvObj_PortEdge_Corner_Tyre_01,EnvObj_PortEdge_Corner_Tyre_01
+NetEnvObj__11977.txt,$/173/desc,EnvObj_PortEdge_Corner_Tyre_01,desc,EnvObj_PortEdge_Corner_Tyre_01,EnvObj_PortEdge_Corner_Tyre_01
+NetEnvObj__11977.txt,$/174/name,EnvObj_Barrier_Cone_02,name,EnvObj_Barrier_Cone_02,EnvObj_Barrier_Cone_02
+NetEnvObj__11977.txt,$/174/desc,EnvObj_Barrier_Cone_02,desc,EnvObj_Barrier_Cone_02,EnvObj_Barrier_Cone_02
+NetEnvObj__11977.txt,$/175/name,EnvObj_Barrier_Tyre_StackB_03,name,EnvObj_Barrier_Tyre_StackB_03,EnvObj_Barrier_Tyre_StackB_03
+NetEnvObj__11977.txt,$/175/desc,EnvObj_Barrier_Tyre_StackB_03,desc,EnvObj_Barrier_Tyre_StackB_03,EnvObj_Barrier_Tyre_StackB_03
+NetEnvObj__11977.txt,$/176/name,EnvObj_Barrier_Tyre_StackC_03,name,EnvObj_Barrier_Tyre_StackC_03,EnvObj_Barrier_Tyre_StackC_03
+NetEnvObj__11977.txt,$/176/desc,EnvObj_Barrier_Tyre_StackC_03,desc,EnvObj_Barrier_Tyre_StackC_03,EnvObj_Barrier_Tyre_StackC_03
+NetEnvObj__11977.txt,$/177/name,EnvObj_Barrier_Tyre_03,name,EnvObj_Barrier_Tyre_03,EnvObj_Barrier_Tyre_03
+NetEnvObj__11977.txt,$/177/desc,EnvObj_Barrier_Tyre_03,desc,EnvObj_Barrier_Tyre_03,EnvObj_Barrier_Tyre_03
+NetEnvObj__11977.txt,$/178/name,EnvObj_Barrel_Metal_05,name,EnvObj_Barrel_Metal_05,EnvObj_Barrel_Metal_05
+NetEnvObj__11977.txt,$/178/desc,EnvObj_Barrel_Metal_05,desc,EnvObj_Barrel_Metal_05,EnvObj_Barrel_Metal_05
+NetEnvObj__11977.txt,$/179/name,EnvObj_Barrel_Metal_06,name,EnvObj_Barrel_Metal_06,EnvObj_Barrel_Metal_06
+NetEnvObj__11977.txt,$/179/desc,EnvObj_Barrel_Metal_06,desc,EnvObj_Barrel_Metal_06,EnvObj_Barrel_Metal_06
+NetEnvObj__11977.txt,$/180/name,EnvObj_Barrier_Bollard_01,name,EnvObj_Barrier_Bollard_01,EnvObj_Barrier_Bollard_01
+NetEnvObj__11977.txt,$/180/desc,EnvObj_Barrier_Bollard_01,desc,EnvObj_Barrier_Bollard_01,EnvObj_Barrier_Bollard_01
+NetEnvObj__11977.txt,$/181/name,EnvObj_Barrier_Tyre_StackA_01,name,EnvObj_Barrier_Tyre_StackA_01,EnvObj_Barrier_Tyre_StackA_01
+NetEnvObj__11977.txt,$/181/desc,EnvObj_Barrier_Tyre_StackA_01,desc,EnvObj_Barrier_Tyre_StackA_01,EnvObj_Barrier_Tyre_StackA_01
+NetEnvObj__11977.txt,$/182/name,EnvObj_Road_CheckPost_04,name,EnvObj_Road_CheckPost_04,EnvObj_Road_CheckPost_04
+NetEnvObj__11977.txt,$/182/desc,EnvObj_Road_CheckPost_04,desc,EnvObj_Road_CheckPost_04,EnvObj_Road_CheckPost_04
+NetEnvObj__11977.txt,$/183/name,EnvObj_Barrier_Tyre_StackA_03,name,EnvObj_Barrier_Tyre_StackA_03,EnvObj_Barrier_Tyre_StackA_03
+NetEnvObj__11977.txt,$/183/desc,EnvObj_Barrier_Tyre_StackA_03,desc,EnvObj_Barrier_Tyre_StackA_03,EnvObj_Barrier_Tyre_StackA_03
+NetEnvObj__11977.txt,$/184/name,EnvObj_FireHydrant,name,EnvObj_FireHydrant,EnvObj_FireHydrant
+NetEnvObj__11977.txt,$/184/desc,EnvObj_FireHydrant,desc,EnvObj_FireHydrant,EnvObj_FireHydrant
+NetEnvObj__11977.txt,$/185/name,EnvObj_Shop_SunGlass,name,EnvObj_Shop_SunGlass,EnvObj_Shop_SunGlass
+NetEnvObj__11977.txt,$/185/desc,EnvObj_Shop_SunGlass,desc,EnvObj_Shop_SunGlass,EnvObj_Shop_SunGlass
+PLC_Deco__12020.txt,$/0/name,Deco_veronda_hangingPlant_01,name,Hanging Plant,نبتة معلّقة
+PLC_Deco__12020.txt,$/0/desc,Deco_veronda_hangingPlant_01,desc,Hanging Plant,نبتة معلّقة
+PLC_Deco__12020.txt,$/1/name,Deco_veronda_hangingPlant_02,name,Hanging Flowers,زهور معلّقة
+PLC_Deco__12020.txt,$/1/desc,Deco_veronda_hangingPlant_02,desc,Hanging Plant,نبتة معلّقة
+PLC_Deco__12020.txt,$/2/name,prop_Tapis_01,name,Queen's Carpet,سجادة الملكة
+PLC_Deco__12020.txt,$/2/desc,prop_Tapis_01,desc,Queen's Carpet,سجادة الملكة
+PLC_Deco__12020.txt,$/3/name,prop_Tapis_02,name,Dido Carpet,سجادة ديدو
+PLC_Deco__12020.txt,$/3/desc,prop_Tapis_02,desc,Dido Carpet,سجادة ديدو
+PLC_Deco__12020.txt,$/4/name,prop_Tapis_03,name,King's Carpet,سجادة الملك
+PLC_Deco__12020.txt,$/4/desc,prop_Tapis_03,desc,King's Carpet,سجادة الملك
+PLC_Deco__12020.txt,$/5/name,prop_deco_Art_Standing_01,name,Gatsby le magnifique - Picture,لوحة «غاتسبي العظيم»
+PLC_Deco__12020.txt,$/5/desc,prop_deco_Art_Standing_01,desc,Gatsby le magnifique,غاتسبي العظيم
+PLC_Deco__12020.txt,$/6/name,prop_deco_Art_Standing_02,name,Ranchy-Lisa - Picture,لوحة «رانشي ليزا»
+PLC_Deco__12020.txt,$/6/desc,prop_deco_Art_Standing_02,desc,Ranchy-Lisa picture,صورة رانشي ليزا
+PLC_Deco__12020.txt,$/7/name,prop_deco_Art_Standing_03,name,RedLove - Picture,لوحة «الحب الأحمر»
+PLC_Deco__12020.txt,$/7/desc,prop_deco_Art_Standing_03,desc,RedLove picture,صورة الحب الأحمر
+PLC_Deco__12020.txt,$/8/name,prop_deco_Wall_Art_01,name,Gatsby le magnifique - Painting,لوحة «غاتسبي العظيم»
+PLC_Deco__12020.txt,$/8/desc,prop_deco_Wall_Art_01,desc,Gatsby le magnifique painting,لوحة غاتسبي العظيم
+PLC_Deco__12020.txt,$/9/name,prop_deco_Wall_Art_02,name,Freedom - Painting,لوحة «الحرية»
+PLC_Deco__12020.txt,$/9/desc,prop_deco_Wall_Art_02,desc,Freedom painting,لوحة الحرية
+PLC_Deco__12020.txt,$/10/name,prop_deco_Wall_Art_03,name,RedLove - Painting,لوحة «الحب الأحمر»
+PLC_Deco__12020.txt,$/10/desc,prop_deco_Wall_Art_03,desc,RedLove painting,لوحة الحب الأحمر
+PLC_Deco__12020.txt,$/11/name,prop_deco_Wall_Art_04,name,Sexy & i know it - Painting,لوحة «أعرف أنني جذاب»
+PLC_Deco__12020.txt,$/11/desc,prop_deco_Wall_Art_04,desc,Sexy & i know it painting,لوحة «أعرف أنني جذاب»
+PLC_Deco__12020.txt,$/12/name,prop_deco_Wall_Art_05,name,Virgin nature - Painting,لوحة «الطبيعة البكر»
+PLC_Deco__12020.txt,$/12/desc,prop_deco_Wall_Art_05,desc,Virgin nature painting,لوحة الطبيعة البكر
+PLC_Deco__12020.txt,$/13/name,prop_deco_Wall_Art_06,name,Winter is now - Painting,لوحة «حلّ الشتاء»
+PLC_Deco__12020.txt,$/13/desc,prop_deco_Wall_Art_06,desc,Winter is now painting,لوحة حلّ الشتاء
+PLC_Deco__12020.txt,$/14/name,prop_deco_Wall_Art_07,name,"Me, my self and my tie - Painting",لوحة «أنا وربطة عنقي»
+PLC_Deco__12020.txt,$/14/desc,prop_deco_Wall_Art_07,desc,"Me, my self and my tie painting",لوحة أنا وربطة عنقي
+PLC_Deco__12020.txt,$/15/name,prop_deco_Wall_Art_08,name,Never go back - Painting,لوحة «لا عودة»
+PLC_Deco__12020.txt,$/15/desc,prop_deco_Wall_Art_08,desc,Never go back painting,لوحة لا عودة
+PLC_Deco__12020.txt,$/16/name,prop_deco_Wall_Art_09,name,Ranchy Lisa - Painting,لوحة رانشي ليزا
+PLC_Deco__12020.txt,$/16/desc,prop_deco_Wall_Art_09,desc,Ranchy Lisa painting,لوحة رانشي ليزا
+PLC_Deco__12020.txt,$/17/name,prop_deco_Wall_Clock_01,name,Wall'O'Clock,ساعة حائط
+PLC_Deco__12020.txt,$/17/desc,prop_deco_Wall_Clock_01,desc,Wall'O'Clock,ساعة حائط
+PLC_Deco__12020.txt,$/18/name,prop_deco_Wall_Clock_02,name,FirsTime,فيرست تايم
+PLC_Deco__12020.txt,$/18/desc,prop_deco_Wall_Clock_02,desc,Farmhouse Wall Clock,ساعة حائط ريفية
+PLC_Deco__12020.txt,$/19/name,prop_deco_Wall_Mirror_01,name,Arabic Mirror,مرآة عربية
+PLC_Deco__12020.txt,$/19/desc,prop_deco_Wall_Mirror_01,desc,Wall Mirror,مرآة حائط
+PLC_Deco__12020.txt,$/20/name,prop_deco_Wall_Mirror_02,name,ReSta Mirror,مرآة ريستا
+PLC_Deco__12020.txt,$/20/desc,prop_deco_Wall_Mirror_02,desc,Wall Mirror,مرآة حائط
+PLC_Deco__12020.txt,$/21/name,prop_light_Outdoor_light_01,name,RANCYSTA,RANCYSTA
+PLC_Deco__12020.txt,$/21/desc,prop_light_Outdoor_light_01,desc,Outdoor lamp with LED bulb,مصباح خارجي بلمبة LED
+PLC_Deco__12020.txt,$/22/name,prop_light_LampStanding_01,name,KINGSTA,KINGSTA
+PLC_Deco__12020.txt,$/22/desc,prop_light_LampStanding_01,desc,Floor lamp with LED bulb,مصباح أرضي بلمبة LED
+PLC_Deco__12020.txt,$/23/name,prop_light_LampStanding_02,name,SKURUT,SKURUT
+PLC_Deco__12020.txt,$/23/desc,prop_light_LampStanding_02,desc,Floor uplight with LED bulb,مصباح أرضي موجّه للأعلى بلمبة LED
+PLC_Deco__12020.txt,$/24/name,prop_light_Lamp_01,name,ARSTIB,ARSTIB
+PLC_Deco__12020.txt,$/24/desc,prop_light_Lamp_01,desc,Table lamp with LED bulb,مصباح طاولة بلمبة LED
+PLC_Deco__12020.txt,$/25/name,prop_light_Lamp_02,name,ARSTIR,ARSTIR
+PLC_Deco__12020.txt,$/25/desc,prop_light_Lamp_02,desc,Table lamp with LED bulb,مصباح طاولة بلمبة LED
+PLC_Deco__12020.txt,$/26/name,prop_light_Lamp_03,name,SVALLEB,SVALLEB
+PLC_Deco__12020.txt,$/26/desc,prop_light_Lamp_03,desc,Work lamp with LED bulb,مصباح عمل بلمبة LED
+PLC_Deco__12020.txt,$/27/name,prop_light_Ceiling_Light_01,name,SAVAVIEH KRISTI,سافافيه كريستي
+PLC_Deco__12020.txt,$/27/desc,prop_light_Ceiling_Light_01,desc,LED Ceiling Light,مصباح سقفي LED
+PLC_Deco__12020.txt,$/28/name,prop_light_Ceiling_Light_02,name,BARELO,BARELO
+PLC_Deco__12020.txt,$/28/desc,prop_light_Ceiling_Light_02,desc,LED Ceiling Light,مصباح سقفي LED
+PLC_Deco__12020.txt,$/29/name,prop_light_Ceiling_Light_03,name,Mithonia,ميثونيا
+PLC_Deco__12020.txt,$/29/desc,prop_light_Ceiling_Light_03,desc,WHITE LED Ceiling Light,مصباح سقفي أبيض LED
+PLC_Deco__12020.txt,$/30/name,prop_light_Ceiling_Light_04,name,Mithonia Flat,ميثونيا المسطحة
+PLC_Deco__12020.txt,$/30/desc,prop_light_Ceiling_Light_04,desc,WHITE LED Ceiling Light,مصباح سقفي أبيض LED
+PLC_Deco__12020.txt,$/31/name,prop_light_Ceiling_Light_05,name,SCABO,SCABO
+PLC_Deco__12020.txt,$/31/desc,prop_light_Ceiling_Light_05,desc,Instant Pendant Ceiling Light,مصباح سقفي معلّق سريع التركيب
+PLC_Deco__12020.txt,$/32/name,prop_light_Ceiling_Light_06,name,BYMAX,BYMAX
+PLC_Deco__12020.txt,$/32/desc,prop_light_Ceiling_Light_06,desc,3-Light Ceiling Lamp Glass Shade Chandelier,ثريا سقفية بثلاثة مصابيح وأغطية زجاجية
+PLC_Deco__12020.txt,$/33/name,prop_light_Ceiling_Light_07,name,BUMMER,BUMMER
+PLC_Deco__12020.txt,$/33/desc,prop_light_Ceiling_Light_07,desc,1 Light Ceiling Fan,مروحة سقف بمصباح واحد
+PLC_Deco__12020.txt,$/34/name,prop_Converter_BreadBin_01,name,Bread Box,صندوق خبز
+PLC_Deco__12020.txt,$/34/desc,prop_Converter_BreadBin_01,desc,"Bread Bin Storage Container for Loaves, Pastries, and More",حافظة لتخزين أرغفة الخبز والمعجنات وغيرها.
+PLC_Deco__12020.txt,$/35/name,prop_Converter_Jar_01,name,Bamilton - Glass Jar,مرطبان باميلتون الزجاجي
+PLC_Deco__12020.txt,$/35/desc,prop_Converter_Jar_01,desc,Glass Jar with 1 storage slot,مرطبان زجاجي بخانة تخزين واحدة
+PLC_Deco__12020.txt,$/36/name,prop_Converter_Jar_02,name,Kiki - Glass Jar,مرطبان كيكي الزجاجي
+PLC_Deco__12020.txt,$/36/desc,prop_Converter_Jar_02,desc,Jar with 1 storage slot,مرطبان بخانة تخزين واحدة
+PLC_Deco__12020.txt,$/37/name,prop_deco_Flowers_01,name,Flowers'in'pot,زهور في أصيص
+PLC_Deco__12020.txt,$/37/desc,prop_deco_Flowers_01,desc,Interior Flowers in a beautiful pot,زهور داخلية في أصيص جميل
+PLC_Deco__12020.txt,$/38/name,prop_deco_Flowers_02,name,Flowers'in'pot,زهور في أصيص
+PLC_Deco__12020.txt,$/38/desc,prop_deco_Flowers_02,desc,Interior Flowers in a beautiful pot,زهور داخلية في أصيص جميل
+PLC_Deco__12020.txt,$/39/name,prop_deco_Flowers_03,name,Flowers'in'pot,زهور في أصيص
+PLC_Deco__12020.txt,$/39/desc,prop_deco_Flowers_03,desc,Interior Flowers in a beautiful pot,زهور داخلية في أصيص جميل
+PLC_Deco__12020.txt,$/40/name,prop_deco_PotPlant_01,name,Plants'in'pot,نباتات في أصيص
+PLC_Deco__12020.txt,$/40/desc,prop_deco_PotPlant_01,desc,Interior Plants in a beautiful pot,نباتات داخلية في أصيص جميل
+PLC_Deco__12020.txt,$/41/name,prop_deco_PotPlant_02,name,Plants'in'pot,نباتات في أصيص
+PLC_Deco__12020.txt,$/41/desc,prop_deco_PotPlant_02,desc,Interior Plants in a beautiful pot,نباتات داخلية في أصيص جميل
+PLC_Deco__12020.txt,$/42/name,prop_deco_PotPlant_03,name,Plants'in'pot,نباتات في أصيص
+PLC_Deco__12020.txt,$/42/desc,prop_deco_PotPlant_03,desc,Interior Plants in a beautiful pot,نباتات داخلية في أصيص جميل
+PLC_Deco__12020.txt,$/43/name,prop_deco_PotPlant_04,name,Plants'in'pot,نباتات في أصيص
+PLC_Deco__12020.txt,$/43/desc,prop_deco_PotPlant_04,desc,Interior Plants in a beautiful pot,نباتات داخلية في أصيص جميل
+PLC_Deco__12020.txt,$/44/name,prop_deco_PotPlant_05,name,Plants'in'pot,نباتات في أصيص
+PLC_Deco__12020.txt,$/44/desc,prop_deco_PotPlant_05,desc,Interior Plants in a beautiful pot,نباتات داخلية في أصيص جميل
+PLC_Deco__12020.txt,$/45/name,prop_deco_Globe_01,name,Flat Earth,الأرض المسطحة
+PLC_Deco__12020.txt,$/45/desc,prop_deco_Globe_01,desc,Before earth was flattered,قبل أن تصبح الأرض مسطحة
+PLC_Deco__12020.txt,$/46/name,prop_Bathroom_Tapis_01,name,BathRu,BathRu
+PLC_Deco__12020.txt,$/46/desc,prop_Bathroom_Tapis_01,desc,Bath Rug,سجادة حمام
+PLC_Deco__12020.txt,$/47/name,prop_Bathroom_Tapis_02,name,BathRu Deluxe,سجادة حمام فاخرة
+PLC_Deco__12020.txt,$/47/desc,prop_Bathroom_Tapis_02,desc,Bath Rug deluxe,سجادة حمام فاخرة
+PLC_Deco__12020.txt,$/48/name,prop_deco_Plant_01,name,Ground Plant,نبتة أرضية
+PLC_Deco__12020.txt,$/48/desc,prop_deco_Plant_01,desc,Ground Plant,نبتة أرضية
+PLC_Deco__12020.txt,$/49/name,prop_deco_Plant_02,name,Ground Plant,نبتة أرضية
+PLC_Deco__12020.txt,$/49/desc,prop_deco_Plant_02,desc,Ground Plant,نبتة أرضية
+PLC_Devices__12060.txt,$/0/name,prop_TV_Flat_01,name,Flat Television,تلفاز مسطح
+PLC_Devices__12060.txt,$/0/desc,prop_TV_Flat_01,desc,A farm fence maded from wood to protect your farm,سياج خشبي لحماية مزرعتك.
+PLC_Devices__12060.txt,$/1/name,prop_Wall_Heater_01,name,Heather,هيذر
+PLC_Devices__12060.txt,$/1/desc,prop_Wall_Heater_01,desc,360 Degree Surround Heater,مدفأة محيطية بزاوية 360 درجة
+PLC_Devices__12060.txt,$/2/name,prop_Wall_AirConditioner_01,name,Air Conditioner,مكيّف هواء
+PLC_Devices__12060.txt,$/2/desc,prop_Wall_AirConditioner_01,desc,Through-the-Wall Air Conditioner with Smart Control,مكيّف هواء جداري بتحكم ذكي.
+PLC_Devices__12060.txt,$/3/name,prop_Kitchen_Fridge_01,name,LOGAN,LOGAN
+PLC_Devices__12060.txt,$/3/desc,prop_Kitchen_Fridge_01,desc,freezer refrigerator,ثلاجة بفريزر
+PLC_Devices__12060.txt,$/4/name,prop_Kitchen_Fridge_02,name,FRYZBAR,FRYZBAR
+PLC_Devices__12060.txt,$/4/desc,prop_Kitchen_Fridge_02,desc,Top-freezer refrigerator,ثلاجة بفريزر علوي
+PLC_Devices__12060.txt,$/5/name,prop_Kitchen_Oven_01,name,OVYY,OVYY
+PLC_Devices__12060.txt,$/5/desc,prop_Kitchen_Oven_01,desc,Range with glass ceramic cooktop,موقد بسطح طهي زجاجي سيراميكي
+PLC_Devices__12060.txt,$/6/name,prop_Kitchen_CounterWashing_01,name,KNOXUL WOOSH,غسالة كنوكسول
+PLC_Devices__12060.txt,$/6/desc,prop_Kitchen_CounterWashing_01,desc,Don't wach your dishs but has 12-storage slot,لا يغسل الأطباق، لكنه يحتوي على 12 خانة تخزين.
+PLC_Devices__12060.txt,$/7/name,prop_Converter_CoffeeMachine_01,name,KitchenMaid - Coffee Maker,آلة قهوة كيتشن ميد
+PLC_Devices__12060.txt,$/7/desc,prop_Converter_CoffeeMachine_01,desc,Single Serve Coffee Brewers with Permanent Filter,آلة تحضير قهوة لفنجان واحد مع مرشح دائم.
+PLC_Devices__12060.txt,$/8/name,prop_Converter_Toaster_01,name,Bamilton - Toaster,محمصة باميلتون
+PLC_Devices__12060.txt,$/8/desc,prop_Converter_Toaster_01,desc,2-Slice Toaster with Manual Lift Lever,محمصة لشريحتين برافعة يدوية.
+PLC_Devices__12060.txt,$/9/name,prop_Converter_Microwave_01,name,Bamilton - Microwave,ميكروويف باميلتون
+PLC_Devices__12060.txt,$/9/desc,prop_Converter_Microwave_01,desc,Stainless Steel Microwave,ميكروويف من الفولاذ المقاوم للصدأ
+PLC_Devices__12060.txt,$/10/name,prop_Computer_01,name,Predator PC,حاسوب بريداتور
+PLC_Devices__12060.txt,$/10/desc,prop_Computer_01,desc,Gaming Computer,حاسوب ألعاب
+PLC_Devices__12060.txt,$/11/name,prop_Roof_LVL1_SatelliteDish_01,name,Satellite Dish,طبق استقبال فضائي
+PLC_Devices__12060.txt,$/11/desc,prop_Roof_LVL1_SatelliteDish_01,desc,Satellite Dish,طبق استقبال فضائي
+PLC_Devices__12060.txt,$/12/name,prop_Roof_LVL1_Antenna_01,name,TV Antenna,هوائي تلفاز
+PLC_Devices__12060.txt,$/12/desc,prop_Roof_LVL1_Antenna_01,desc,TV Antenna,هوائي تلفاز
+PLC_EnergyGenerators__12052.txt,$/0/name,prop_Roof_LVL1_SolarPanel_01,name,Roof Solar Panel,لوح شمسي للسقف
+PLC_EnergyGenerators__12052.txt,$/0/desc,prop_Roof_LVL1_SolarPanel_01,desc,Absorb the sun's rays and convert them into electricity or heat.,يمتص أشعة الشمس ويحوّلها إلى كهرباء أو حرارة.
+PLC_EnergyGenerators__12052.txt,$/1/name,enrg_solar_n1,name,Solar Panel (Basic),لوح شمسي (أساسي)
+PLC_EnergyGenerators__12052.txt,$/1/desc,enrg_solar_n1,desc,Absorb the sun's rays and convert them into electricity or heat.,يمتص أشعة الشمس ويحوّلها إلى كهرباء أو حرارة.
+PLC_EnergyGenerators__12052.txt,$/2/name,enrg_solar_n1b,name,Big Solar Panel (Basic),لوح شمسي كبير (أساسي)
+PLC_EnergyGenerators__12052.txt,$/2/desc,enrg_solar_n1b,desc,Absorb the sun's rays and convert them into electricity or heat.,يمتص أشعة الشمس ويحوّلها إلى كهرباء أو حرارة.
+PLC_EnergyGenerators__12052.txt,$/3/name,enrg_solar_n2,name,Solar Panel (Upgraded),لوح شمسي (مطوّر)
+PLC_EnergyGenerators__12052.txt,$/3/desc,enrg_solar_n2,desc,Absorb the sun's rays and convert them into electricity or heat.,يمتص أشعة الشمس ويحوّلها إلى كهرباء أو حرارة.
+PLC_EnergyGenerators__12052.txt,$/4/name,enrg_solar_n2b,name,Big Solar Panel (Upgraded),لوح شمسي كبير (مطوّر)
+PLC_EnergyGenerators__12052.txt,$/4/desc,enrg_solar_n2b,desc,Absorb the sun's rays and convert them into electricity or heat.,يمتص أشعة الشمس ويحوّلها إلى كهرباء أو حرارة.
+PLC_EnergyGenerators__12052.txt,$/5/name,enrg_solar_n3,name,Solar Panel (Advanced),لوح شمسي (متقدم)
+PLC_EnergyGenerators__12052.txt,$/5/desc,enrg_solar_n3,desc,Absorb the sun's rays and convert them into electricity or heat.,يمتص أشعة الشمس ويحوّلها إلى كهرباء أو حرارة.
+PLC_EnergyGenerators__12052.txt,$/6/name,enrg_solar_n3b,name,Big Solar Panel (Advanced),لوح شمسي كبير (متقدم)
+PLC_EnergyGenerators__12052.txt,$/6/desc,enrg_solar_n3b,desc,Absorb the sun's rays and convert them into electricity or heat.,يمتص أشعة الشمس ويحوّلها إلى كهرباء أو حرارة.
+PLC_EnergyGenerators__12052.txt,$/7/name,enrg_windturbine_n2,name,Wind Turbine (Upgraded),توربين رياح (مطوّر)
+PLC_EnergyGenerators__12052.txt,$/7/desc,enrg_windturbine_n2,desc,Converts the wind's kinetic energy into electrical energy.,يحوّل طاقة الرياح الحركية إلى طاقة كهربائية.
+PLC_EnergyGenerators__12052.txt,$/8/name,enrg_windturbine_n3,name,Wind Turbine (Advanced),توربين رياح (متقدم)
+PLC_EnergyGenerators__12052.txt,$/8/desc,enrg_windturbine_n3,desc,Converts the wind's kinetic energy into electrical energy.,يحوّل طاقة الرياح الحركية إلى طاقة كهربائية.
+PLC_EnergyGenerators__12052.txt,$/9/name,enrg_water_pump_n1,name,Water Pump(Basic),مضخة مياه (أساسية)
+PLC_EnergyGenerators__12052.txt,$/9/desc,enrg_water_pump_n1,desc,Pump water from the ground.,اضخ المياه من باطن الأرض.
+PLC_FarmTools__12068.txt,$/0/name,sprinkler_n1,name,Basic Sprinkler,مرش مياه أساسي
+PLC_FarmTools__12068.txt,$/0/desc,sprinkler_n1,desc,Water your plants and plantations effortlessly,اسقِ نباتاتك ومزارعك بسهولة.
+PLC_FarmTools__12068.txt,$/1/name,sprinkler_n2,name,Advanced Sprinkler,مرش مياه متقدم
+PLC_FarmTools__12068.txt,$/1/desc,sprinkler_n2,desc,Water your plants and plantations effortlessly,اسقِ نباتاتك ومزارعك بسهولة.
+PLC_FarmTools__12068.txt,$/2/name,prop_Scarecrow_01,name,Bob the Scarecrow,الفزّاعة بوب
+PLC_FarmTools__12068.txt,$/2/desc,prop_Scarecrow_01,desc,Scarecrow,فزّاعة
+PLC_FarmTools__12068.txt,$/3/name,prop_Scarecrow_00,name,Scarecrow,فزّاعة
+PLC_FarmTools__12068.txt,$/3/desc,prop_Scarecrow_00,desc,Scarecrow,فزّاعة
+PLC_FarmTools__12068.txt,$/4/name,prop_Outdoor_Well,name,Water Well,بئر مياه
+PLC_FarmTools__12068.txt,$/4/desc,prop_Outdoor_Well,desc,Water Well,بئر مياه
+PLC_FarmTools__12068.txt,$/5/name,sprinkler_ceiling_n1,name,Green House Sprinkler,مرش البيت الزجاجي
+PLC_FarmTools__12068.txt,$/5/desc,sprinkler_ceiling_n1,desc,Water your plants and plantations effortlessly,اسقِ نباتاتك ومزارعك بسهولة.
+PLC_FarmTools__12068.txt,$/6/name,prop_Trough_01,name,Trough,حوض شرب
+PLC_FarmTools__12068.txt,$/6/desc,prop_Trough_01,desc,Trough,حوض شرب
+PLC_House_Walls__12002.txt,$/0/name,house_fondation_DeckStep,name,DeckStep Foundation,قاعدة منصة
+PLC_House_Walls__12002.txt,$/0/desc,house_fondation_DeckStep,desc,A solid foundation,قاعدة متينة.
+PLC_House_Walls__12002.txt,$/1/name,house_fondation_Interior,name,House interior Foundation,قاعدة داخلية للمنزل
+PLC_House_Walls__12002.txt,$/1/desc,house_fondation_Interior,desc,A solid foundation,قاعدة متينة.
+PLC_House_Walls__12002.txt,$/2/name,house_wall_interior,name,Wall - Interior,جدار داخلي
+PLC_House_Walls__12002.txt,$/2/desc,house_wall_interior,desc,House wall interior,جدار داخلي للمنزل
+PLC_House_Walls__12002.txt,$/3/name,house_wall_exterior_01,name,Wall - Exterior,جدار خارجي
+PLC_House_Walls__12002.txt,$/3/desc,house_wall_exterior_01,desc,House wall exterior,جدار خارجي للمنزل
+PLC_House_Walls__12002.txt,$/4/name,house_wall_exterior_window_01,name,Wall with window - Exterior,جدار خارجي بنافذة
+PLC_House_Walls__12002.txt,$/5/name,house_wall_exterior_Door_01,name,Wall with door - Exterior,جدار خارجي بباب
+PLC_House_Walls__12002.txt,$/6/name,house_wall_exterior_window_02,name,Wall with big window - Exterior,جدار خارجي بنافذة كبيرة
+PLC_House_Walls__12002.txt,$/7/name,house_wall_interior_Door_01,name,Wall with door - Interior,جدار داخلي بباب
+PLC_House_Walls__12002.txt,$/8/name,house_door_exterior_01,name,Door - Exterior,باب خارجي
+PLC_House_Walls__12002.txt,$/9/name,house_door_interior_01,name,Door - Interior,باب داخلي
+PLC_House_Walls__12002.txt,$/10/name,House_DeckSteps_01,name,Doorstep,عتبة باب
+PLC_House_Walls__12002.txt,$/11/name,house_fondation_Garage,name,Garage foundation,قاعدة المرأب
+PLC_House_Walls__12002.txt,$/12/name,house_Veranda_Pillar_01,name,Veranda Pillar,عمود شرفة
+PLC_House_Walls__12002.txt,$/13/name,house_Vernada_Rails_01,name,Veranda Rails,درابزين الشرفة
+PLC_House_Walls__12002.txt,$/14/name,house_Veronda_ceiling_01,name,Veranda Ceiling,سقف الشرفة
+PLC_House_Walls__12002.txt,$/15/name,house_wall_interior_garage_Door_01,name,Garage wall with door - Interior,جدار داخلي للمرأب بباب
+PLC_House_Walls__12002.txt,$/16/name,house_wall_interior_garage_01,name,Garage wall - Interior,جدار داخلي للمرأب
+PLC_House_Walls__12002.txt,$/17/name,house_wall_exterior_garage_Door_01,name,Garage wall with door - Exterior,جدار خارجي للمرأب بباب
+PLC_House_Walls__12002.txt,$/18/name,house_door_Garage_01,name,Garage Door,باب المرأب
+PLC_House_Walls__12002.txt,$/19/name,house_wall_exterior_garage_01,name,Garage wall - Exterior,جدار خارجي للمرأب
+PLC_House_Walls__12002.txt,$/20/name,house_wall_exterior_window_garage_01,name,Garage wall with window - Exterior,جدار خارجي للمرأب بنافذة
+PLC_House_Walls__12002.txt,$/21/name,house_wall_exterior_garage_Door_Main_01,name,Garage wall with main door - Exterior,جدار خارجي للمرأب بباب رئيسي
+PLC_House_Walls__12002.txt,$/22/name,house_ceiling_01,name,House interior Ceiling,سقف داخلي للمنزل
+PLC_House_Walls__12002.txt,$/23/name,house_ceiling_Pillar_01,name,Terrace Pillar,عمود التراس
+PLC_House_Walls__12002.txt,$/24/name,house_ceiling_Rails_01,name,Terrace Rails,درابزين التراس
+PLC_House_Walls__12002.txt,$/25/name,house_Roof_LVL_01_Straight,name,Roof Straight- Level 1,سقف مستقيم — المستوى 1
+PLC_House_Walls__12002.txt,$/26/name,house_Roof_LVL_01_Corner,name,Roof Corner- Level 1,زاوية سقف — المستوى 1
+PLC_House_Walls__12002.txt,$/27/name,house_Roof_LVL_01_Corner_Inverted,name,Roof Corner Inverted - Level 1,زاوية سقف معكوسة — المستوى 1
+PLC_House_Walls__12002.txt,$/28/name,house_Roof_LVL_02_Cap,name,Roof Cap - Level 2,غطاء سقف — المستوى 2
+PLC_House_Walls__12002.txt,$/29/name,house_Roof_LVL_02_Straight,name,Roof Straight - Level 2,سقف مستقيم — المستوى 2
+PLC_House_Walls__12002.txt,$/30/name,prop_Roof_LVL2_Window_01,name,Roof Window - Level 2,نافذة سقف — المستوى 2
+PLC_House_Walls__12002.txt,$/31/name,house_fondation_Interior_Kitchen,name,Kitchen foundation - interior,قاعدة المطبخ الداخلية
+PLC_House_Walls__12002.txt,$/32/name,prop_Roof_LVL1_SkyLight_01,name,Roof Window,نافذة سقفية
+PLC_House_Walls__12002.txt,$/32/desc,prop_Roof_LVL1_SkyLight_01,desc,Roof Window,نافذة سقفية
+PLC_House_Walls__12002.txt,$/33/name,prop_Roof_LVL1_SkyLight_02,name,Roof Window,نافذة سقفية
+PLC_House_Walls__12002.txt,$/33/desc,prop_Roof_LVL1_SkyLight_02,desc,Roof Window,نافذة سقفية
+PLC_House_Walls__12002.txt,$/34/name,prop_Roof_LVL1_SkyLight_03,name,Roof Window,نافذة سقفية
+PLC_House_Walls__12002.txt,$/34/desc,prop_Roof_LVL1_SkyLight_03,desc,Roof Window,نافذة سقفية
+PLC_House_Walls__12002.txt,$/35/name,prop_Roof_LVL1_Chimney_01,name,Chimney - Big,مدخنة كبيرة
+PLC_House_Walls__12002.txt,$/35/desc,prop_Roof_LVL1_Chimney_01,desc,Chimney,مدخنة
+PLC_House_Walls__12002.txt,$/36/name,prop_Roof_LVL1_Chimney_02,name,Chimney - Small,مدخنة صغيرة
+PLC_House_Walls__12002.txt,$/36/desc,prop_Roof_LVL1_Chimney_02,desc,Chimney,مدخنة
+PLC_House_Walls__12002.txt,$/37/name,house_fondation_Exterior_Wood,name,Wood foundation - Exterior,قاعدة خشبية خارجية
+PLC_House_Walls__12002.txt,$/38/name,house_fondation_Exterior_Concrete,name,Concrete foundation - Exterior,قاعدة خرسانية خارجية
+PLC_House_Walls__12002.txt,$/39/name,house_fondation_Exterior_Rock,name,Rocks foundation - Exterior,قاعدة حجرية خارجية
+PLC_House_Windows__11989.txt,$/0/name,House_Window_01,name,Window,نافذة
+PLC_House_Windows__11989.txt,$/0/desc,House_Window_01,desc,A solid fondation maded from wood,قاعدة متينة مصنوعة من الخشب.
+PLC_House_Windows__11989.txt,$/1/name,House_Window_Curtain_01,name,Window Curtain,ستارة نافذة
+PLC_House_Windows__11989.txt,$/1/desc,House_Window_Curtain_01,desc,A solid fondation maded from wood,قاعدة متينة مصنوعة من الخشب.
+PLC_House_Windows__11989.txt,$/2/name,house_stairs_01,name,Stairs - Interior,درج داخلي
+PLC_House_Windows__11989.txt,$/2/desc,house_stairs_01,desc,A solid fondation maded from wood,قاعدة متينة مصنوعة من الخشب.
+PLC_House_Windows__11989.txt,$/3/name,house_stairs_Rails_01,name,Stairs Rails - Interior,درابزين درج داخلي
+PLC_House_Windows__11989.txt,$/3/desc,house_stairs_Rails_01,desc,A solid fondation maded from wood,قاعدة متينة مصنوعة من الخشب.
+PLC_Meubles__12003.txt,$/0/name,prop_couch_04,name,Couch de luxe - 2 Spots,أريكة فاخرة بمقعدين
+PLC_Meubles__12003.txt,$/0/desc,prop_couch_04,desc,A farm fence made from wood to protect your farm,سياج خشبي لحماية مزرعتك.
+PLC_Meubles__12003.txt,$/1/name,prop_couch_06,name,Couch de luxe - 1 Spot,أريكة فاخرة بمقعد واحد
+PLC_Meubles__12003.txt,$/1/desc,prop_couch_06,desc,A farm fence made from wood to protect your farm,سياج خشبي لحماية مزرعتك.
+PLC_Meubles__12003.txt,$/2/name,prop_TVCabinet_01,name,TV Cabinet - large,خزانة تلفاز كبيرة
+PLC_Meubles__12003.txt,$/2/desc,prop_TVCabinet_01,desc,A farm fence made from wood to protect your farm,سياج خشبي لحماية مزرعتك.
+PLC_Meubles__12003.txt,$/3/name,prop_CofeeTable_01,name,Cofee Table - Small,طاولة قهوة صغيرة
+PLC_Meubles__12003.txt,$/3/desc,prop_CofeeTable_01,desc,A farm fence made from wood to protect your farm,سياج خشبي لحماية مزرعتك.
+PLC_Meubles__12003.txt,$/4/name,prop_CofeeTable_02,name,Cofee Table,طاولة قهوة
+PLC_Meubles__12003.txt,$/4/desc,prop_CofeeTable_02,desc,A farm fence made from wood to protect your farm,سياج خشبي لحماية مزرعتك.
+PLC_Meubles__12003.txt,$/5/name,prop_Shelf_01,name,BLYSTA,BLYSTA
+PLC_Meubles__12003.txt,$/5/desc,prop_Shelf_01,desc,Shelf unit,وحدة رفوف
+PLC_Meubles__12003.txt,$/6/name,prop_Dresser_01,name,WALM,WALM
+PLC_Meubles__12003.txt,$/6/desc,prop_Dresser_01,desc,3-drawer chest,خزانة بثلاثة أدراج
+PLC_Meubles__12003.txt,$/7/name,prop_Dresser_02,name,BODISHUS,BODISHUS
+PLC_Meubles__12003.txt,$/7/desc,prop_Dresser_02,desc,3-drawer chest,خزانة بثلاثة أدراج
+PLC_Meubles__12003.txt,$/8/name,prop_Dresser_03,name,NORDI,NORDI
+PLC_Meubles__12003.txt,$/8/desc,prop_Dresser_03,desc,6-drawer dresser,خزانة ملابس بستة أدراج
+PLC_Meubles__12003.txt,$/9/name,prop_Kitchen_Counter_01,name,KNOXUL STORAGE,خزانة تخزين كنوكسول
+PLC_Meubles__12003.txt,$/9/desc,prop_Kitchen_Counter_01,desc,Kitchen counter with 6 storage slots,منضدة مطبخ بست خانات تخزين
+PLC_Meubles__12003.txt,$/10/name,prop_Kitchen_Counter_02,name,KNOXUL,KNOXUL
+PLC_Meubles__12003.txt,$/10/desc,prop_Kitchen_Counter_02,desc,Kitchen counter deluxe,منضدة مطبخ فاخرة
+PLC_Meubles__12003.txt,$/11/name,prop_Kitchen_CounterCorner_01,name,KNOXUL CORNER,وحدة زاوية كنوكسول
+PLC_Meubles__12003.txt,$/11/desc,prop_Kitchen_CounterCorner_01,desc,Cornered kitchen counter,منضدة مطبخ زاوية
+PLC_Meubles__12003.txt,$/12/name,prop_Kitchen_CounterEnd_01,name,KNOXUL END,وحدة نهاية كنوكسول
+PLC_Meubles__12003.txt,$/12/desc,prop_Kitchen_CounterEnd_01,desc,kitchen counter,منضدة مطبخ
+PLC_Meubles__12003.txt,$/13/name,prop_Kitchen_CounterSink_01,name,KNOXUL ROBINET,صنبور كنوكسول
+PLC_Meubles__12003.txt,$/13/desc,prop_Kitchen_CounterSink_01,desc,Don't wach your dishs but has 12-storage slot,لا يغسل الأطباق، لكنه يحتوي على 12 خانة تخزين.
+PLC_Meubles__12003.txt,$/14/name,prop_Kitchen_KitchenCabinet_01,name,KNOXUL CABINET,خزانة كنوكسول
+PLC_Meubles__12003.txt,$/14/desc,prop_Kitchen_KitchenCabinet_01,desc,Kitchen cabinet with 6 storage slots,خزانة مطبخ بست خانات تخزين
+PLC_Meubles__12003.txt,$/15/name,prop_DiningChair_01,name,BENY Chair,كرسي بيني
+PLC_Meubles__12003.txt,$/15/desc,prop_DiningChair_01,desc,Home kitchen chair,كرسي مطبخ منزلي
+PLC_Meubles__12003.txt,$/16/name,prop_DiningTable_01,name,BENY Table,طاولة بيني
+PLC_Meubles__12003.txt,$/16/desc,prop_DiningTable_01,desc,Home kitchen table,طاولة مطبخ منزلية
+PLC_Meubles__12003.txt,$/17/name,prop_DiningChair_02,name,KIBI Chair,كرسي كيبي
+PLC_Meubles__12003.txt,$/17/desc,prop_DiningChair_02,desc,Home kitchen chair,كرسي مطبخ منزلي
+PLC_Meubles__12003.txt,$/18/name,prop_DiningChair_03,name,KIBI Zodio,كيبي زوديو
+PLC_Meubles__12003.txt,$/18/desc,prop_DiningChair_03,desc,Home kitchen chair,كرسي مطبخ منزلي
+PLC_Meubles__12003.txt,$/19/name,prop_DiningTable_02,name,KIBI Table,طاولة كيبي
+PLC_Meubles__12003.txt,$/19/desc,prop_DiningTable_02,desc,Home kitchen table,طاولة مطبخ منزلية
+PLC_Meubles__12003.txt,$/20/name,prop_couch_01,name,Pride,برايد
+PLC_Meubles__12003.txt,$/20/desc,prop_couch_01,desc,Designer Sofa,أريكة بتصميم أنيق
+PLC_Meubles__12003.txt,$/21/name,prop_couch_02,name,Belvet Two,بيلفيت 2
+PLC_Meubles__12003.txt,$/21/desc,prop_couch_02,desc,Sofa & Loveseat,أريكة ومقعد لشخصين
+PLC_Meubles__12003.txt,$/22/name,prop_couch_03,name,Belvet One,بيلفيت 1
+PLC_Meubles__12003.txt,$/22/desc,prop_couch_03,desc,Sofa & Loveseat,أريكة ومقعد لشخصين
+PLC_Meubles__12003.txt,$/23/name,prop_couch_05,name,Gamler,غامْلر
+PLC_Meubles__12003.txt,$/23/desc,prop_couch_05,desc,Living room set,طقم غرفة معيشة
+PLC_Meubles__12003.txt,$/24/name,prop_couch_07,name,Soffy,سوڤي
+PLC_Meubles__12003.txt,$/24/desc,prop_couch_07,desc,Living room set,طقم غرفة معيشة
+PLC_Meubles__12003.txt,$/25/name,prop_Bed_Double_01,name,ViscoMagic Sleep Double,سرير فيسكو ماجيك مزدوج
+PLC_Meubles__12003.txt,$/25/desc,prop_Bed_Double_01,desc,Double bed deluxe,سرير مزدوج فاخر
+PLC_Meubles__12003.txt,$/26/name,prop_Bed_Double_02,name,Rusty Sleep Double,سرير رستي المزدوج
+PLC_Meubles__12003.txt,$/26/desc,prop_Bed_Double_02,desc,Double bed deluxe,سرير مزدوج فاخر
+PLC_Meubles__12003.txt,$/27/name,prop_Bed_Double_03,name,Shore Sleep Double,سرير شور المزدوج
+PLC_Meubles__12003.txt,$/27/desc,prop_Bed_Double_03,desc,Double bed deluxe,سرير مزدوج فاخر
+PLC_Meubles__12003.txt,$/28/name,prop_Bed_Single_01,name,Shore Sleep Single,سرير شور الفردي
+PLC_Meubles__12003.txt,$/28/desc,prop_Bed_Single_01,desc,Double bed deluxe,سرير مزدوج فاخر
+PLC_Meubles__12003.txt,$/29/name,prop_Bed_Single_02,name,Rusty Sleep Single,سرير رستي الفردي
+PLC_Meubles__12003.txt,$/29/desc,prop_Bed_Single_02,desc,Single bed deluxe,سرير فردي فاخر
+PLC_Meubles__12003.txt,$/30/name,prop_Bed_Single_03,name,ViscoMagic Sleep Single,سرير فيسكو ماجيك فردي
+PLC_Meubles__12003.txt,$/30/desc,prop_Bed_Single_03,desc,Single bed deluxe,سرير فردي فاخر
+PLC_Meubles__12003.txt,$/31/name,prop_Desk_01,name,Wobili Desk,مكتب ووبلي
+PLC_Meubles__12003.txt,$/31/desc,prop_Desk_01,desc,Trendy Writing Desk with Drawer,مكتب كتابة عصري بدرج
+PLC_Meubles__12003.txt,$/32/name,prop_Desk_02,name,President Desk,مكتب الرئيس
+PLC_Meubles__12003.txt,$/32/desc,prop_Desk_02,desc,President Desk with Drawer,مكتب الرئيس بدرج
+PLC_Meubles__12003.txt,$/33/name,prop_DeskChair_01,name,Cheryy,تشيري
+PLC_Meubles__12003.txt,$/33/desc,prop_DeskChair_01,desc,Office chair ergonomic,كرسي مكتب مريح
+PLC_Meubles__12003.txt,$/34/name,prop_Bathroom_Sink_01,name,Sinky,سينكي
+PLC_Meubles__12003.txt,$/34/desc,prop_Bathroom_Sink_01,desc,porcelain vesssel sink,حوض مغسلة من البورسلان
+PLC_Meubles__12003.txt,$/35/name,prop_Bathroom_Sink_02,name,Vitreous,زجاجي
+PLC_Meubles__12003.txt,$/35/desc,prop_Bathroom_Sink_02,desc,rectangular undermount bathroom sink with 3 storage slot,حوض حمام مستطيل يثبت أسفل السطح مع 3 خانات تخزين
+PLC_Meubles__12003.txt,$/36/name,prop_Bathroom_Bath_01,name,Kings Cleaner,كينغز كلينر
+PLC_Meubles__12003.txt,$/36/desc,prop_Bathroom_Bath_01,desc,Bath deluxe,حوض استحمام فاخر
+PLC_Meubles__12003.txt,$/37/name,prop_Bathroom_Bath_02,name,Queens Cleaner,كوينز كلينر
+PLC_Meubles__12003.txt,$/37/desc,prop_Bathroom_Bath_02,desc,Bath deluxe,حوض استحمام فاخر
+PLC_Meubles__12003.txt,$/38/name,prop_Bathroom_Toilet_01,name,Resty,ريستي
+PLC_Meubles__12003.txt,$/38/desc,prop_Bathroom_Toilet_01,desc,Classic toilet,مرحاض كلاسيكي
+PLC_Meubles__12003.txt,$/39/name,prop_Bathroom_Toilet_02,name,Misty,ميستي
+PLC_Meubles__12003.txt,$/39/desc,prop_Bathroom_Toilet_02,desc,Japaneese toilet,مرحاض ياباني
+PLC_Meubles__12003.txt,$/40/name,prop_Bathroom_Shower_01,name,ShowStall,كابينة الاستحمام
+PLC_Meubles__12003.txt,$/40/desc,prop_Bathroom_Shower_01,desc,Shower Stall,كابينة دش
+PLC_Meubles__12003.txt,$/41/name,prop_Bathroom_Shower_02,name,Pataya Bath,حوض استحمام باتايا
+PLC_Meubles__12003.txt,$/41/desc,prop_Bathroom_Shower_02,desc,Superior steam shower with massage,دش بخاري فاخر مع خاصية التدليك
+PLC_Meubles__12003.txt,$/42/name,prop_Outdoor_Table_01,name,Gardy,غاردي
+PLC_Meubles__12003.txt,$/42/desc,prop_Outdoor_Table_01,desc,Outdoor Table,طاولة خارجية
+PLC_Meubles__12003.txt,$/43/name,prop_Outdoor_Table_02,name,BARON Table,طاولة بارون
+PLC_Meubles__12003.txt,$/43/desc,prop_Outdoor_Table_02,desc,Outdoor Table,طاولة خارجية
+PLC_Meubles__12003.txt,$/44/name,prop_DiningChair_04,name,BARON Chair,كرسي بارون
+PLC_Meubles__12003.txt,$/44/desc,prop_DiningChair_04,desc,Outdoor Chair,كرسي خارجي
+PLC_Meubles__12003.txt,$/45/name,prop_Barbeque_01,name,UBBER,UBBER
+PLC_Meubles__12003.txt,$/45/desc,prop_Barbeque_01,desc,Barbeque,شواية
+PLC_Meubles__12003.txt,$/46/name,prop_Deckchair_03,name,Beach Chair,كرسي شاطئ
+PLC_Meubles__12003.txt,$/46/desc,prop_Deckchair_03,desc,Beach Chair,كرسي شاطئ
+PLC_Meubles__12003.txt,$/47/name,prop_Deckchair_04,name,Beach Chair deluxe,كرسي شاطئ فاخر
+PLC_Meubles__12003.txt,$/47/desc,prop_Deckchair_04,desc,Beach Chair deluxe,كرسي شاطئ فاخر
+PLC_Meubles__12003.txt,$/48/name,prop_DiningChair_05,name,Outy Chair,كرسي أوتي
+PLC_Meubles__12003.txt,$/48/desc,prop_DiningChair_05,desc,Outy Chair,كرسي أوتي
+PLC_Misc__11983.txt,$/0/name,wood_Fence_Country_Luxe_T1,name,Wood Fence Deluxe,سياج خشبي فاخر
+PLC_Misc__11983.txt,$/0/desc,wood_Fence_Country_Luxe_T1,desc,A deluxe farm fence,سياج مزرعة فاخر.
+PLC_Misc__11983.txt,$/1/name,wood_Fence_Country_Luxe_Door,name,Wood Fence Gate Deluxe,بوابة سياج خشبي فاخرة
+PLC_Misc__11983.txt,$/1/desc,wood_Fence_Country_Luxe_Door,desc,A deluxe fence door,بوابة سياج فاخرة.
+PLC_Misc__11983.txt,$/2/name,wood_Fence_Country_T1,name,Wood Fence,سياج خشبي
+PLC_Misc__11983.txt,$/2/desc,wood_Fence_Country_T1,desc,A farm fence made from wood to protect your farm,سياج خشبي لحماية مزرعتك.
+PLC_Misc__11983.txt,$/3/name,wood_Fence_Country_T1_Door,name,Wood Fence Door,باب سياج خشبي
+PLC_Misc__11983.txt,$/3/desc,wood_Fence_Country_T1_Door,desc,A farm fence door,بوابة سياج للمزرعة.
+PLC_Misc__11983.txt,$/4/name,rock_furance,name,Furancer,فورانسر
+PLC_Misc__11983.txt,$/4/desc,rock_furance,desc,"Nothing is lost, everything is transformed!",لا شيء يضيع، فكل شيء يتحوّل!
+PLC_Misc__11983.txt,$/5/name,props_Chest_Storage_01,name,Storage Chest,صندوق تخزين
+PLC_Misc__11983.txt,$/5/desc,props_Chest_Storage_01,desc,A nice storage chest made from wood and metal,صندوق تخزين أنيق مصنوع من الخشب والمعدن.
+PLC_Misc__11983.txt,$/6/name,red_tent,name,Red Tent,خيمة حمراء
+PLC_Misc__11983.txt,$/6/desc,red_tent,desc,A nice tent to protect your nights,خيمة جميلة تحميك أثناء الليل.
+PLC_Misc__11983.txt,$/7/name,red_tent_4,name,Red Tent for 4,خيمة حمراء لأربعة أشخاص
+PLC_Misc__11983.txt,$/7/desc,red_tent_4,desc,A nice tent to protect your nights with your friends,خيمة جميلة لقضاء الليل مع أصدقائك.
+PLC_Misc__11983.txt,$/8/name,props_chest_cashIn_export,name,CashIn Export Storage Chest,صندوق تخزين التصدير النقدي
+PLC_Misc__11983.txt,$/8/desc,props_chest_cashIn_export,desc,Big storage chest made from wood and metal,صندوق تخزين كبير مصنوع من الخشب والمعدن.
+PLC_Misc__11983.txt,$/9/name,Building_Workbench_1,name,Workbench,منضدة عمل
+PLC_Misc__11983.txt,$/9/desc,Building_Workbench_1,desc,Craft items,اصنع الأغراض
+PLC_Misc__11983.txt,$/10/name,prop_Shelter_01,name,Animal Shelter,مأوى الحيوانات
+PLC_Misc__11983.txt,$/10/desc,prop_Shelter_01,desc,Animal Shelter,مأوى الحيوانات
+Police_Drones__12021.txt,$/0/name,Police_Drone_LVL_1,name,Police Drone,طائرة شرطة مسيّرة
+Police_Drones__12021.txt,$/0/desc,Police_Drone_LVL_1,desc,Ranchers Country Police Drone,طائرة شرطة مسيّرة لشرطة رانتشرز كانتري
+Projectiles__12011.txt,$/0/name,weapon_Projectile_LVL0,name,weapon_Projectile_LVL0,weapon_Projectile_LVL0
+Projectiles__12011.txt,$/0/desc,weapon_Projectile_LVL0,desc,weapon_Projectile_LVL0,weapon_Projectile_LVL0
+Projectiles__12011.txt,$/1/name,weapon_Missile_LVL0,name,weapon_Missile_LVL0,weapon_Missile_LVL0
+Projectiles__12011.txt,$/1/desc,weapon_Missile_LVL0,desc,weapon_Missile_LVL0,weapon_Missile_LVL0
+Ressources__12069.txt,$/0/name,farm_water_1L,name,Water,ماء
+Ressources__12069.txt,$/0/desc,farm_water_1L,desc,Water,ماء
+Ressources__12069.txt,$/1/name,farm_energy_1KW,name,Energy,طاقة
+Ressources__12069.txt,$/1/desc,farm_energy_1KW,desc,Energy,طاقة
+Ressources__12069.txt,$/2/name,ressource_wood,name,Wood Log,جذع خشب
+Ressources__12069.txt,$/2/desc,ressource_wood,desc,A Wood Log,جذع خشبي
+Ressources__12069.txt,$/3/name,ressource_coal,name,Charcoal,فحم
+Ressources__12069.txt,$/3/desc,ressource_coal,desc,Charcoal,فحم
+Ressources__12069.txt,$/4/name,ressource_straw,name,Hay,تبن
+Ressources__12069.txt,$/4/desc,ressource_straw,desc,Hay used to feed your animals,تبن يُستخدم لإطعام حيواناتك.
+Ressources__12069.txt,$/5/name,ressource_rock_simple,name,Stone,حجر
+Ressources__12069.txt,$/5/desc,ressource_rock_simple,desc,A simple Stone,حجر عادي
+Ressources__12069.txt,$/6/name,ressource_zerkonite,name,Zerkonite,زيركونايت
+Ressources__12069.txt,$/6/desc,ressource_zerkonite,desc,Zerkonite Stone,حجر زيركونايت
+Ressources__12069.txt,$/7/name,ressource_Fuel,name,Fuel jerrycan,عبوة وقود
+Ressources__12069.txt,$/7/desc,ressource_Fuel,desc,Large Fuel jerrycan,عبوة وقود كبيرة
+Seeds__11982.txt,$/0/name,seed_red_luttuce,name,Red Lettuce Seed,بذور خس أحمر
+Seeds__11982.txt,$/0/desc,seed_red_luttuce,desc,Let you grow a beautiful Red Lettuce,تتيح لك زراعة خس أحمر جميل.
+Seeds__11982.txt,$/0/sharedGO/name,,name,tools_seed_bag,tools_seed_bag
+Seeds__11982.txt,$/1/name,seed_garlic,name,Garlic Seed,بذور الثوم
+Seeds__11982.txt,$/1/desc,seed_garlic,desc,Let you grow a beautiful Garlics,تتيح لك زراعة ثوم جميل.
+Seeds__11982.txt,$/1/sharedGO/name,,name,tools_seed_bag,tools_seed_bag
+Seeds__11982.txt,$/2/name,seed_strawberry,name,Strawberry Seed,بذور الفراولة
+Seeds__11982.txt,$/2/desc,seed_strawberry,desc,Let you grow a beautiful Strawberry,تتيح لك زراعة فراولة جميلة.
+Seeds__11982.txt,$/2/sharedGO/name,,name,tools_seed_bag,tools_seed_bag
+Seeds__11982.txt,$/3/name,seed_aubergine,name,Aubergine Seed,بذور الباذنجان
+Seeds__11982.txt,$/3/desc,seed_aubergine,desc,Let you grow a beautiful Aubergines,تتيح لك زراعة باذنجان جميل.
+Seeds__11982.txt,$/3/sharedGO/name,,name,tools_seed_bag,tools_seed_bag
+Seeds__11982.txt,$/4/name,seed_corn,name,Corn Seed,بذور الذرة
+Seeds__11982.txt,$/4/desc,seed_corn,desc,Let you grow a beautiful Corns,تتيح لك زراعة ذرة جميلة.
+Seeds__11982.txt,$/4/sharedGO/name,,name,tools_seed_bag,tools_seed_bag
+Seeds__11982.txt,$/5/name,seed_green_luttuce,name,Green Lettuce Seed,بذور الخس الأخضر
+Seeds__11982.txt,$/5/desc,seed_green_luttuce,desc,Let you grow a beautiful Green Lettuce,تتيح لك زراعة خس أخضر جميل.
+Seeds__11982.txt,$/5/sharedGO/name,,name,tools_seed_bag,tools_seed_bag
+Seeds__11982.txt,$/6/name,seed_pumpkin,name,Pumpkin Seed,بذور اليقطين
+Seeds__11982.txt,$/6/desc,seed_pumpkin,desc,Let you grow a beautiful Pumpkins,تتيح لك زراعة يقطين جميل.
+Seeds__11982.txt,$/6/sharedGO/name,,name,tools_seed_bag,tools_seed_bag
+Seeds__11982.txt,$/7/name,seed_carotte,name,Carotte Seed,بذور الجزر
+Seeds__11982.txt,$/7/desc,seed_carotte,desc,Let you grow a beautiful Carottes,تتيح لك زراعة جزر جميل.
+Seeds__11982.txt,$/7/sharedGO/name,,name,tools_seed_bag,tools_seed_bag
+Seeds__11982.txt,$/8/name,seed_onion,name,Onions Seed,بذور البصل
+Seeds__11982.txt,$/8/desc,seed_onion,desc,Let you grow a beautiful Onions,تتيح لك زراعة بصل جميل.
+Seeds__11982.txt,$/8/sharedGO/name,,name,tools_seed_bag,tools_seed_bag
+Seeds__11982.txt,$/9/name,seed_marrow,name,Marrow Seed,بذور الكوسا
+Seeds__11982.txt,$/9/desc,seed_marrow,desc,Let you grow a beautiful Marrow,تتيح لك زراعة كوسا جميلة.
+Seeds__11982.txt,$/9/sharedGO/name,,name,tools_seed_bag,tools_seed_bag
+Seeds__11982.txt,$/10/name,seed_leek,name,Leek Seed,بذور الكراث
+Seeds__11982.txt,$/10/desc,seed_leek,desc,Let you grow a beautiful Leeks,تتيح لك زراعة كراث جميل.
+Seeds__11982.txt,$/10/sharedGO/name,,name,tools_seed_bag,tools_seed_bag
+Seeds__11982.txt,$/11/name,seed_peppers,name,Peppers Seed,بذور الفلفل
+Seeds__11982.txt,$/11/desc,seed_peppers,desc,Let you grow a beautiful Peppers,تتيح لك زراعة فلفل جميل.
+Seeds__11982.txt,$/11/sharedGO/name,,name,tools_seed_bag,tools_seed_bag
+Seeds__11982.txt,$/12/name,seed_melon,name,Melon Seed,بذور الشمام
+Seeds__11982.txt,$/12/desc,seed_melon,desc,Let you grow a beautiful Melon,تتيح لك زراعة شمام جميل.
+Seeds__11982.txt,$/12/sharedGO/name,,name,tools_seed_bag,tools_seed_bag
+Seeds__11982.txt,$/13/name,seed_chili,name,Chili,فلفل حار
+Seeds__11982.txt,$/13/desc,seed_chili,desc,Let you grow a beautiful Chilis,تتيح لك زراعة فلفل حار جميل.
+Seeds__11982.txt,$/13/sharedGO/name,,name,tools_seed_bag,tools_seed_bag
+ToolsWeapons__12040.txt,$/0/name,tools_rope,name,Rope,حبل
+ToolsWeapons__12040.txt,$/0/desc,tools_rope,desc,A very useful rope,حبل مفيد جدًا.
+ToolsWeapons__12040.txt,$/1/name,tools_axe_metal,name,Axe,فأس
+ToolsWeapons__12040.txt,$/1/desc,tools_axe_metal,desc,Bronze axe made with cheap metal,فأس برونزي مصنوع من معدن رخيص.
+ToolsWeapons__12040.txt,$/2/name,tools_hoe_metal,name,Hoe,معزقة
+ToolsWeapons__12040.txt,$/2/desc,tools_hoe_metal,desc,Ordinary Hoe made with cheap metal,معزقة عادية مصنوعة من معدن رخيص.
+ToolsWeapons__12040.txt,$/3/name,tools_pick_metal,name,Pickaxe,معول
+ToolsWeapons__12040.txt,$/3/desc,tools_pick_metal,desc,Ordinary Pickaxe used to break stones,معول عادي لتكسير الحجارة.
+ToolsWeapons__12040.txt,$/4/name,tools_watercan_metal,name,Watering Can,مرشّة ماء
+ToolsWeapons__12040.txt,$/4/desc,tools_watercan_metal,desc,A Watering Can used to irrigate your plantations...,مرشّة ماء لري مزروعاتك...
+ToolsWeapons__12040.txt,$/5/name,tools_bucket_wood,name,Bucket,دلو
+ToolsWeapons__12040.txt,$/5/desc,tools_bucket_wood,desc,A Bucke used to get ressource from your animals...,دلو لجمع الموارد من حيواناتك...
+ToolsWeapons__12040.txt,$/6/name,tools_hammer_metal,name,Hammer,مطرقة
+ToolsWeapons__12040.txt,$/6/desc,tools_hammer_metal,desc,Bronze hammer made with cheap metal,مطرقة برونزية مصنوعة من معدن رخيص.
+ToolsWeapons__12040.txt,$/7/name,weapon_Knife_01,name,Kitchen Knife,سكين مطبخ
+ToolsWeapons__12040.txt,$/7/desc,weapon_Knife_01,desc,A very usefull Knife,سكين مفيدة جدًا.
+ToolsWeapons__12040.txt,$/8/name,weapon_Fork_01,name,Fork,شوكة
+ToolsWeapons__12040.txt,$/8/desc,weapon_Fork_01,desc,A very usefull Fork,شوكة مفيدة جدًا.
+ToolsWeapons__12040.txt,$/9/name,tools_flashlight,name,FlashLight,مصباح يدوي
+ToolsWeapons__12040.txt,$/9/desc,tools_flashlight,desc,Very modern FlashLight to illuminate the darkness,مصباح يدوي حديث جدًا لإنارة الظلام.
+ToolsWeapons__12040.txt,$/10/name,tools_torch,name,Torch,مشعل
+ToolsWeapons__12040.txt,$/10/desc,tools_torch,desc,A Torch used to illuminate the darkness,مشعل لإنارة الظلام.
+ToolsWeapons__12040.txt,$/11/name,weapon_bomb_lvl1,name,Small Manual Bomb,قنبلة يدوية صغيرة
+ToolsWeapons__12040.txt,$/11/desc,weapon_bomb_lvl1,desc,A small manual bomb to blow up things!,قنبلة يدوية صغيرة لتفجير الأشياء!
+ToolsWeapons__12040.txt,$/12/name,generic_cargo,name,Cargo,حمولة
+ToolsWeapons__12040.txt,$/12/desc,generic_cargo,desc,Cargo,حمولة
+ToolsWeapons__12040.txt,$/13/name,tools_seed_bag,name,Seed Bag,كيس بذور
+ToolsWeapons__12040.txt,$/13/desc,tools_seed_bag,desc,tools_seed_bag,tools_seed_bag
+ToolsWeapons__12040.txt,$/14/name,tools_fertilizer_box,name,Fertilizer Box,صندوق سماد
+ToolsWeapons__12040.txt,$/14/desc,tools_fertilizer_box,desc,tools_fertilizer_box,tools_fertilizer_box
+ToolsWeapons__12040.txt,$/15/name,tools_fireextinguisher,name,Fire extinguisher,طفاية حريق
+ToolsWeapons__12040.txt,$/15/desc,tools_fireextinguisher,desc,Extinguish fire in a breeze,أطفئ الحريق بسرعة وسهولة.
+ToolsWeapons__12040.txt,$/16/name,weapon_rifle_lvl1,name,AK-45 Advanced,بندقية AK-45 متقدمة
+ToolsWeapons__12040.txt,$/16/desc,weapon_rifle_lvl1,desc,Advanced AK-45 with torch and P.O.A/P.O.I Tech (point-of-aim is point-of-impact),بندقية AK-45 متقدمة مزودة بمصباح وتقنية تطابق نقطة التصويب مع نقطة الإصابة.
+ToolsWeapons__12040.txt,$/17/name,weapon_revolver_lvl1,name,Revolver,مسدس دوّار
+ToolsWeapons__12040.txt,$/17/desc,weapon_revolver_lvl1,desc,Simple but reliable revolver,مسدس دوّار بسيط وموثوق.
+Vegetables_Autumn__11991.txt,$/0/name,vegetable_pumpkin_normal,name,Pumpkin,يقطين
+Vegetables_Autumn__11991.txt,$/0/desc,vegetable_pumpkin_normal,desc,Beautiful Pumpkin,يقطين جميل
+Vegetables_Autumn__11991.txt,$/1/name,vegetable_pumpkin_giant,name,Giant Pumpkin,يقطين عملاق
+Vegetables_Autumn__11991.txt,$/1/desc,vegetable_pumpkin_giant,desc,A super giant beautiful Pumpkin,يقطين عملاق جدًا وجميل.
+Vegetables_Autumn__11991.txt,$/2/name,vegetable_carotte_normal,name,Carotte,جزر
+Vegetables_Autumn__11991.txt,$/2/desc,vegetable_carotte_normal,desc,Beautiful Carotte,جزر جميل
+Vegetables_Autumn__11991.txt,$/3/name,vegetable_carotte_giant,name,Giant Carotte,جزر عملاق
+Vegetables_Autumn__11991.txt,$/3/desc,vegetable_carotte_giant,desc,A super giant Carotte,جزر عملاق جدًا.
+Vegetables_Autumn__11991.txt,$/4/name,vegetable_leek_normal,name,Leek,كراث
+Vegetables_Autumn__11991.txt,$/4/desc,vegetable_leek_normal,desc,Beautiful Leek,كراث جميل
+Vegetables_Autumn__11991.txt,$/5/name,vegetable_leek_giant,name,Giant Leek,كراث عملاق
+Vegetables_Autumn__11991.txt,$/5/desc,vegetable_leek_giant,desc,A super giant Leek,كراث عملاق جدًا.
+Vegetables_Autumn__11991.txt,$/6/name,vegetable_onion_normal,name,Onion,بصل
+Vegetables_Autumn__11991.txt,$/6/desc,vegetable_onion_normal,desc,Beautiful Onion,بصل جميل
+Vegetables_Autumn__11991.txt,$/7/name,vegetable_onion_giant,name,Giant Onion,بصل عملاق
+Vegetables_Autumn__11991.txt,$/7/desc,vegetable_onion_giant,desc,A super giant Onion,بصل عملاق جدًا.
+Vegetables_Autumn__11991.txt,$/8/name,vegetable_marrow_normal,name,Marrow,كوسا
+Vegetables_Autumn__11991.txt,$/8/desc,vegetable_marrow_normal,desc,Beautiful Marrow,كوسا جميلة
+Vegetables_Autumn__11991.txt,$/9/name,vegetable_marrow_giant,name,Giant Marrow,كوسا عملاقة
+Vegetables_Autumn__11991.txt,$/9/desc,vegetable_marrow_giant,desc,A super giant Marrow,كوسا عملاقة جدًا.
+Vegetables_Spring__12049.txt,$/0/name,vegetable_red_luttuce_normal,name,Green Salade,خس أخضر
+Vegetables_Spring__12049.txt,$/0/desc,vegetable_red_luttuce_normal,desc,Beautiful green salade,خس أخضر جميل
+Vegetables_Spring__12049.txt,$/1/name,vegetable_red_luttuce_giant,name,Giant Green Salade,خس أخضر عملاق
+Vegetables_Spring__12049.txt,$/1/desc,vegetable_red_luttuce_giant,desc,Beautiful giant green salade,خس أخضر عملاق وجميل.
+Vegetables_Spring__12049.txt,$/2/name,vegetable_peppers_normal,name,Pepper,فلفل
+Vegetables_Spring__12049.txt,$/2/desc,vegetable_peppers_normal,desc,Beautiful Pepper,فلفل جميل
+Vegetables_Spring__12049.txt,$/3/name,vegetable_peppers_giant,name,Giant Pepper,فلفل عملاق
+Vegetables_Spring__12049.txt,$/3/desc,vegetable_peppers_giant,desc,Beautiful giant Pepper,فلفل عملاق وجميل.
+Vegetables_Spring__12049.txt,$/4/name,vegetable_garlic_normal,name,Garlic,ثوم
+Vegetables_Spring__12049.txt,$/4/desc,vegetable_garlic_normal,desc,Tasty Garlic,ثوم لذيذ
+Vegetables_Spring__12049.txt,$/5/name,vegetable_garlic_giant,name,Giant Garlic,ثوم عملاق
+Vegetables_Spring__12049.txt,$/5/desc,vegetable_garlic_giant,desc,A very tasty giant Garlic,ثوم عملاق لذيذ جدًا.
+Vegetables_Spring__12049.txt,$/6/name,vegetable_strawberry_normal,name,Strawberry,فراولة
+Vegetables_Spring__12049.txt,$/6/desc,vegetable_strawberry_normal,desc,Tasty Strawberry,فراولة لذيذة
+Vegetables_Spring__12049.txt,$/7/name,vegetable_strawberry_giant,name,Giant Strawberry,فراولة عملاقة
+Vegetables_Spring__12049.txt,$/7/desc,vegetable_strawberry_giant,desc,A very tasty giant Strawberry,فراولة عملاقة لذيذة جدًا.
+Vegetables_Summer__12062.txt,$/0/name,vegetable_aubergine_normal,name,Aubergine,باذنجان
+Vegetables_Summer__12062.txt,$/0/desc,vegetable_aubergine_normal,desc,Beautiful Aubergine,باذنجان جميل
+Vegetables_Summer__12062.txt,$/1/name,vegetable_aubergine_giant,name,Giant Aubergine,باذنجان عملاق
+Vegetables_Summer__12062.txt,$/1/desc,vegetable_aubergine_giant,desc,A super giant beautiful Aubergine,باذنجان عملاق جدًا وجميل.
+Vegetables_Summer__12062.txt,$/2/name,vegetable_melon_normal,name,Melon,شمام
+Vegetables_Summer__12062.txt,$/2/desc,vegetable_melon_normal,desc,Beautiful Melon,شمام جميل
+Vegetables_Summer__12062.txt,$/3/name,vegetable_melon_giant,name,Giant Melon,شمام عملاق
+Vegetables_Summer__12062.txt,$/3/desc,vegetable_melon_giant,desc,A super giant Melon,شمام عملاق جدًا.
+Vegetables_Summer__12062.txt,$/4/name,vegetable_corn_normal,name,Corn,ذرة
+Vegetables_Summer__12062.txt,$/4/desc,vegetable_corn_normal,desc,Beautiful Corn,ذرة جميلة
+Vegetables_Summer__12062.txt,$/5/name,vegetable_corn_giant,name,Giant Corn,ذرة عملاقة
+Vegetables_Summer__12062.txt,$/5/desc,vegetable_corn_giant,desc,A super giant Corn,ذرة عملاقة جدًا.
+Vegetables_Summer__12062.txt,$/6/name,vegetable_green_luttuce_normal,name,Green Lettuce,خس أخضر
+Vegetables_Summer__12062.txt,$/6/desc,vegetable_green_luttuce_normal,desc,Healthy Green Lettuce,خس أخضر صحي
+Vegetables_Summer__12062.txt,$/7/name,vegetable_green_luttuce_giant,name,Giant Green Lettuce,خس أخضر عملاق
+Vegetables_Summer__12062.txt,$/7/desc,vegetable_green_luttuce_giant,desc,A super giant Green Lettuce,خس أخضر عملاق جدًا.
+Vegetables_Summer__12062.txt,$/8/name,vegetable_chili_normal,name,Chili,فلفل حار
+Vegetables_Summer__12062.txt,$/8/desc,vegetable_chili_normal,desc,Spicy Chili,فلفل حار
+Vegetables_Summer__12062.txt,$/9/name,vegetable_chili_giant,name,Giant Chili,فلفل حار عملاق
+Vegetables_Summer__12062.txt,$/9/desc,vegetable_chili_giant,desc,A super giant spicy Chili,فلفل حار عملاق جدًا.
+Vehicules__12066.txt,$/0/name,VIC_Scooter_04,name,Veppa 125,فيبا 125
+Vehicules__12066.txt,$/0/desc,VIC_Scooter_04,desc,Classic Scooter,دراجة سكوتر كلاسيكية
+Vehicules__12066.txt,$/1/name,VIC_Bike-00,name,Calipso 120,كاليبسو 120
+Vehicules__12066.txt,$/1/desc,VIC_Bike-00,desc,Classic Bike,دراجة كلاسيكية
+Vehicules__12066.txt,$/2/name,VIC_Van_01,name,KANGORO Express,كانغورو إكسبريس
+Vehicules__12066.txt,$/2/desc,VIC_Van_01,desc,Pickup with stoage slot,شاحنة بيك أب بخانة تخزين
+Vehicules__12066.txt,$/3/name,VIC_Taxi_01,name,TaxiCo - Buisness Class,تاكسي كو — فئة الأعمال
+Vehicules__12066.txt,$/3/desc,VIC_Taxi_01,desc,Buisness Class Taxi that belong to TaxiCo Corp.,سيارة أجرة من فئة الأعمال تابعة لشركة تاكسي كو.
+Vehicules__12066.txt,$/4/name,VIC_Taxi_02,name,TaxiCo - Regular Class,تاكسي كو — الفئة العادية
+Vehicules__12066.txt,$/4/desc,VIC_Taxi_02,desc,Taxi that belong to TaxiCo Corp.,سيارة أجرة تابعة لشركة تاكسي كو.
+Vehicules__12066.txt,$/5/name,VIC_Taxi_03,name,TaxiCo - VIP Class,تاكسي كو — فئة كبار الشخصيات
+Vehicules__12066.txt,$/5/desc,VIC_Taxi_03,desc,VIP Class Taxi that belong to TaxiCo Corp.,سيارة أجرة من فئة كبار الشخصيات تابعة لشركة تاكسي كو.
+Vehicules__12066.txt,$/6/name,VIC_Car_Roadster_01,name,VIC_Car_Roadster_01,VIC_Car_Roadster_01
+Vehicules__12066.txt,$/6/desc,VIC_Car_Roadster_01,desc,VIC_Car_Roadster_01,VIC_Car_Roadster_01
+Vehicules__12066.txt,$/7/name,VIC_Truck_01,name,VIC_Truck_01,VIC_Truck_01
+Vehicules__12066.txt,$/7/desc,VIC_Truck_01,desc,VIC_Truck_01,VIC_Truck_01
+Vehicules__12066.txt,$/8/name,VIC_ThreeWheeler_01,name,VIC_ThreeWheeler_01,VIC_ThreeWheeler_01
+Vehicules__12066.txt,$/8/desc,VIC_ThreeWheeler_01,desc,VIC_ThreeWheeler_01,VIC_ThreeWheeler_01
+Vehicules__12066.txt,$/9/name,VIC_ThreeWheeler_02,name,VIC_ThreeWheeler_02,VIC_ThreeWheeler_02
+Vehicules__12066.txt,$/9/desc,VIC_ThreeWheeler_02,desc,VIC_ThreeWheeler_02,VIC_ThreeWheeler_02
+Vehicules__12066.txt,$/10/name,VIC_ThreeWheeler_03,name,VIC_ThreeWheeler_03,VIC_ThreeWheeler_03
+Vehicules__12066.txt,$/10/desc,VIC_ThreeWheeler_03,desc,VIC_ThreeWheeler_03,VIC_ThreeWheeler_03
+Vehicules__12066.txt,$/11/name,VIC_PickUp_01,name,VIC_PickUp_01,VIC_PickUp_01
+Vehicules__12066.txt,$/11/desc,VIC_PickUp_01,desc,VIC_PickUp_01,VIC_PickUp_01
+Vehicules__12066.txt,$/12/name,VIC_PickUp_02,name,VIC_PickUp_02,VIC_PickUp_02
+Vehicules__12066.txt,$/12/desc,VIC_PickUp_02,desc,VIC_PickUp_02,VIC_PickUp_02
+Vehicules__12066.txt,$/13/name,VIC_Van_02,name,VIC_Van_02,VIC_Van_02
+Vehicules__12066.txt,$/13/desc,VIC_Van_02,desc,VIC_Van_02,VIC_Van_02
+Vehicules__12066.txt,$/14/name,VIC_Van_03,name,VVagen Transporter,فاغن ترانسبورتر
+Vehicules__12066.txt,$/14/desc,VIC_Van_03,desc,Pickup VAN used to transport animals,شاحنة فان بيك أب لنقل الحيوانات.
+Vehicules__12066.txt,$/15/name,VIC_Car_01,name,VIC_Car_01,VIC_Car_01
+Vehicules__12066.txt,$/15/desc,VIC_Car_01,desc,VIC_Car_01,VIC_Car_01
+Vehicules__12066.txt,$/16/name,VIC_Car_02,name,VIC_Car_02,VIC_Car_02
+Vehicules__12066.txt,$/16/desc,VIC_Car_02,desc,VIC_Car_02,VIC_Car_02
+Vehicules__12066.txt,$/17/name,VIC_Car_03,name,VIC_Car_03,VIC_Car_03
+Vehicules__12066.txt,$/17/desc,VIC_Car_03,desc,VIC_Car_03,VIC_Car_03
+Vehicules__12066.txt,$/18/name,VIC_Car_04,name,VIC_Car_04,VIC_Car_04
+Vehicules__12066.txt,$/18/desc,VIC_Car_04,desc,VIC_Car_04,VIC_Car_04
+Vehicules__12066.txt,$/19/name,VIC_Car_05,name,VIC_Car_05,VIC_Car_05
+Vehicules__12066.txt,$/19/desc,VIC_Car_05,desc,VIC_Car_05,VIC_Car_05
+Vehicules__12066.txt,$/20/name,VIC_Car_06,name,VIC_Car_06,VIC_Car_06
+Vehicules__12066.txt,$/20/desc,VIC_Car_06,desc,VIC_Car_06,VIC_Car_06
+Vehicules__12066.txt,$/21/name,VIC_Car_07,name,VIC_Car_07,VIC_Car_07
+Vehicules__12066.txt,$/21/desc,VIC_Car_07,desc,VIC_Car_07,VIC_Car_07
+Vehicules__12066.txt,$/22/name,VIC_Car_08,name,VIC_Car_08,VIC_Car_08
+Vehicules__12066.txt,$/22/desc,VIC_Car_08,desc,VIC_Car_08,VIC_Car_08
+Vehicules__12066.txt,$/23/name,VIC_Car_Luxe_01,name,VIC_Car_Luxe_01,VIC_Car_Luxe_01
+Vehicules__12066.txt,$/23/desc,VIC_Car_Luxe_01,desc,VIC_Car_Luxe_01,VIC_Car_Luxe_01
+Vehicules__12066.txt,$/24/name,VIC_Car_Luxe_02,name,VIC_Car_Luxe_02,VIC_Car_Luxe_02
+Vehicules__12066.txt,$/24/desc,VIC_Car_Luxe_02,desc,VIC_Car_Luxe_02,VIC_Car_Luxe_02
+Vehicules__12066.txt,$/25/name,VIC_Car_Luxe_03,name,VIC_Car_Luxe_03,VIC_Car_Luxe_03
+Vehicules__12066.txt,$/25/desc,VIC_Car_Luxe_03,desc,VIC_Car_Luxe_03,VIC_Car_Luxe_03
+Vehicules__12066.txt,$/26/name,VIC_Car_Luxe_04,name,VIC_Car_Luxe_04,VIC_Car_Luxe_04
+Vehicules__12066.txt,$/26/desc,VIC_Car_Luxe_04,desc,VIC_Car_Luxe_04,VIC_Car_Luxe_04
+Vehicules__12066.txt,$/27/name,VIC_Car_Luxe_05,name,VIC_Car_Luxe_05,VIC_Car_Luxe_05
+Vehicules__12066.txt,$/27/desc,VIC_Car_Luxe_05,desc,VIC_Car_Luxe_05,VIC_Car_Luxe_05
+Vehicules__12066.txt,$/28/name,VIC_Car_Luxe_06,name,VIC_Car_Luxe_06,VIC_Car_Luxe_06
+Vehicules__12066.txt,$/28/desc,VIC_Car_Luxe_06,desc,VIC_Car_Luxe_06,VIC_Car_Luxe_06
+Vehicules__12066.txt,$/29/name,VIC_Car_Police_01,name,VIC_Car_Police_01,VIC_Car_Police_01
+Vehicules__12066.txt,$/29/desc,VIC_Car_Police_01,desc,VIC_Car_Police_01,VIC_Car_Police_01
+Vehicules__12066.txt,$/30/name,VIC_Car_Police_02,name,VIC_Car_Police_02,VIC_Car_Police_02
+Vehicules__12066.txt,$/30/desc,VIC_Car_Police_02,desc,VIC_Car_Police_02,VIC_Car_Police_02
+Vehicules__12066.txt,$/31/name,VIC_Car_Hospital_01,name,VIC_Car_Hospital_01,VIC_Car_Hospital_01
+Vehicules__12066.txt,$/31/desc,VIC_Car_Hospital_01,desc,VIC_Car_Hospital_01,VIC_Car_Hospital_01
+Vehicules__12066.txt,$/32/name,VIC_Truck_Fire_01,name,VIC_Truck_Fire_01,VIC_Truck_Fire_01
+Vehicules__12066.txt,$/32/desc,VIC_Truck_Fire_01,desc,VIC_Truck_Fire_01,VIC_Truck_Fire_01
+Vehicules__12066.txt,$/33/name,VIC_Truck_Trash_01,name,VIC_Truck_Trash_01,VIC_Truck_Trash_01
+Vehicules__12066.txt,$/33/desc,VIC_Truck_Trash_01,desc,VIC_Truck_Trash_01,VIC_Truck_Trash_01
+Vehicules__12066.txt,$/34/name,VIC_Container_Empty_01,name,VIC_Container_Empty_01,VIC_Container_Empty_01
+Vehicules__12066.txt,$/34/desc,VIC_Container_Empty_01,desc,VIC_Container_Empty_01,VIC_Container_Empty_01
+Vehicules__12066.txt,$/35/name,VIC_Container_Logistics_01,name,VIC_Container_Logistics_01,VIC_Container_Logistics_01
+Vehicules__12066.txt,$/35/desc,VIC_Container_Logistics_01,desc,VIC_Container_Logistics_01,VIC_Container_Logistics_01
+Vehicules__12066.txt,$/36/name,VIC_Container_Tanker_01,name,VIC_Container_Tanker_01,VIC_Container_Tanker_01
+Vehicules__12066.txt,$/36/desc,VIC_Container_Tanker_01,desc,VIC_Container_Tanker_01,VIC_Container_Tanker_01
+Vehicules__12066.txt,$/37/name,VIC_Container_WithContainer_01,name,VIC_Container_WithContainer_01,VIC_Container_WithContainer_01
+Vehicules__12066.txt,$/37/desc,VIC_Container_WithContainer_01,desc,VIC_Container_WithContainer_01,VIC_Container_WithContainer_01
+Vehicules__12066.txt,$/38/name,VIC_AirPlane_Commercial_01,name,VIC_AirPlane_Commercial_01,VIC_AirPlane_Commercial_01
+Vehicules__12066.txt,$/38/desc,VIC_AirPlane_Commercial_01,desc,VIC_AirPlane_Commercial_01,VIC_AirPlane_Commercial_01
+Vehicules__12066.txt,$/39/name,VIC_AirPlane_Cargo_01,name,VIC_AirPlane_Cargo_01,VIC_AirPlane_Cargo_01
+Vehicules__12066.txt,$/39/desc,VIC_AirPlane_Cargo_01,desc,VIC_AirPlane_Cargo_01,VIC_AirPlane_Cargo_01
