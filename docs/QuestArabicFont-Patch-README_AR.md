@@ -11,9 +11,9 @@
 ## التثبيت
 
 1. أغلق The Ranchers بالكامل.
-2. شغّل `Install-QuestArabicFont-Patch.ps1` من PowerShell. يستخدم المسار الافتراضي:
+2. شغّل `Run-QuestArabicFont-Patch.cmd` بالنقر المزدوج. يستخدم المسار الافتراضي:
    `D:\SteamLibrary\steamapps\common\TheRanchers\TheRanchers_Data`
-3. إذا كانت اللعبة مثبتة في مكان آخر، مرّر مسار مجلد `TheRanchers_Data`:
+3. إذا كانت اللعبة مثبتة في مكان آخر، شغّل ملف PowerShell مباشرةً مع تمرير مسار مجلد `TheRanchers_Data`:
    `powershell -ExecutionPolicy Bypass -File .\Install-QuestArabicFont-Patch.ps1 -GameDataPath 'E:\مسار اللعبة\TheRanchers_Data'`
 4. ينشئ المثبّت نسخة `level6.backup-before-quest-font-<وقت>.bak` قبل التعديل، ويتوقف إذا لم تتطابق نسخة اللعبة أو مراجع الخطوط المتوقعة.
 
