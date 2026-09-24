@@ -8,7 +8,7 @@
 - `TheRanchers_I2Localization_Arabic.csv`: جدول I2 Localization العربي.
 - `translation_catalog_ar_full.csv`: فهرس العبارات العربية المعدة.
 - `GoogleTranslate_Missing_I2_Manifest.csv` و`GoogleTranslate_Missing_I2_Texts.xlsx`: بيانات النصوص التي جُمعت للترجمة.
-- `tools/Install-QuestArabicFont-Patch.ps1`: أداة لإصلاح مراجع الخط الصريحة في واجهة المهام.
+- `tools/Install-QuestArabicFont-Patch.ps1` و`tools/Run-QuestArabicFont-Patch.cmd`: إصلاح مراجع الخط الصريحة في واجهة المهام ومشغّل بالنقر المزدوج.
 - `docs/QuestArabicFont-Patch-README_AR.md`: شرح سبب المشكلة وطريقة تثبيت الإصلاح.
 
 ## حالة العمل والمشكلات
