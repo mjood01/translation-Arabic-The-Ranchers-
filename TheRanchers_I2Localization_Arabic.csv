@@ -1,4 +1,4 @@
-﻿group,term_key,english,arabic,status
+group,term_key,english,arabic,status
 plain,AppName,The Ranchers,The Ranchers,translated
 GT,GT/Animals_Pickable_FromDeliveryToBarn_AssociateWithBarn,Carry the animal into its <c>barn</c> or <c>coop</c> and <c>release it inside</c> to assign it a home.,احمل الحيوان إلى <c>حظيرته</c> أو <c>قنه</c> و<c>أطلقه في الداخل</c> لتعيين منزل له.,translated
 GT,GT/Animals_Pickable_FromDeliveryToBarn_DeliveryZone,Go to the <c>shop's Delivery Zone</c> and <c>pick up</c> the animals you bought.,اذهب إلى <c>منطقة التوصيل في المتجر</c> و<c>استلم</c> الحيوانات التي اشتريتها.,translated
@@ -32261,3 +32261,106 @@ GT,GT/Build_HowToRoofs_FoundationsLimit,"A roof can extend up to <c>4 interior f
 For houses wider than 4 interior foundations, <c>add supporting walls</c> before continuing the roof.","يمكن أن يمتد السقف بعرض يصل إلى <c>4 أساسات داخلية</c> <c>من دون جدران إضافية تحته</c>.
 إذا كان عرض المنزل يتجاوز 4 أساسات داخلية، <c>أضف جدران دعم</c> قبل متابعة تمديد السقف.",translated
 GT,GT/Build_HowToRoofs_Remember,"Don’t worry, you’ll get the hang of it quickly. Experiment with different layouts, and remember: to extend an <c>existing roof</c>, use a <c>Roof Extension</c> blueprint.",لا تقلق، ستتقن الأمر بسرعة. جرّب تخطيطات مختلفة، وتذكّر: لتمديد <c>سقف موجود</c>، استخدم مخطط <c>امتداد السقف</c>.,translated
+Dialogue System,Dialogue System/Item-Quest/1/Description,,التقِ بمريم عند مدخل المطار,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/1/Display Name,,التقِ بمريم,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/10/Description,,تريد مريم أن تكون ورشتك جاهزة للعمل. أولًا، توجّه إلى قاعة المدينة، ثم وقّع عقد كهرباء مع فيكتور لإنارة المزرعة. قم ببناء طاولة عملك وانتهِ من خلال التحقق من استخدام الطاقة في مزرعتك لمعرفة مقدار الطاقة التي تسحبها.,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/10/Display Name,,وفّر الطاقة إلى طاولة عملك,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/10/Entry 1,,احتفظ بـ 1000 C على الأقل في البنك,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/10/Entry 2,,قم بزيارة قاعة المدينة,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/10/Entry 3,,وقّع عقد كهرباء مع فيكتور,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/10/Entry 4,,قم ببناء طاولة عمل في مزرعتك,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/10/Entry 5,,تحقق من استخدام الطاقة في مزرعتك,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/11/Description,,سكوت على حق - حان الوقت لاستبدال السطوح المتحركة بجدران. افتح تطبيق الحرف اليدوية، واحصل على المخططات المنزلية، وضع أساسًا، وارفع الجدران والسقف، ثم ضع سريرًا وصندوقًا للنوم والتخزين الحقيقيين. قم ببناء منزل مناسب للدفء والراحة وعدد أقل من حفلات أزيز البعوض في منتصف الليل.,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/11/Display Name,,وداعًا، قصر النايلون!,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/11/Entry 1,,اصنع صندوق تخزين وضعه في مكانه,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/11/Entry 10,,اصنع سريرًا وضعه في مكانه,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/11/Entry 2,,ابنِ 9 أساسات للمنزل على الأقل,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/11/Entry 3,,ابنِ 9 جدران خارجية على الأقل,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/11/Entry 4,,ابنِ جدارين خارجيين على الأقل مع نافذة,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/11/Entry 5,,اصنع النوافذ وضعها في أماكنها,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/11/Entry 6,,ابنِ جدارًا خارجيًا واحدًا على الأقل مع باب,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/11/Entry 7,,اصنع بابًا وضعه في مكانه,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/11/Entry 8,,اصنع وضع عتبة عند الباب,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/11/Entry 9,,أضف سقفًا,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/12/Description,,تتصل جيجي لطلب توصيل من مقر NovaGen. في طريق الخروج، ستعرفك على كريس وتحصلان على أول تجربة لكما حول ما تدور حوله NovaGen. بعد اللقاء والترحيب، اصطحب جيجي إلى المنزل، ثم انتقل إلى سوق ليفي لشراء بذور إضافية وتوسيع حقولك.,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/12/Display Name,,رحلة واكتشاف,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/12/Entry 1,,اذهب إلى مقر NovaGen,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/12/Entry 2,,تحدّث مع جيجي,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/12/Entry 3,,تحدّث مع كريس,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/12/Entry 4,,تحدّث مع جيجي مرة أخرى,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/12/Entry 5,,اذهب إلى سوق ليفي,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/12/Entry 6,,اشترِ المزيد من البذور,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/12/Entry 7,,أوصل جيجي إلى المنزل,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/12/Entry 8,,قل وداعًا لجيجي,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/13/Description,,قم بتنمية كلا الجانبين من الدفتر: احصل على المزيد من قطع الأراضي المزروعة وادفع مدخراتك المصرفية. قم بالتخزين في سوق ليفي، وحافظ على سقي تلك الأراضي، واستفد من المحاصيل حتى يتم تحقيق كلا الهدفين.,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/13/Display Name,,رأس المال المخصص للبذور,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/13/Entry 1,,احصل على 32 قطعة أرض مزروعة على الأقل,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/13/Entry 2,,احتفظ بـ 10500 C على الأقل في حسابك,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/14/Description,,اشترِ مخطط القن من ميريام وقم ببنائه. ثم قابل أنجيلا لشراء الديك والدجاج، وضعهم في قنك الجديد. تهانينا، لقد أضفت للتو قوة الدواجن إلى مزرعتك!,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/14/Display Name,,أحلام القن,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/14/Entry 1,,اجمع 15 حجرًا,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/14/Entry 2,,اجمع 20 جذعًا خشبيًا,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/14/Entry 3,,اجمع 15 حزمة من القش,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/14/Entry 4,,وفر 5760 C على الأقل,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/14/Entry 5,,اشترِ مخطط القن من ميريام,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/14/Entry 6,,بناء قن الدجاج,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/14/Entry 7,,اذهب إلى مزرعة أنجيلا,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/14/Entry 8,,اشترِ دجاجتين على الأقل,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/14/Entry 9,,ضعهما في قن دجاجاتك,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/15/Description,,يريد سكوت أن تكون فاتورتك تحت السيطرة. تفضل بزيارة قاعة المدينة وقابل مريم، واشترِ مخطط الألواح الشمسية، واصنع الألواح، وضعها في مكان مشمس، وقم بتوصيلها بخطك. قلل من استهلاكك، وكن صديقًا للبيئة، واكسب الأرصدة عندما يتدفق فائضك مرة أخرى إلى المدينة.,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/15/Display Name,,ترويض العداد!,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/15/Entry 1,,تحقق من عداد الكهرباء ولاحظ وحدات الطاقة اليومية.,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/15/Entry 2,,اشترِ العديد من مخططات الألواح الشمسية حسب حاجتك من مريم.,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/15/Entry 3,,ضع الألواح الشمسية وقم ببنائها.,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/15/Entry 4,,اجعل مزرعتك موفرة للكهرباء.,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/16/Description,,اكتشف ما يمكن أن تفعله الرعاية العضوية. اجمع اثنتي عشرة بيضة من دجاجاتك وقم بتسليمها إلى الموقع المثبت على هاتفك. ستضيف جيجي عينتك إلى مقارنة NovaGen وترسل لك مكافأة صغيرة.,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/16/Display Name,,بيض حقيقي، دليل حقيقي!,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/16/Entry 1,,اجمع بيضتي دجاج عضوي كبيرتين من حظيرتك,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/16/Entry 2,,التقِ بجيجي,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/16/Entry 3,,اهرب من الشرطة!,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/16/Entry 4,,أوصل جيجي إلى المنزل,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/16/Entry 5,,تحدّث إلى جيجي,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/2/Description,,اتبع ميريام وقم بالقيادة إلى مزرعتك,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/2/Display Name,,بداية جديدة!,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/2/Entry 1,,تول القيادة في سيارة ميريام,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/2/Entry 2,,انتظر حتى تدخل ميريام السيارة,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/2/Entry 3,,قم بالقيادة إلى مزرعتك,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/2/Entry 4,,اخرج من سيارة ميريام,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/2/Entry 5,,تحدث إلى ميريام,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/3/Description,,أعطتك ميريام المطرقة ومخطط الخيمة. حان دورك الآن لتشييد ملجأك وأخذ قسط من الراحة بعد رحلتك.,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/3/Display Name,,من المخطط إلى السرير,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/3/Entry 1,,جهز مخطط الخيمة,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/3/Entry 2,,ضع مخطط خيمتك في أي مكان تريده,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/3/Entry 3,,اطرق على مخطط الخيمة!,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/3/Entry 4,,نم في الخيمة للراحة,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/4/Description,,في يومك الأول، يتصل بك فيكتور للترحيب بك ويكشف عن المكان الذي خزنت فيه عائلته فأسًا ومعولًا قديمين.,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/4/Display Name,,الفأس، اختر و ترحيب!,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/4/Entry 1,,اعثر على الفأس,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/4/Entry 2,,اعثر على المعول,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/4/Entry 3,,اجمع 15 جذعًا خشبيًا,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/4/Entry 4,,اجمع 15 حجرًا,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/5/Description,,تتميز مزرعتك الآن بصندوق Ca$h-In، وهو رابطك المباشر إلى Ca$h-In Corp. اقترب منه وتفاعل معه وأودع أي عنصر تريد بيعه. أموال سهلة، مضمونة!,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/5/Display Name,,قم بالتسليم والربح، في اليوم التالي!,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/5/Entry 1,,قم بإيداع جذوع الأشجار والأحجار في صندوق Cash-In.,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/6/Description,,يمكنك العثور على جيجي بالقرب من قطع أراضيها الزراعية التجريبية وسكوت بالقرب من خط سياج المزرعة. شارك المقدمات، واستمع إلى قصصهم، واستمتع بحكمتهم الترحيبية - تبدأ حياتك الجديدة في هارفيست هيلز بهذه الأدلة المحلية.,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/6/Display Name,,الجيران المجاورون,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/6/Entry 1,,التقِ بجيجي,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/6/Entry 2,,التقِ بسكوت,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/7/Description,,أمسك مجرفتك الموثوقة وقم بإعداد عشرة أقسام من الأرض عن طريق حرث كل منها. اضغط على بذرة في كل أخدود، وانقعها جيدًا، وشاهد مستقبل مزرعتك يتجذر. يبدأ النجاح هنا في التربة!,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/7/Display Name,,بذور النجاح,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/7/Entry 1,,عد إلى مزرعتك,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/7/Entry 2,,جهز مجرفتك,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/7/Entry 3,,احرث التربة باستخدام مجرفتك,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/7/Entry 4,,ازرع البذور,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/7/Entry 5,,اسقِ البذور باستخدام إناء الري,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/7/Entry 6,,احصل على 16 قطعة أرض مزروعة,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/8/Description,,تشارك جيجي نصيحة حيوية لحماية محاصيلك من الطيور الجائعة. اصنع الفزاعات لحماية مزرعتك وإبعاد هؤلاء الأعداء ذوي الريش!,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/8/Display Name,,الأعداء ذوي الريش,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/8/Entry 1,,اصنع فزاعتين,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/8/Entry 2,,ابنِ الفزاعتين,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/9/Description,,مزرعتك تخفي كنزًا منسيًا - سيارة فيكتور القديمة. اعمل على إصلاحها!,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/9/Display Name,,من الصدأ إلى التشغيل بكامل قوتها!,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/9/Entry 1,,وفر 3000 C على الأقل في البنك,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/9/Entry 2,,إصلاح سيارة فيكتور القديمة,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/9/Entry 3,,استأجر دراجة من Bykii,quest_fix_confirmed_20261008
+Dialogue System,Dialogue System/Item-Quest/9/Entry 4,,استلم سيارتك الجديدة!,quest_fix_confirmed_20261008
