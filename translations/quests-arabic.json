@@ -1,0 +1,522 @@
+{
+  "game_version": "0.8.10.872",
+  "language_slot_index": 10,
+  "language_slot_note": "Korean position reused for Arabic",
+  "fields": [
+    {
+      "term_key": "Dialogue System/Item-Quest/1/Description",
+      "arabic": "التقِ بمريم عند مدخل المطار",
+      "display": "رﺎﻄﻤﻟا ﻞﺧﺪﻣ ﺪﻨﻋ ﻢﻳﺮﻤﺑ ﻖﺘﻟا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/1/Display Name",
+      "arabic": "التقِ بمريم",
+      "display": "ﻢﻳﺮﻤﺑ ﻖﺘﻟا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/10/Description",
+      "arabic": "تريد مريم أن تكون ورشتك جاهزة للعمل. أولًا، توجّه إلى قاعة المدينة، ثم وقّع عقد كهرباء مع فيكتور لإنارة المزرعة. قم ببناء طاولة عملك وانتهِ من خلال التحقق من استخدام الطاقة في مزرعتك لمعرفة مقدار الطاقة التي تسحبها.",
+      "display": ".ﺎﻬﺒﺤﺴﺗ ﻲﺘﻟا ﺔﻗﺎﻄﻟا راﺪﻘﻣ ﺔﻓﺮﻌﻤﻟ ﻚﺘﻋرﺰﻣ ﻲﻓ ﺔﻗﺎﻄﻟا ماﺪﺨﺘﺳا ﻦﻣ ﻖﻘﺤﺘﻟا لﻼﺧ ﻦﻣ ﻪﺘﻧاو ﻚﻠﻤﻋ ﺔﻟوﺎﻃ ءﺎﻨﺒﺑ ﻢﻗ .ﺔﻋرﺰﻤﻟا ةرﺎﻧﻹ رﻮﺘﻜﻴﻓ ﻊﻣ ءﺎﺑﺮﻬﻛ ﺪﻘﻋ ﻊﻗو ﻢﺛ ،ﺔﻨﻳﺪﻤﻟا ﺔﻋﺎﻗ ىﻟإ ﻪﺟﻮﺗ ،ﻻوأ .ﻞﻤﻌﻠﻟ ةﺰﻫﺎﺟ ﻚﺘﺷرو نﻮﻜﺗ نأ ﻢﻳﺮﻣ ﺪﻳﺮﺗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/10/Display Name",
+      "arabic": "وفّر الطاقة إلى طاولة عملك",
+      "display": "ﻚﻠﻤﻋ ﺔﻟوﺎﻃ ىﻟإ ﺔﻗﺎﻄﻟا ﺮﻓو"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/10/Entry 1",
+      "arabic": "احتفظ بـ 1000 C على الأقل في البنك",
+      "display": "ﻚﻨﺒﻟا ﻲﻓ ﻞﻗﻷا ىﻠﻋ C 1000 ـﺑ ﻆﻔﺘﺣا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/10/Entry 2",
+      "arabic": "قم بزيارة قاعة المدينة",
+      "display": "ﺔﻨﻳﺪﻤﻟا ﺔﻋﺎﻗ ةرﺎﻳﺰﺑ ﻢﻗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/10/Entry 3",
+      "arabic": "وقّع عقد كهرباء مع فيكتور",
+      "display": "رﻮﺘﻜﻴﻓ ﻊﻣ ءﺎﺑﺮﻬﻛ ﺪﻘﻋ ﻊﻗو"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/10/Entry 4",
+      "arabic": "قم ببناء طاولة عمل في مزرعتك",
+      "display": "ﻚﺘﻋرﺰﻣ ﻲﻓ ﻞﻤﻋ ﺔﻟوﺎﻃ ءﺎﻨﺒﺑ ﻢﻗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/10/Entry 5",
+      "arabic": "تحقق من استخدام الطاقة في مزرعتك",
+      "display": "ﻚﺘﻋرﺰﻣ ﻲﻓ ﺔﻗﺎﻄﻟا ماﺪﺨﺘﺳا ﻦﻣ ﻖﻘﺤﺗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/11/Description",
+      "arabic": "سكوت على حق - حان الوقت لاستبدال السطوح المتحركة بجدران. افتح تطبيق الحرف اليدوية، واحصل على المخططات المنزلية، وضع أساسًا، وارفع الجدران والسقف، ثم ضع سريرًا وصندوقًا للنوم والتخزين الحقيقيين. قم ببناء منزل مناسب للدفء والراحة وعدد أقل من حفلات أزيز البعوض في منتصف الليل.",
+      "display": ".ﻞﻴﻠﻟا ﻒﺼﺘﻨﻣ ﻲﻓ ضﻮﻌﺒﻟا ﺰﻳزأ تﻼﻔﺣ ﻦﻣ ﻞﻗأ دﺪﻋو ﺔﺣاﺮﻟاو ءفﺪﻠﻟ ﺐﺳﺎﻨﻣ لﺰﻨﻣ ءﺎﻨﺒﺑ ﻢﻗ .ﻦﻴﻴﻘﻴﻘﺤﻟا ﻦﻳﺰﺨﺘﻟاو مﻮﻨﻠﻟ ﺎﻗوﺪﻨﺻو اﺮﻳﺮﺳ ﻊﺿ ﻢﺛ ،ﻒﻘﺴﻟاو نارﺪﺠﻟا ﻊﻓراو ،ﺎﺳﺎﺳأ ﻊﺿو ،ﺔﻴﻟﺰﻨﻤﻟا تﺎﻄﻄﺨﻤﻟا ىﻠﻋ ﻞﺼﺣاو ،ﺔﻳوﺪﻴﻟا فﺮﺤﻟا ﻖﻴﺒﻄﺗ ﺢﺘﻓا .نارﺪﺠﺑ ﺔﻛﺮﺤﺘﻤﻟا حﻮﻄﺴﻟا لاﺪﺒﺘﺳﻻ ﺖﻗﻮﻟا نﺎﺣ - ﻖﺣ ىﻠﻋ تﻮﻜﺳ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/11/Display Name",
+      "arabic": "وداعًا، قصر النايلون!",
+      "display": "!نﻮﻠﻳﺎﻨﻟا ﺮﺼﻗ ،ﺎﻋادو"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/11/Entry 1",
+      "arabic": "اصنع صندوق تخزين وضعه في مكانه",
+      "display": "ﻪﻧﺎﻜﻣ ﻲﻓ ﻪﻌﺿو ﻦﻳﺰﺨﺗ قوﺪﻨﺻ ﻊﻨﺻا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/11/Entry 10",
+      "arabic": "اصنع سريرًا وضعه في مكانه",
+      "display": "ﻪﻧﺎﻜﻣ ﻲﻓ ﻪﻌﺿو اﺮﻳﺮﺳ ﻊﻨﺻا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/11/Entry 2",
+      "arabic": "ابنِ 9 أساسات للمنزل على الأقل",
+      "display": "ﻞﻗﻷا ىﻠﻋ لﺰﻨﻤﻠﻟ تﺎﺳﺎﺳأ 9 ﻦﺑا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/11/Entry 3",
+      "arabic": "ابنِ 9 جدران خارجية على الأقل",
+      "display": "ﻞﻗﻷا ىﻠﻋ ﺔﻴﺟرﺎﺧ نارﺪﺟ 9 ﻦﺑا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/11/Entry 4",
+      "arabic": "ابنِ جدارين خارجيين على الأقل مع نافذة",
+      "display": "ةﺬﻓﺎﻧ ﻊﻣ ﻞﻗﻷا ىﻠﻋ ﻦﻴﻴﺟرﺎﺧ ﻦﻳراﺪﺟ ﻦﺑا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/11/Entry 5",
+      "arabic": "اصنع النوافذ وضعها في أماكنها",
+      "display": "ﺎﻬﻨﻛﺎﻣأ ﻲﻓ ﺎﻬﻌﺿو ﺬﻓاﻮﻨﻟا ﻊﻨﺻا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/11/Entry 6",
+      "arabic": "ابنِ جدارًا خارجيًا واحدًا على الأقل مع باب",
+      "display": "بﺎﺑ ﻊﻣ ﻞﻗﻷا ىﻠﻋ اﺪﺣاو ﺎﻴﺟرﺎﺧ اراﺪﺟ ﻦﺑا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/11/Entry 7",
+      "arabic": "اصنع بابًا وضعه في مكانه",
+      "display": "ﻪﻧﺎﻜﻣ ﻲﻓ ﻪﻌﺿو ﺎﺑﺎﺑ ﻊﻨﺻا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/11/Entry 8",
+      "arabic": "اصنع وضع عتبة عند الباب",
+      "display": "بﺎﺒﻟا ﺪﻨﻋ ﺔﺒﺘﻋ ﻊﺿو ﻊﻨﺻا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/11/Entry 9",
+      "arabic": "أضف سقفًا",
+      "display": "ﺎﻔﻘﺳ ﻒﺿأ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/12/Description",
+      "arabic": "تتصل جيجي لطلب توصيل من مقر NovaGen. في طريق الخروج، ستعرفك على كريس وتحصلان على أول تجربة لكما حول ما تدور حوله NovaGen. بعد اللقاء والترحيب، اصطحب جيجي إلى المنزل، ثم انتقل إلى سوق ليفي لشراء بذور إضافية وتوسيع حقولك.",
+      "display": ".ﻚﻟﻮﻘﺣ ﻊﻴﺳﻮﺗو ﺔﻴﻓﺎﺿإ روﺬﺑ ءاﺮﺸﻟ ﻲﻔﻴﻟ قﻮﺳ ىﻟإ ﻞﻘﺘﻧا ﻢﺛ ،لﺰﻨﻤﻟا ىﻟإ ﻲﺠﻴﺟ ﺐﺤﻄﺻا ،ﺐﻴﺣﺮﺘﻟاو ءﺎﻘﻠﻟا ﺪﻌﺑ .NovaGen ﻪﻟﻮﺣ روﺪﺗ ﺎﻣ لﻮﺣ ﺎﻤﻜﻟ ﺔﺑﺮﺠﺗ لوأ ىﻠﻋ نﻼﺼﺤﺗو ﺲﻳﺮﻛ ىﻠﻋ ﻚﻓﺮﻌﺘﺳ ،جوﺮﺨﻟا ﻖﻳﺮﻃ ﻲﻓ .NovaGen ﺮﻘﻣ ﻦﻣ ﻞﻴﺻﻮﺗ ﺐﻠﻄﻟ ﻲﺠﻴﺟ ﻞﺼﺘﺗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/12/Display Name",
+      "arabic": "رحلة واكتشاف",
+      "display": "فﺎﺸﺘﻛاو ﺔﻠﺣر"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/12/Entry 1",
+      "arabic": "اذهب إلى مقر NovaGen",
+      "display": "NovaGen ﺮﻘﻣ ىﻟإ ﺐﻫذا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/12/Entry 2",
+      "arabic": "تحدّث مع جيجي",
+      "display": "ﻲﺠﻴﺟ ﻊﻣ ثﺪﺤﺗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/12/Entry 3",
+      "arabic": "تحدّث مع كريس",
+      "display": "ﺲﻳﺮﻛ ﻊﻣ ثﺪﺤﺗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/12/Entry 4",
+      "arabic": "تحدّث مع جيجي مرة أخرى",
+      "display": "ىﺮﺧأ ةﺮﻣ ﻲﺠﻴﺟ ﻊﻣ ثﺪﺤﺗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/12/Entry 5",
+      "arabic": "اذهب إلى سوق ليفي",
+      "display": "ﻲﻔﻴﻟ قﻮﺳ ىﻟإ ﺐﻫذا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/12/Entry 6",
+      "arabic": "اشترِ المزيد من البذور",
+      "display": "روﺬﺒﻟا ﻦﻣ ﺪﻳﺰﻤﻟا ﺮﺘﺷا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/12/Entry 7",
+      "arabic": "أوصل جيجي إلى المنزل",
+      "display": "لﺰﻨﻤﻟا ىﻟإ ﻲﺠﻴﺟ ﻞﺻوأ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/12/Entry 8",
+      "arabic": "قل وداعًا لجيجي",
+      "display": "ﻲﺠﻴﺠﻟ ﺎﻋادو ﻞﻗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/13/Description",
+      "arabic": "قم بتنمية كلا الجانبين من الدفتر: احصل على المزيد من قطع الأراضي المزروعة وادفع مدخراتك المصرفية. قم بالتخزين في سوق ليفي، وحافظ على سقي تلك الأراضي، واستفد من المحاصيل حتى يتم تحقيق كلا الهدفين.",
+      "display": ".ﻦﻴﻓﺪﻬﻟا ﻼﻛ ﻖﻴﻘﺤﺗ ﻢﺘﻳ ىﺘﺣ ﻞﻴﺻﺎﺤﻤﻟا ﻦﻣ ﺪﻔﺘﺳاو ،ﻲﺿارﻷا ﻚﻠﺗ ﻲﻘﺳ ىﻠﻋ ﻆﻓﺎﺣو ،ﻲﻔﻴﻟ قﻮﺳ ﻲﻓ ﻦﻳﺰﺨﺘﻟﺎﺑ ﻢﻗ .ﺔﻴﻓﺮﺼﻤﻟا ﻚﺗاﺮﺧﺪﻣ ﻊﻓداو ﺔﻋورﺰﻤﻟا ﻲﺿارﻷا ﻊﻄﻗ ﻦﻣ ﺪﻳﺰﻤﻟا ىﻠﻋ ﻞﺼﺣا :ﺮﺘﻓﺪﻟا ﻦﻣ ﻦﻴﺒﻧﺎﺠﻟا ﻼﻛ ﺔﻴﻤﻨﺘﺑ ﻢﻗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/13/Display Name",
+      "arabic": "رأس المال المخصص للبذور",
+      "display": "روﺬﺒﻠﻟ ﺺﺼﺨﻤﻟا لﺎﻤﻟا سأر"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/13/Entry 1",
+      "arabic": "احصل على 32 قطعة أرض مزروعة على الأقل",
+      "display": "ﻞﻗﻷا ىﻠﻋ ﺔﻋورﺰﻣ ضرأ ﺔﻌﻄﻗ 32 ىﻠﻋ ﻞﺼﺣا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/13/Entry 2",
+      "arabic": "احتفظ بـ 10500 C على الأقل في حسابك",
+      "display": "ﻚﺑﺎﺴﺣ ﻲﻓ ﻞﻗﻷا ىﻠﻋ C 10500 ـﺑ ﻆﻔﺘﺣا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/14/Description",
+      "arabic": "اشترِ مخطط القن من ميريام وقم ببنائه. ثم قابل أنجيلا لشراء الديك والدجاج، وضعهم في قنك الجديد. تهانينا، لقد أضفت للتو قوة الدواجن إلى مزرعتك!",
+      "display": "!ﻚﺘﻋرﺰﻣ ىﻟإ ﻦﺟاوﺪﻟا ةﻮﻗ ﻮﺘﻠﻟ ﺖﻔﺿأ ﺪﻘﻟ ،ﺎﻨﻴﻧﺎﻬﺗ .ﺪﻳﺪﺠﻟا ﻚﻨﻗ ﻲﻓ ﻢﻬﻌﺿو ،جﺎﺟﺪﻟاو ﻚﻳﺪﻟا ءاﺮﺸﻟ ﻼﻴﺠﻧأ ﻞﺑﺎﻗ ﻢﺛ .ﻪﺋﺎﻨﺒﺑ ﻢﻗو مﺎﻳﺮﻴﻣ ﻦﻣ ﻦﻘﻟا ﻂﻄﺨﻣ ﺮﺘﺷا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/14/Display Name",
+      "arabic": "أحلام القن",
+      "display": "ﻦﻘﻟا مﻼﺣأ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/14/Entry 1",
+      "arabic": "اجمع 15 حجرًا",
+      "display": "اﺮﺠﺣ 15 ﻊﻤﺟا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/14/Entry 2",
+      "arabic": "اجمع 20 جذعًا خشبيًا",
+      "display": "ﺎﻴﺒﺸﺧ ﺎﻋﺬﺟ 20 ﻊﻤﺟا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/14/Entry 3",
+      "arabic": "اجمع 15 حزمة من القش",
+      "display": "ﺶﻘﻟا ﻦﻣ ﺔﻣﺰﺣ 15 ﻊﻤﺟا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/14/Entry 4",
+      "arabic": "وفر 5760 C على الأقل",
+      "display": "ﻞﻗﻷا ىﻠﻋ C 5760 ﺮﻓو"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/14/Entry 5",
+      "arabic": "اشترِ مخطط القن من ميريام",
+      "display": "مﺎﻳﺮﻴﻣ ﻦﻣ ﻦﻘﻟا ﻂﻄﺨﻣ ﺮﺘﺷا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/14/Entry 6",
+      "arabic": "بناء قن الدجاج",
+      "display": "جﺎﺟﺪﻟا ﻦﻗ ءﺎﻨﺑ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/14/Entry 7",
+      "arabic": "اذهب إلى مزرعة أنجيلا",
+      "display": "ﻼﻴﺠﻧأ ﺔﻋرﺰﻣ ىﻟإ ﺐﻫذا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/14/Entry 8",
+      "arabic": "اشترِ دجاجتين على الأقل",
+      "display": "ﻞﻗﻷا ىﻠﻋ ﻦﻴﺘﺟﺎﺟد ﺮﺘﺷا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/14/Entry 9",
+      "arabic": "ضعهما في قن دجاجاتك",
+      "display": "ﻚﺗﺎﺟﺎﺟد ﻦﻗ ﻲﻓ ﺎﻤﻬﻌﺿ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/15/Description",
+      "arabic": "يريد سكوت أن تكون فاتورتك تحت السيطرة. تفضل بزيارة قاعة المدينة وقابل مريم، واشترِ مخطط الألواح الشمسية، واصنع الألواح، وضعها في مكان مشمس، وقم بتوصيلها بخطك. قلل من استهلاكك، وكن صديقًا للبيئة، واكسب الأرصدة عندما يتدفق فائضك مرة أخرى إلى المدينة.",
+      "display": ".ﺔﻨﻳﺪﻤﻟا ىﻟإ ىﺮﺧأ ةﺮﻣ ﻚﻀﺋﺎﻓ ﻖﻓﺪﺘﻳ ﺎﻣﺪﻨﻋ ةﺪﺻرﻷا ﺐﺴﻛاو ،ﺔﺌﻴﺒﻠﻟ ﺎﻘﻳﺪﺻ ﻦﻛو ،ﻚﻛﻼﻬﺘﺳا ﻦﻣ ﻞﻠﻗ .ﻚﻄﺨﺑ ﺎﻬﻠﻴﺻﻮﺘﺑ ﻢﻗو ،ﺲﻤﺸﻣ نﺎﻜﻣ ﻲﻓ ﺎﻬﻌﺿو ،حاﻮﻟﻷا ﻊﻨﺻاو ،ﺔﻴﺴﻤﺸﻟا حاﻮﻟﻷا ﻂﻄﺨﻣ ﺮﺘﺷاو ،ﻢﻳﺮﻣ ﻞﺑﺎﻗو ﺔﻨﻳﺪﻤﻟا ﺔﻋﺎﻗ ةرﺎﻳﺰﺑ ﻞﻀﻔﺗ .ةﺮﻄﻴﺴﻟا ﺖﺤﺗ ﻚﺗرﻮﺗﺎﻓ نﻮﻜﺗ نأ تﻮﻜﺳ ﺪﻳﺮﻳ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/15/Display Name",
+      "arabic": "ترويض العداد!",
+      "display": "!داﺪﻌﻟا ﺾﻳوﺮﺗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/15/Entry 1",
+      "arabic": "تحقق من عداد الكهرباء ولاحظ وحدات الطاقة اليومية.",
+      "display": ".ﺔﻴﻣﻮﻴﻟا ﺔﻗﺎﻄﻟا تاﺪﺣو ﻆﺣﻻو ءﺎﺑﺮﻬﻜﻟا داﺪﻋ ﻦﻣ ﻖﻘﺤﺗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/15/Entry 2",
+      "arabic": "اشترِ العديد من مخططات الألواح الشمسية حسب حاجتك من مريم.",
+      "display": ".ﻢﻳﺮﻣ ﻦﻣ ﻚﺘﺟﺎﺣ ﺐﺴﺣ ﺔﻴﺴﻤﺸﻟا حاﻮﻟﻷا تﺎﻄﻄﺨﻣ ﻦﻣ ﺪﻳﺪﻌﻟا ﺮﺘﺷا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/15/Entry 3",
+      "arabic": "ضع الألواح الشمسية وقم ببنائها.",
+      "display": ".ﺎﻬﺋﺎﻨﺒﺑ ﻢﻗو ﺔﻴﺴﻤﺸﻟا حاﻮﻟﻷا ﻊﺿ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/15/Entry 4",
+      "arabic": "اجعل مزرعتك موفرة للكهرباء.",
+      "display": ".ءﺎﺑﺮﻬﻜﻠﻟ ةﺮﻓﻮﻣ ﻚﺘﻋرﺰﻣ ﻞﻌﺟا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/16/Description",
+      "arabic": "اكتشف ما يمكن أن تفعله الرعاية العضوية. اجمع اثنتي عشرة بيضة من دجاجاتك وقم بتسليمها إلى الموقع المثبت على هاتفك. ستضيف جيجي عينتك إلى مقارنة NovaGen وترسل لك مكافأة صغيرة.",
+      "display": ".ةﺮﻴﻐﺻ ةﺄﻓﺎﻜﻣ ﻚﻟ ﻞﺳﺮﺗو NovaGen ﺔﻧرﺎﻘﻣ ىﻟإ ﻚﺘﻨﻴﻋ ﻲﺠﻴﺟ ﻒﻴﻀﺘﺳ .ﻚﻔﺗﺎﻫ ىﻠﻋ ﺖﺒﺜﻤﻟا ﻊﻗﻮﻤﻟا ىﻟإ ﺎﻬﻤﻴﻠﺴﺘﺑ ﻢﻗو ﻚﺗﺎﺟﺎﺟد ﻦﻣ ﺔﻀﻴﺑ ةﺮﺸﻋ ﻲﺘﻨﺛا ﻊﻤﺟا .ﺔﻳﻮﻀﻌﻟا ﺔﻳﺎﻋﺮﻟا ﻪﻠﻌﻔﺗ نأ ﻦﻜﻤﻳ ﺎﻣ ﻒﺸﺘﻛا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/16/Display Name",
+      "arabic": "بيض حقيقي، دليل حقيقي!",
+      "display": "!ﻲﻘﻴﻘﺣ ﻞﻴﻟد ،ﻲﻘﻴﻘﺣ ﺾﻴﺑ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/16/Entry 1",
+      "arabic": "اجمع بيضتي دجاج عضوي كبيرتين من حظيرتك",
+      "display": "ﻚﺗﺮﻴﻈﺣ ﻦﻣ ﻦﻴﺗﺮﻴﺒﻛ يﻮﻀﻋ جﺎﺟد ﻲﺘﻀﻴﺑ ﻊﻤﺟا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/16/Entry 2",
+      "arabic": "التقِ بجيجي",
+      "display": "ﻲﺠﻴﺠﺑ ﻖﺘﻟا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/16/Entry 3",
+      "arabic": "اهرب من الشرطة!",
+      "display": "!ﺔﻃﺮﺸﻟا ﻦﻣ بﺮﻫا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/16/Entry 4",
+      "arabic": "أوصل جيجي إلى المنزل",
+      "display": "لﺰﻨﻤﻟا ىﻟإ ﻲﺠﻴﺟ ﻞﺻوأ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/16/Entry 5",
+      "arabic": "تحدّث إلى جيجي",
+      "display": "ﻲﺠﻴﺟ ىﻟإ ثﺪﺤﺗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/2/Description",
+      "arabic": "اتبع ميريام وقم بالقيادة إلى مزرعتك",
+      "display": "ﻚﺘﻋرﺰﻣ ىﻟإ ةدﺎﻴﻘﻟﺎﺑ ﻢﻗو مﺎﻳﺮﻴﻣ ﻊﺒﺗا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/2/Display Name",
+      "arabic": "بداية جديدة!",
+      "display": "!ةﺪﻳﺪﺟ ﺔﻳاﺪﺑ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/2/Entry 1",
+      "arabic": "تول القيادة في سيارة ميريام",
+      "display": "مﺎﻳﺮﻴﻣ ةرﺎﻴﺳ ﻲﻓ ةدﺎﻴﻘﻟا لﻮﺗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/2/Entry 2",
+      "arabic": "انتظر حتى تدخل ميريام السيارة",
+      "display": "ةرﺎﻴﺴﻟا مﺎﻳﺮﻴﻣ ﻞﺧﺪﺗ ىﺘﺣ ﺮﻈﺘﻧا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/2/Entry 3",
+      "arabic": "قم بالقيادة إلى مزرعتك",
+      "display": "ﻚﺘﻋرﺰﻣ ىﻟإ ةدﺎﻴﻘﻟﺎﺑ ﻢﻗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/2/Entry 4",
+      "arabic": "اخرج من سيارة ميريام",
+      "display": "مﺎﻳﺮﻴﻣ ةرﺎﻴﺳ ﻦﻣ جﺮﺧا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/2/Entry 5",
+      "arabic": "تحدث إلى ميريام",
+      "display": "مﺎﻳﺮﻴﻣ ىﻟإ ثﺪﺤﺗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/3/Description",
+      "arabic": "أعطتك ميريام المطرقة ومخطط الخيمة. حان دورك الآن لتشييد ملجأك وأخذ قسط من الراحة بعد رحلتك.",
+      "display": ".ﻚﺘﻠﺣر ﺪﻌﺑ ﺔﺣاﺮﻟا ﻦﻣ ﻂﺴﻗ ﺬﺧأو كﺄﺠﻠﻣ ﺪﻴﻴﺸﺘﻟ نآﻟا كرود نﺎﺣ .ﺔﻤﻴﺨﻟا ﻂﻄﺨﻣو ﺔﻗﺮﻄﻤﻟا مﺎﻳﺮﻴﻣ ﻚﺘﻄﻋأ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/3/Display Name",
+      "arabic": "من المخطط إلى السرير",
+      "display": "ﺮﻳﺮﺴﻟا ىﻟإ ﻂﻄﺨﻤﻟا ﻦﻣ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/3/Entry 1",
+      "arabic": "جهز مخطط الخيمة",
+      "display": "ﺔﻤﻴﺨﻟا ﻂﻄﺨﻣ ﺰﻬﺟ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/3/Entry 2",
+      "arabic": "ضع مخطط خيمتك في أي مكان تريده",
+      "display": "هﺪﻳﺮﺗ نﺎﻜﻣ يأ ﻲﻓ ﻚﺘﻤﻴﺧ ﻂﻄﺨﻣ ﻊﺿ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/3/Entry 3",
+      "arabic": "اطرق على مخطط الخيمة!",
+      "display": "!ﺔﻤﻴﺨﻟا ﻂﻄﺨﻣ ىﻠﻋ قﺮﻃا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/3/Entry 4",
+      "arabic": "نم في الخيمة للراحة",
+      "display": "ﺔﺣاﺮﻠﻟ ﺔﻤﻴﺨﻟا ﻲﻓ ﻢﻧ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/4/Description",
+      "arabic": "في يومك الأول، يتصل بك فيكتور للترحيب بك ويكشف عن المكان الذي خزنت فيه عائلته فأسًا ومعولًا قديمين.",
+      "display": ".ﻦﻴﻤﻳﺪﻗ ﻻﻮﻌﻣو ﺎﺳﺄﻓ ﻪﺘﻠﺋﺎﻋ ﻪﻴﻓ ﺖﻧﺰﺧ يﺬﻟا نﺎﻜﻤﻟا ﻦﻋ ﻒﺸﻜﻳو ﻚﺑ ﺐﻴﺣﺮﺘﻠﻟ رﻮﺘﻜﻴﻓ ﻚﺑ ﻞﺼﺘﻳ ،لوﻷا ﻚﻣﻮﻳ ﻲﻓ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/4/Display Name",
+      "arabic": "الفأس، اختر و ترحيب!",
+      "display": "!ﺐﻴﺣﺮﺗ و ﺮﺘﺧا ،سﺄﻔﻟا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/4/Entry 1",
+      "arabic": "اعثر على الفأس",
+      "display": "سﺄﻔﻟا ىﻠﻋ ﺮﺜﻋا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/4/Entry 2",
+      "arabic": "اعثر على المعول",
+      "display": "لﻮﻌﻤﻟا ىﻠﻋ ﺮﺜﻋا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/4/Entry 3",
+      "arabic": "اجمع 15 جذعًا خشبيًا",
+      "display": "ﺎﻴﺒﺸﺧ ﺎﻋﺬﺟ 15 ﻊﻤﺟا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/4/Entry 4",
+      "arabic": "اجمع 15 حجرًا",
+      "display": "اﺮﺠﺣ 15 ﻊﻤﺟا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/5/Description",
+      "arabic": "تتميز مزرعتك الآن بصندوق Ca$h-In، وهو رابطك المباشر إلى Ca$h-In Corp. اقترب منه وتفاعل معه وأودع أي عنصر تريد بيعه. أموال سهلة، مضمونة!",
+      "display": "!ﺔﻧﻮﻤﻀﻣ ،ﺔﻠﻬﺳ لاﻮﻣأ .ﻪﻌﻴﺑ ﺪﻳﺮﺗ ﺮﺼﻨﻋ يأ عدوأو ﻪﻌﻣ ﻞﻋﺎﻔﺗو ﻪﻨﻣ بﺮﺘﻗا .Cash-In Corp ىﻟإ ﺮﺷﺎﺒﻤﻟا ﻚﻄﺑار ﻮﻫو ،Cash-In قوﺪﻨﺼﺑ نآﻟا ﻚﺘﻋرﺰﻣ ﺰﻴﻤﺘﺗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/5/Display Name",
+      "arabic": "قم بالتسليم والربح، في اليوم التالي!",
+      "display": "!ﻲﻟﺎﺘﻟا مﻮﻴﻟا ﻲﻓ ،ﺢﺑﺮﻟاو ﻢﻴﻠﺴﺘﻟﺎﺑ ﻢﻗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/5/Entry 1",
+      "arabic": "قم بإيداع جذوع الأشجار والأحجار في صندوق Cash-In.",
+      "display": ".Cash-In قوﺪﻨﺻ ﻲﻓ رﺎﺠﺣﻷاو رﺎﺠﺷﻷا عوﺬﺟ عاﺪﻳﺈﺑ ﻢﻗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/6/Description",
+      "arabic": "يمكنك العثور على جيجي بالقرب من قطع أراضيها الزراعية التجريبية وسكوت بالقرب من خط سياج المزرعة. شارك المقدمات، واستمع إلى قصصهم، واستمتع بحكمتهم الترحيبية - تبدأ حياتك الجديدة في هارفيست هيلز بهذه الأدلة المحلية.",
+      "display": ".ﺔﻴﻠﺤﻤﻟا ﺔﻟدﻷا هﺬﻬﺑ ﺰﻠﻴﻫ ﺖﺴﻴﻓرﺎﻫ ﻲﻓ ةﺪﻳﺪﺠﻟا ﻚﺗﺎﻴﺣ أﺪﺒﺗ - ﺔﻴﺒﻴﺣﺮﺘﻟا ﻢﻬﺘﻤﻜﺤﺑ ﻊﺘﻤﺘﺳاو ،ﻢﻬﺼﺼﻗ ىﻟإ ﻊﻤﺘﺳاو ،تﺎﻣﺪﻘﻤﻟا كرﺎﺷ .ﺔﻋرﺰﻤﻟا جﺎﻴﺳ ﻂﺧ ﻦﻣ بﺮﻘﻟﺎﺑ تﻮﻜﺳو ﺔﻴﺒﻳﺮﺠﺘﻟا ﺔﻴﻋارﺰﻟا ﺎﻬﻴﺿارأ ﻊﻄﻗ ﻦﻣ بﺮﻘﻟﺎﺑ ﻲﺠﻴﺟ ىﻠﻋ رﻮﺜﻌﻟا ﻚﻨﻜﻤﻳ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/6/Display Name",
+      "arabic": "الجيران المجاورون",
+      "display": "نوروﺎﺠﻤﻟا ناﺮﻴﺠﻟا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/6/Entry 1",
+      "arabic": "التقِ بجيجي",
+      "display": "ﻲﺠﻴﺠﺑ ﻖﺘﻟا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/6/Entry 2",
+      "arabic": "التقِ بسكوت",
+      "display": "تﻮﻜﺴﺑ ﻖﺘﻟا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/7/Description",
+      "arabic": "أمسك مجرفتك الموثوقة وقم بإعداد عشرة أقسام من الأرض عن طريق حرث كل منها. اضغط على بذرة في كل أخدود، وانقعها جيدًا، وشاهد مستقبل مزرعتك يتجذر. يبدأ النجاح هنا في التربة!",
+      "display": "!ﺔﺑﺮﺘﻟا ﻲﻓ ﺎﻨﻫ حﺎﺠﻨﻟا أﺪﺒﻳ .رﺬﺠﺘﻳ ﻚﺘﻋرﺰﻣ ﻞﺒﻘﺘﺴﻣ ﺪﻫﺎﺷو ،اﺪﻴﺟ ﺎﻬﻌﻘﻧاو ،دوﺪﺧأ ﻞﻛ ﻲﻓ ةرﺬﺑ ىﻠﻋ ﻂﻐﺿا .ﺎﻬﻨﻣ ﻞﻛ ثﺮﺣ ﻖﻳﺮﻃ ﻦﻋ ضرﻷا ﻦﻣ مﺎﺴﻗأ ةﺮﺸﻋ داﺪﻋﺈﺑ ﻢﻗو ﺔﻗﻮﺛﻮﻤﻟا ﻚﺘﻓﺮﺠﻣ ﻚﺴﻣأ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/7/Display Name",
+      "arabic": "بذور النجاح",
+      "display": "حﺎﺠﻨﻟا روﺬﺑ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/7/Entry 1",
+      "arabic": "عد إلى مزرعتك",
+      "display": "ﻚﺘﻋرﺰﻣ ىﻟإ ﺪﻋ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/7/Entry 2",
+      "arabic": "جهز مجرفتك",
+      "display": "ﻚﺘﻓﺮﺠﻣ ﺰﻬﺟ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/7/Entry 3",
+      "arabic": "احرث التربة باستخدام مجرفتك",
+      "display": "ﻚﺘﻓﺮﺠﻣ ماﺪﺨﺘﺳﺎﺑ ﺔﺑﺮﺘﻟا ثﺮﺣا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/7/Entry 4",
+      "arabic": "ازرع البذور",
+      "display": "روﺬﺒﻟا عرزا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/7/Entry 5",
+      "arabic": "اسقِ البذور باستخدام إناء الري",
+      "display": "يﺮﻟا ءﺎﻧإ ماﺪﺨﺘﺳﺎﺑ روﺬﺒﻟا ﻖﺳا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/7/Entry 6",
+      "arabic": "احصل على 16 قطعة أرض مزروعة",
+      "display": "ﺔﻋورﺰﻣ ضرأ ﺔﻌﻄﻗ 16 ىﻠﻋ ﻞﺼﺣا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/8/Description",
+      "arabic": "تشارك جيجي نصيحة حيوية لحماية محاصيلك من الطيور الجائعة. اصنع الفزاعات لحماية مزرعتك وإبعاد هؤلاء الأعداء ذوي الريش!",
+      "display": "!ﺶﻳﺮﻟا يوذ ءاﺪﻋﻷا ءﻻﺆﻫ دﺎﻌﺑإو ﻚﺘﻋرﺰﻣ ﺔﻳﺎﻤﺤﻟ تﺎﻋاﺰﻔﻟا ﻊﻨﺻا .ﺔﻌﺋﺎﺠﻟا رﻮﻴﻄﻟا ﻦﻣ ﻚﻠﻴﺻﺎﺤﻣ ﺔﻳﺎﻤﺤﻟ ﺔﻳﻮﻴﺣ ﺔﺤﻴﺼﻧ ﻲﺠﻴﺟ كرﺎﺸﺗ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/8/Display Name",
+      "arabic": "الأعداء ذوي الريش",
+      "display": "ﺶﻳﺮﻟا يوذ ءاﺪﻋﻷا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/8/Entry 1",
+      "arabic": "اصنع فزاعتين",
+      "display": "ﻦﻴﺘﻋاﺰﻓ ﻊﻨﺻا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/8/Entry 2",
+      "arabic": "ابنِ الفزاعتين",
+      "display": "ﻦﻴﺘﻋاﺰﻔﻟا ﻦﺑا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/9/Description",
+      "arabic": "مزرعتك تخفي كنزًا منسيًا - سيارة فيكتور القديمة. اعمل على إصلاحها!",
+      "display": "!ﺎﻬﺣﻼﺻإ ىﻠﻋ ﻞﻤﻋا .ﺔﻤﻳﺪﻘﻟا رﻮﺘﻜﻴﻓ ةرﺎﻴﺳ - ﺎﻴﺴﻨﻣ اﺰﻨﻛ ﻲﻔﺨﺗ ﻚﺘﻋرﺰﻣ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/9/Display Name",
+      "arabic": "من الصدأ إلى التشغيل بكامل قوتها!",
+      "display": "!ﺎﻬﺗﻮﻗ ﻞﻣﺎﻜﺑ ﻞﻴﻐﺸﺘﻟا ىﻟإ أﺪﺼﻟا ﻦﻣ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/9/Entry 1",
+      "arabic": "وفر 3000 C على الأقل في البنك",
+      "display": "ﻚﻨﺒﻟا ﻲﻓ ﻞﻗﻷا ىﻠﻋ C 3000 ﺮﻓو"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/9/Entry 2",
+      "arabic": "إصلاح سيارة فيكتور القديمة",
+      "display": "ﺔﻤﻳﺪﻘﻟا رﻮﺘﻜﻴﻓ ةرﺎﻴﺳ حﻼﺻإ"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/9/Entry 3",
+      "arabic": "استأجر دراجة من Bykii",
+      "display": "Bykii ﻦﻣ ﺔﺟارد ﺮﺟﺄﺘﺳا"
+    },
+    {
+      "term_key": "Dialogue System/Item-Quest/9/Entry 4",
+      "arabic": "استلم سيارتك الجديدة!",
+      "display": "!ةﺪﻳﺪﺠﻟا ﻚﺗرﺎﻴﺳ ﻢﻠﺘﺳا"
+    }
+  ]
+}
